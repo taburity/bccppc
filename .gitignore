@@ -1,0 +1,15 @@
+*.log
+*.toc
+*.lot
+*.lof
+*.ind
+*.ilg
+*.idx
+*.syntex.gz
+*.fdb_latexmk
+*.blg
+*.brf
+*.bbl
+*.aux
+*.autosave
+*~
