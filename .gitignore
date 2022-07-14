@@ -12,4 +12,7 @@
 *.bbl
 *.aux
 *.autosave
+*.fls
+*.synctex.gz
+CHANGELOG.md
 *~
