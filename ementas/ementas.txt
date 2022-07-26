@@ -1,0 +1,3946 @@
+---
+
+DISCIPLINA: Cálculo para Computação I CÓDIGO:\\
+DEPARTAMENTO: Unidade Acadêmica de Garanhuns\\
+ÁREA:\\
+CARGA HORÁRIA TOTAL: 60 NÚMERO DE CRÉDITOS: 04\\
+CARGA HORÁRIA SEMANAL: 04 TEÓRICAS: 04 PRÁTICAS: 00 TOTAL:04\\
+PRÉ-REQUISITOS: não há\\
+CO-REQUISITOS:não há
+
+EMENTA
+
+Conjuntos numéricos. Funções elementares: linear, afim, quadrática,
+modular. Funções diretas e inversas. Funções exponenciais e
+logarítmicas. Introdução à trigonometria. Funções trigonométricas.
+Limite e continuidade. Derivadas e aplicações.
+
+
+Básica:
+
+STEWART, JAMES. Cálculo, vol 1, Editora Pioneira Thomson Learning,
+2001.\\
+ANTON, HOWARD. Cálculo, um novo horizonte, vol 1, 6. edição, Editora
+Bookman; reimpressão 2004.\\
+GUIDORIZZI, HAMILTON L.. Um Curso de Cálculo, vol.1, 5. edição, Ao Livro
+Técnico S.A., 2002.\\
+Complementar:\\
+LEITHOLD, LOUIS. Cálculo com Geometria Analítica, vol. 1, 3. edição,
+Editora Harbra, 2002.\\
+SWOKOSWKI, E. William. Cálculo com Geometria Analítica, vol. 1, 2.
+edição, Editora Makron Books do Brasil, 1995.\\
+
+---
+
+DISCIPLINA: Geometria Analítica CÓDIGO:\\
+DEPARTAMENTO: Unidade Acadêmica de Garanhuns\\
+ÁREA:\\
+CARGA HORÁRIA TOTAL: 60 HORAS NÚMERO DE CRÉDITOS: 04\\
+CARGA HORÁRIA SEMANAL: 04 TEÓRICAS: 04 PRÁTICAS: 00 TOTAL: 04\\
+PRÉ-REQUISITOS: não há\\
+CO-REQUISITOS: não há
+
+EMENTA
+
+Vetores no $R^2$; Produto interno no $R^2$; Estudo da reta no $R^2$; Lugares geométricos no $R^2$ (circunferência, elipse, parábola e hipérbole); Vetores no R3; Produto interno no $R^3$, vetorial e misto; Aplicações: áreas e volumes; Equação da reta no $R^3$ e equação do plano; Equação da superfície esférica.
+
+
+Básica:\\
+BOULOS, P. Geometria Analítica: um tratamento vetorial, Mc-Graw Hill, 1987.\\
+STEINBUCH, Alfredo e WINTERLE, Paulo - Geometria Analítica, Mc Graw-Hill, 1987.\\
+LEITHOLD, L. O Cálculo com geometria analítica. v. 2. 3 ed. São Paulo :
+Harbra, 1994.\\
+Complementar:\\
+VENTURI, J.   Álgebra Vetorial e Geometria Analítica, Editora UFPR, Curitiba, 1989.\\
+
+---
+
+DISCIPLINA: Lógica Matemática CÓDIGO:\\
+DEPARTAMENTO: Unidade Acadêmica de Garanhuns\\
+ÁREA: \\
+CARGA HORÁRIA TOTAL: 60 NÚMERO DE CRÉDITOS: 04\\
+CARGA HORÁRIA SEMANAL: 04 TEÓRICAS: 04 PRÁTICAS: 00 TOTAL: 04\\
+PRÉ-REQUISITOS: não há\\
+CO-REQUISITOS: não há
+
+EMENTA
+
+Proposições e conectivos; Operações lógicas sobre proposições;
+Construção de tabelas-verdade; Tautologias, contradições e
+contingencias; Implicação lógica; Equivalência lógica; Álgebra das
+proposições; Método dedutivo; Argumentos, regras de inferência;
+Validade mediante tabela verdade; Validade mediante regras de
+inferência; Métodos de demonstrações; Sentenças abertas; Operações
+lógicas sobre sentenças abertas; Quantificadores.
+
+
+Básica: \\
+GERSTING, JUDITH L. Fundamentos matemáticos para a ciência da
+computação: um tratamento moderno de matemática discreta. LTC, 2008.\\
+ALENCAR FILHO, Edgard de, Iniciação à Lógica Matemática. 18. ed. 203 p,
+São Paulo : Nobel, 2000.\\
+DAGHLIAN, Jacob ; Lógica e Álgebra de Boole, 4. ed. 167 p., São Paulo :
+Atlas, 1995.\\
+Complementar: \\
+DEL PICCHIA, Walter; Métodos Numéricos para Resolução de Problemas
+Lógicos. São Paulo : Edgard Blücher, 1993.\\
+SALMON, Wesley C. Lógica, 3a Edição. Rio de Janeiro: LTC Editora, 2002.\\
+
+
+---
+
+DISCIPLINA: Introdução à Ciência da Computação CÓDIGO:\\
+DEPARTAMENTO: Unidade Acadêmica de Garanhuns\\
+ÁREA: \\
+CARGA HORÁRIA TOTAL: 30 NÚMERO DE CRÉDITOS: 02\\
+CARGA HORÁRIA SEMANAL: 02 TEÓRICAS: 02 PRÁTICAS: 00 TOTAL: 02\\
+PRÉ-REQUISITOS: não há\\
+CO-REQUISITOS: não há
+ 
+EMENTA 
+ 
+Introdução à Ciência da Computação: a ciência, o curso e a profissão.
+História e evolução da Ciência da Computação. Conceitos básicos.
+Classificação de sistemas computacionais. Noções de sistemas
+operacionais, redes, tipos de linguagens, compiladores e
+interpretadores. Tópicos complementares. Seminário.
+
+
+Básica:\\
+Introdução à Ciência da Computação; Ricardo Daniel Fedeli, Enrico
+Giulio, Franco Polloni, Fernando Eduardo Peres. Thomson Pioneira, 2010.
+2. Edição. ISBN 9788522108459.\\
+Introdução à informática; H. L. Capron, J. A. Johnson ; tradução José
+Carlos\\
+Barbosa dos Santos. São Paulo, SP : Prentice Hall, 2006. 8. Edição. ISBN: 8587918885.\\
+BROOKSHEAR, J. Glenn. Ciência da Computação: uma visão abrangente; Porto
+Alegre: Bookmam, 2005. 7. Edição. ISBN: 8573075376.\\
+Complementar:\\
+Introdução À Ciência da Computação; Fábio Carneiro Mokarzel; Nei
+Yoshihiro Soma. Editora Campus, 2008. 1. Edição. ISBN 8535218793.\\
+Introdução à informática, Peter Norton. Makron Books, 2005. ISBN
+8534605157.\\
+Informática Conceitos Básicos, Fernando de Castro Velloso. Campus, 2004.
+ISBN 8535215360.\\
+
+
+---
+
+DISCIPLINA: Introdução à Programação CÓDIGO:\\
+DEPARTAMENTO: Unidade Acadêmica de Garanhuns\\
+ÁREA: \\
+CARGA HORÁRIA TOTAL: 90 NÚMERO DE CRÉDITOS: 06\\
+CARGA HORÁRIA SEMANAL: 06 TEÓRICAS: 03 PRÁTICAS: 03 TOTAL: 06\\
+PRÉ-REQUISITOS: não há\\
+CO-REQUISITOS: não há
+
+EMENTA 
+
+Introdução a algoritmos e pseudocódigos. Introdução à programação
+imperativa: variáveis, constantes e expressões. Controle de fluxo de
+execução e repetição. Estruturas triviais de dados: vetores, matrizes e
+registros. Noções de funções. Comandos de atribuição e declaração de
+constantes, variáveis e tipos de dados. Expressões. Ponteiros.
+Instruções condicionais de controle de fluxo. Bibliotecas definidas
+pelo usuário. Recursividade. Alocação dinâmica de memória.
+
+
+Básica:\\\
+Fundamentos da programação de computadores. Ana Fernanda Gomes Ascencio,
+Edilene Aparecida Veneruchi de Campo. 2. Edição. Prentice Hall. ISBN
+8587918362. (2002).\\
+Lógica de Programação. A construção de Algoritmos e estruturas de dados.
+André Luiz e Henri Frederico. 3. Edição. Pearson. Prentice Hall. ISBN:
+8576050242.\\
+C Completo e Total. Herbert Schildt. Pearson, 3. Edição, 2009. ISBN.
+8534605955.\\
+Treinamento em Linguagem C. Victorine Viviane Mizrahi. 2. Edição.
+Prentice Hall.ISBN 9788576051916.\\
+Complementar:\\
+Introdução à programação: 500 algorítmos resolvidos. Anita Lopes e Guto
+Garcia. Campus. ISBN 8535210199 (2002).\\
+Algoritmos e Programação, Teoria e Prática. Marco Medina e Cristina
+Fertig. Novatec. ISBN 857522073X. (2005).\\
+Projetos de Algorítmos com implementações em C e pascal. Nivio Ziviani.
+Thomson Learning (Pioneira). ISBN 8522103909. (2004).\\
+\newpage
+
+\section*{2o. Período}
+
+---
+
+DISCIPLINA: Cálculo para Computação II CÓDIGO:\\ 
+DEPARTAMENTO: Unidade Acadêmica de Garanhuns\\
+ÁREA: \\
+CARGA HORÁRIA TOTAL: 60 NÚMERO DE CRÉDITOS: 04\\
+CARGA HORÁRIA SEMANAL: 04 TEÓRICAS: 04 PRÁTICAS: 00 TOTAL: 04\\
+PRÉ-REQUISITOS: Cálculo para Computação I\\
+CO-REQUISITOS: não há
+
+EMENTA 
+
+Integrais indefinidas, definidas e Integrais impróprias. Seqüências e
+séries numéricas. Série de potência. Curvas planas e coordenadas
+polares. Funções reais de várias variáveis, Limites e continuidade de
+funções de várias variáveis, derivadas parciais, diferenciabilidade,
+máximos e mínimos de funções. Integrais múltiplas.
+
+
+Básica: \\
+STEWART, James. Cálculo, vol 2, Editora Pioneira Thomson Learning, 2001.\\
+ANTON, Howard. Cálculo, um novo horizonte, vol 2; 6. edição, Editora
+Bookman; reimpressão 2004.\\
+GUIDORIZZI, Hamilton L. Um Curso de Cálculo, vol.2, 5. edição, Ao Livro
+Técnico S.A., 2002.\\
+Complementar:\\
+LEITHOLD, Louis. Cálculo com Geometria Analítica, vol. 2, 3a edição,
+Editora Harbra, 2002.\\
+SWOKOSWKI, Earl William. Cálculo com Geometria Analítica, vol. 1, 2.
+edição, Editora Makron Books do Brasil, 1995.\\
+
+
+---
+
+DISCIPLINA: Álgebra Linear CÓDIGO:\\ 
+DEPARTAMENTO: Unidade Acadêmica de Garanhuns\\
+ÁREA: \\
+CARGA HORÁRIA TOTAL: 60 HORAS NÚMERO DE CRÉDITOS: 04\\
+CARGA HORÁRIA SEMANAL: 04 TEÓRICAS: 04 PRÁTICAS: 00 TOTAL: 04\\
+PRÉ-REQUISITOS: Geometria Analítica\\
+CO-REQUISITOS: não há
+
+EMENTA 
+
+Vetores; Matrizes; Operações elementares e sistemas de equações; Espaços vetorias (subespaços, dependência e independência linear, base e
+dimensão, espaço linha, espaço coluna e posto, dimensão do conjunto solução de um sistema linear); Determinantes; Transformações lineares
+(núcleo e imagem, representação por matrizes, mudança de base, auto valor, auto vetor e diagonalização).
+
+
+Básica:\\
+STEINSBRUCH, Alfredo  Álgebra Linear. Editora: Makron Books.\\
+LIPSCHUTZ, Seymour  Álgebra Linear  Editora: Mc Graw Hill.\\
+BOLDRINI, J. L. Álgebra Linear. Harbra. 2006.\\
+Complementar:\\
+LAWSON, Terry. Álgebra Linear. Edgar Blucher. 2008.\\
+
+
+---
+
+DISCIPLINA: Algoritmos e Estruturas de Dados I CÓDIGO:\\ 
+DEPARTAMENTO: Unidade Acadêmica de Garanhuns\\
+ÁREA: \\
+CARGA HORÁRIA TOTAL: 60 HORAS NÚMERO DE CRÉDITOS: 04\\
+CARGA HORÁRIA SEMANAL: 04 TEÓRICAS: 02 PRÁTICAS: 02 TOTAL: 04\\
+PRÉ-REQUISITOS: Introdução à Programação\\
+CO-REQUISITOS: não há
+
+EMENTA 
+
+Resolução de problemas e desenvolvimento de algoritmosConceitos de C:
+Modularização de programas e tratamento de arquivo. Tipo de dado
+abstrato. Algoritmos de Ordenação e Busca. Estruturas de dados
+elaboradas (lista, fila e pilha) e seus algoritmos. Análise do
+problema, estratégias de solução, representação e documentação.
+
+
+Básica:\\
+TENENBAUM, A.; LANGSAM, Y. \& AUGENSTEIN, M.J.-Data Structures Using C
+And C++, 2nd Edition, Prentice-Hall, 1996.\\
+CELES ,W.; CERQUEIRA, R. e RANGEL, J.L.- Introdução a Estrutura de Dados
+Uma Introdução com Tecnicas de Programação em C, Coleção: Campus/SBC,
+Rio de Janeiro: Campus, 2004.\\
+Algoritmos e Estruturas de Dados. A. de M. Guimarães e N. A. de C.
+Lages. Editora LTC, 1994.\\
+Complementar:\\
+Estruturas de Dados e seus Algoritmos. J. L. Szwarcfiter e L.
+Markenzion. Segunda Edição. LTC, 1994.\\
+Desenvolvimento de Algoritmos e Estruturas de Dados. R. Terada, Makron
+Books, 1991.\\
+ZIVIANI, N., Projeto de Algoritmos: com implementação em Pascal e C, 2a
+Ed., Editora Thomson Pioneira, 2004.\\
+
+
+---
+
+DISCIPLINA: Programação Orientada a Objetos CÓDIGO:\\ 
+DEPARTAMENTO: Unidade Acadêmica de Garanhuns\\
+ÁREA: \\
+CARGA HORÁRIA TOTAL: 60 HORAS NÚMERO DE CRÉDITOS: 04\\
+CARGA HORÁRIA SEMANAL: 04 TEÓRICAS: 02 PRÁTICAS: 02 TOTAL: 04\\
+PRÉ-REQUISITOS: Introdução à Programação\\
+CO-REQUISITOS: não há
+
+EMENTA 
+
+Contextualização de Programação Orientada a Objetos. Conceitos de
+orientação a Objetos: Objetos, Operações, Mensagens, Métodos e Estados.
+Ambientes de Desenvolvimento de Software Orientado a Objetos. Classes,
+Métodos e Objetos. Tipo de Entrada de Dados. Tipo de Saída de Dados.
+Estruturas de Controle e Repetição. Modificadores de Classe e de
+Métodos. Construtores e Finalizadores. Herança Simples e Múltipla:
+Super e sub classes. Polimorfismo, Abstrações e Generalizações.
+Diagramas UML. Interface Gráfica com Usuário.
+
+
+Básica:\\
+Harvey M. Deitel, Paul J. Deitel. Java How to Program. Prentice Hall. 7.
+Edição, 2006. ISBN : 0132222205.\\
+Lynn Andrea Stein. Interactive Programming in Java, 2003.\\
+Bruce Eckel. Thinking in Java. Segunda edição, 2000.\\
+Complementar:\\
+Barnes, D. J., Kölling, M. Programação Orientada a Objetos com Java, Ed.
+Pearson/Prentice-Hall, 2004.\\
+Santos, R. Introdução à Programação Orientada à Objetos Usando Java, Ed.
+Campus, 2003.\\
+Cay S. Horstmann e Gary Cornell. Core Java 2, Volume I  Fundamentos.
+Sun Microsystems Press, Makron Books do Brasil, 2001.\\
+
+
+---
+
+DISCIPLINA: Física para Computação CÓDIGO:\\
+DEPARTAMENTO: Unidade Acadêmica de Garanhuns\\ ÁREA: \\
+CARGA HORÁRIA TOTAL: 60 HORAS NÚMERO DE CRÉDITOS: 04\\
+CARGA HORÁRIA SEMANAL: 04 TEÓRICAS: 02 PRÁTICAS: 02 TOTAL: 04\\
+PRÉ-REQUISITOS: Cálculo I para Computação\\
+CO-REQUISITOS: não há
+
+EMENTA 
+
+Conceito de: (a) Carga elétrica, (b) Campo elétrico, (c) Potencial
+elétrico, (d) corrente elétrica, (e) potência elétrica; Resistência
+elétrica e lei de Ohm; associação de resistores: associação em série e
+em paralelo, transformação estrela-triângulo; bateria elétrica;
+circuitos resistivos e leis de Kirchhoff; Capacitor e circuitos RC;
+Fontes do campo magnético, solenóide e imãs; Indutor, auto-indução,
+indutância mútua, circuitos RL; Corrente alternada, circuitos RLC,
+transformadores, motores e geradores elétricos; Espectro
+eletromagnético, propagação de ondas eletromagnéticas, lasers; Metais,
+isolantes e semicondutores; Diodo e circuitos com diodos; Transistor e
+circuitos com transistor; Circuitos eletrônicos básicos.
+
+
+Básica:\\\
+Fundamentos de Física, volume 3, Halliday, Resnick e Walker. ISBN.:
+8521614869. LTC. (2006).\\
+Eletrônica, volume 1 e 2, A. P. Malvino. 7. edição McGraw-Hill,
+Laboratório de Eletricidade e Eletrônica, Francisco Gabriel Capuano e
+Maria Aparecida Mendes Marinho. 24. edição Érica.\\
+Complementar:\\
+Física, volume 2, Paul A. Tipler e Gene Mosca. 5. edição LTC\\
+Física Conceitual, Paul G. Hewitt. 9. edição. Bookman\\
+Dispositivos eletrônicos e teoria de circuitos. 8. edição. Robert L.
+Boylestad e Louis Nashelsky. Pearson.
+\newpage
+
+\section*{3o. Período}
+
+--- 
+
+DISCIPLINA: Probabilidade e Estatística CÓDIGO:\\
+DEPARTAMENTO: Unidade Acadêmica de Garanhuns\\
+ÁREA: \\
+CARGA HORÁRIA TOTAL: 60 HORAS NÚMERO DE CRÉDITOS: 04\\
+CARGA HORÁRIA SEMANAL: 04 TEÓRICAS: 04 PRÁTICAS: 00 TOTAL: 04\\
+PRÉ-REQUISITOS: Cálculo para Computação II
+CO-REQUISITOS: não há
+
+EMENTA 
+
+Análise combinatória. Planejamento de uma pesquisa. Análise exploratória
+de dados. Probabilidade. Variáveis aleatórias discretas e contínuas.
+Principais modelos teóricos. Estimação de parâmetros. Testes de
+hipóteses.
+
+
+Básica:\\\
+BARBETTA, P. A.; REIS, M. M., BORNIA, A. C. Estatística para Cursos de Engenharia e Informática . São Paulo: Editora Atlas, 2004;\\
+BUSSAB, W. O., MORETTIN, P. A. Estatística básica . 5 ed. São Paulo: Editora Saraiva, 2002.\\
+Complementar:\\
+MAGALHÃES, A. N., LIMA, A.C.P.  Noções de probabilidade e estatística. 6 ed. São Paulo: EDUSP, 2005.\\
+MONTGOMERY, D.C., RUNGER, G. C. Estatística aplicada e probabilidade para engenheiros . Rio de Janeiro: LTC, 2003;\\
+TRIOLA, M. F.  Introdução à Estatística . 9. ed. Rio de Janeiro: LTC, 2005.\\
+
+---
+
+DISCIPLINA: Matemática Discreta para Computação CÓDIGO:\\
+DEPARTAMENTO: Unidade Acadêmica de Garanhuns\\
+ÁREA: \\
+CARGA HORÁRIA TOTAL: 60 NÚMERO DE CRÉDITOS: 04\\
+CARGA HORÁRIA SEMANAL: 04 TEÓRICAS:04 PRÁTICAS: 00 TOTAL: 04\\
+PRÉ-REQUISITOS: Lógica Matemática\\
+CO-REQUISITOS: não há
+
+EMENTA 
+
+Grafos e árvores. Álgebra de boole. Inteiros, divisores e primos.
+
+
+Básica:\\
+EDWARD, Scheinerman, Matemática Discreta: Uma Introdução. Thomson
+Learning, (2003).\\
+JUDITH, L. Gersting, Fundamentos Matemáticos para Ciência da Computação
+ 5a edição. LTC (2004).\\
+LOVÀSZ, L. PELIKÁN, J. Matemática Discreta. SBM. 2003.\\
+Complementar:\\
+SEYMOUR, Lipschutz, MARC, Lipson, Teoria e Problemas da Matemática
+Discreta  coleção Shaum. Bookaman (2004).\\
+
+
+---
+
+DISCIPLINA: Metodologia Científica CÓDIGO:\\
+DEPARTAMENTO: Unidade Acadêmica de Garanhuns\\
+ÁREA: \\
+CARGA HORÁRIA TOTAL: 30 NÚMERO DE CRÉDITOS: 02\\
+CARGA HORÁRIA SEMANAL: 02 TEÓRICAS: 02 PRÁTICAS: 00 TOTAL: 02\\
+PRÉ-REQUISITOS: não há\\
+CO-REQUISITOS: não há
+
+EMENTA 
+
+O método científico e a prática da pesquisa; função social da pesquisa e
+da ciência. Tipos e características da pesquisa. Instrumentalização
+metodológica. Projeto de pesquisa. Relatório de pesquisa.
+
+
+Básica:\\
+LAKATOS \& MARCONE. Fundamentos de Metodologia Cientifica. 7. ed. 320 p.
+Atlas, 2010\\
+LAKATOS \& MARCONE. Metodologia do Trabalho Científico. 7. ed. 228 p.
+São Paulo : Atlas, 2007\\
+WAZLAWICK, Raul Sidney. Metodologia De Pesquisa Para Ciência Da
+Computaçao. 184p. Campus. 2009.\\
+Complementar:\\
+CHALMERS, A. O quê é ciência afinal. 2. Ed. 230p. Brasiliense. 2009.\\
+SIQUEIRA et. al. Como Elaborar Projetos De Pesquisa. 140p, Editora FGV
+2007.\\
+MATIAS-PEREIRA. Manual de Metodologia da Pesquisa Cientifica. 2. Ed.
+240p. Atlas. 2010.\\
+
+---
+
+DISCIPLINA: Sistemas Digitais CÓDIGO:\\ 
+DEPARTAMENTO: Unidade Acadêmica de Garanhuns\\
+ÁREA: \\
+CARGA HORÁRIA TOTAL: 60 NÚMERO DE CRÉDITOS: 04\\
+CARGA HORÁRIA SEMANAL: 04 TEÓRICAS: 03 PRÁTICAS: 01 TOTAL: 04\\
+PRÉ-REQUISITOS: não há\\
+CO-REQUISITOS: não há
+
+EMENTA 
+
+Sistemas de Numeração e Códigos; Aritmética Binária; Porta Lógicas;
+Análise e Projeto de Circuitos Combinacionais; Minimização por Mapa de
+Karnaugh; Somadores; Decodificadores; Codificadores; Multiplexadores;
+Demultiplexadores; Análise e Síntese de Circuitos Sequenciais; Latches
+e Flip-Flops; Minimização de Estado; Registradores; Registradores de
+Deslocamento; Dispositivos Lógicos Programáveis; Memória).
+
+
+Básica:\\
+TOCCI, Ronald J. Sistemas Digitais: Princípios e Aplicações. 10. Ed.
+Pearson. São Paulo, 2007.\\
+WAKERLY, John F. Digital design: principles and practices.
+Prentice-Hall. 2000. D'AMORE, Roberto. VHDL: Descrição
+e Síntese de Circuitos Digitais. 1. Ed. LTC. 2005.\\
+Complementar:\\
+1300 Esquemas e Circuitos Eletrônicos. R. Bourgeron. 8528901165. Hermus
+(2002).\\
+IDOETA, I., CAPUANO, F. G. Elementos de Eletrônica Digital. Érica, 1984\\
+MALVINO, Eletrônica. Volume 1, 4. Edição, Makron Books.\\
+
+
+---
+
+DISCIPLINA: Inglês CÓDIGO:\\ 
+DEPARTAMENTO: Unidade Acadêmica de Garanhuns\\
+ÁREA: \\
+CARGA HORÁRIA TOTAL: 60 NÚMERO DE CRÉDITOS: 04\\
+CARGA HORÁRIA SEMANAL: 04 TEÓRICAS: 03 PRÁTICAS: 01 TOTAL: 04\\
+PRÉ-REQUISITOS: não há\\
+CO-REQUISITOS: não há
+
+EMENTA 
+
+Leitura de textos em inglês, visando o desenvolvimento de estratégias
+globais de leitura e de análise lingüística.
+
+
+Básica:\\
+MURPHY, Raymond. Essential grammar in use: a self-study reference and
+practice book for elementary students of English. Cambridge: CUP, 1990.\\
+GRELLET, François. Developing reading skills. Cambridge: CUP, 1998.\\
+PINTO, Dilce et al. Compreensão inteligente de textos. Grasping the
+meaning. Vol. 1 e 2, Ao livro técnico, Rio de Janeiro, 1991.\\
+Complementar:\\
+ESTERAS, Santiago Remacha. Infotech: English for computer users. 4th ed.
+Cambridge: Cambridge University Press, 2008.\\
+GLEDINNING, Eric \& McEWAN, John. Oxford English for Information
+technology. 2nd ed. Oxford: Oxford University Press, 2008.\\
+
+
+---
+
+DISCIPLINA: Algoritmos e Estruturas de Dados II CÓDIGO:\\ 
+DEPARTAMENTO: Unidade Acadêmica de Garanhuns\\
+ÁREA: \\
+CARGA HORÁRIA TOTAL: 60 NÚMERO DE CRÉDITOS: 04\\
+CARGA HORÁRIA SEMANAL: 04 TEÓRICAS: 02 PRÁTICAS: 02 TOTAL:04\\
+PRÉ-REQUISITOS: Algoritmos e Estruturas de Dados I\\
+CO-REQUISITOS: não há
+
+EMENTA 
+
+Formas de representação e abstração de dados em memória, Dispositivos e técnicas para armazenamento de dados, Estruturas Abstratas de Dados:  Lista, Pilha, Fila, Métodos de busca e classificação de dados em memória secundária de computadores. Parâmetros físicos e lógicos dos dispositivos para armazenagem de dados. Métodos de representação e abstração de dados Métodos de acesso a arquivos, sequenciais, sequenciais indexadas,  indexadas e diretas. Estruturas árvores-B e  hashing, Árvore binária, Árvore Balanceada, Heap, Grafo.
+
+
+Básica:\\
+Estruturas de Dados e Algoritmos em Java. Goodrich, M.T.; Tamassia, R.;
+IV Edição, Bookman, São Paulo, 2007. ISBN: 978-85-60031-50-4.\\
+KOFFMAN, Elliot B., WOLFGANG, Paul A. T. Data Structures: Abstraction
+and Design Using Java. 2010.\\
+DALE, Nell., JOYCE, Daniel T., WEEMS, Chip. Object-Oriented Data
+Structures Using Java. Third Edition.\\
+Complementar:\\
+Estruturas de Dados e seus Algoritmos. J. L. Szwarcfiter e L.
+Markenzion. Segunda Edição. LTC, 1994.\\
+Algoritmos e Estruturas de Dados. A. de M. Guimarães e N. A. de C.
+Lages. Editora LTC, 1994.\\
+Estruturas de Dados e Algoritmos em C++. A. Drozdek. Pioneira, 2002.
+
+
+
+\section*{4o. Período}
+
+---
+
+DISCIPLINA: Arquitetura de Computadores CÓDIGO:\\ 
+DEPARTAMENTO: Unidade Acadêmica de Garanhuns\\
+ÁREA:\\
+CARGA HORÁRIA TOTAL: 60 NÚMERO DE CRÉDITOS: 04\\
+CARGA HORÁRIA SEMANAL: 04 TEÓRICAS: 03 PRÁTICAS: 01 TOTAL: 04 \\
+PRÉ-REQUISITOS: Sistemas Digitais\\
+CO-REQUISITOS: não há
+
+EMENTA 
+
+Organização de Computadores; Conjunto de Instruções, Mecanismos de
+Interrupção e de Exceção; Barramento, Comunicações; Interfaces e
+Periféricos, Hierarquia de Memória; Multiprocessadores;
+Multicomputadores; Arquiteturas Paralelas.
+
+
+Básica:\\
+PATTERSON, D; HENNESSY, J. L. Organização e Projeto de Computadores. 3.
+Ed. Campus. 2005.\\
+STALLINGS, W. Arquitetura e Organização de Computadores. 8. Ed. Pearson.
+2010.\\
+MONTEIRO, M. A. Introdução à Organização de Computadores. 5. Ed. LTC.
+2007.\\
+Complementar:\\
+HENNESSY, J. L; PATTERSON, D. Arquiteturas de Computadores: Uma
+abordagem quantitativa. 3. Ed. Campus. 2003.\\
+TOCCI, Ronald J. Sistemas Digitais: Princípios e Aplicações. 10. Ed.
+Pearson. São Paulo, 2007.\\
+TANENBAUM, A. S. Organização Estruturada de Computadores. 5. Ed. Pearson Ed. 2009.\\
+
+
+---
+
+DISCIPLINA: Projeto e Análise de Algoritmos CÓDIGO:\\
+DEPARTAMENTO: Unidade Acadêmica de Garanhuns\\
+ÁREA: \\
+CARGA HORÁRIA TOTAL: 60 NÚMERO DE CRÉDITOS: 04\\
+CARGA HORÁRIA SEMANAL: 04 TEÓRICAS: 02 PRÁTICAS: 02 TOTAL:04\\
+PRÉ-REQUISITOS: Algoritmos e Estruturas de Dados II\\
+CO-REQUISITOS: não há
+
+EMENTA 
+
+Corretude de Algoritmos Recursivos e Iterativos. Notação e Análise
+Assintótica. Eficiência de Algoritmos Recursivos e Não-Recursivos.
+Análise Empírica. Grafos e Sub-grafos; Isomorfismo, Matrizes de
+Adjacência e Incidência, Caminhos e Ciclos. Árvores: Caracterização de
+Árvores, Cortes de Arestas, Cortes de Vértices. Conectividade:
+Conectividade de Vértices e Arestas; Ciclos Eulerianos e Hamiltonianos.
+Emparelhamentos. Coloração de Vértices e de Arestas. Planaridade. Redes
+de Fluxo. Algoritmos Gulosos. Programação Dinâmica. Backtracking.
+Branch-and-Bound. NP-Completude.
+
+
+Básica:\\
+CORMEN, T. H., LEISERSON, C. E., RIVEST, R. L., STEIN, C. Algoritmos:
+Teoria e prática. Editora Campus, tradução da 2. edição Americana,
+2002.\\
+GERSTING, Judith L. Fundamentos Matemáticos para a Ciência da
+Computação. LTC  Livros Técnicos e Científicos, 1982.\\
+PAPADIMITRIOU, C. H., VAZIRANI, U. V., DASGUPTA, S. Algoritmos.
+McGraw-Hill, 2006.\\
+Complementar:\\
+SIPSER, Michael. Introdução à Teoria da Computação. Thomson Pioneira, 2.
+edição, 2007.\\
+MEDINA, M., FERTIG, C. Algoritmos e Programação: Teoria e Prática.
+Novatec, 2005.\\
+HOPCROFT, J. E.; MOTWANI, R.; ULLMAN, J.D.: Introdução a Teoria de
+Autômatos, Linguagens e Computação. Rio de Janeiro: Campus, 2. edição, 2002.\\
+
+
+---
+
+DISCIPLINA: Paradigmas de Linguagens de Programação CÓDIGO:\\ 
+DEPARTAMENTO: Unidade Acadêmica de Garanhuns\\
+ÁREA: \\
+CARGA HORÁRIA TOTAL: 60 NÚMERO DE CRÉDITOS: 04\\
+CARGA HORÁRIA SEMANAL: 04 TEÓRICAS: 02 PRÁTICAS: 02 TOTAL: 04\\
+PRÉ-REQUISITOS: não há\\
+CO-REQUISITOS: não há
+
+EMENTA 
+
+Valores e Tipos; Variáveis e Armazenamento; Associações e Escopo;
+Abstração de Procedimentos; Abstração de Dados; Abstração Genérica;
+Sistema de tipos; Controle de Fluxo; Concorrência; Paradigma
+Imperativo; Paradigma Orientado a Objetos; Paradigma Concorrente;
+Paradigma Funcional; Paradigma Lógico; Paradigma Scripting.
+
+
+Básica:\\
+David A. Watt. Programming Language Concepts and Paradigms. 2004.\\
+R. Sebesta. Conceitos de Linguagens de Programação  4a Ed., Bookman,
+2000.\\
+Varejão, Flávio. Linguagens de Programação  Conceitos e Técnicas.
+Editora Campus, 2004.\\
+Complementar:\\
+C. Ghezzi \& M. Jazayeri Programming Language Concepts-3rd Ed., John
+Wiley\&Sons, 1997.\\
+R. Sethi Programming Languages: Concepts and Languages-2nd Ed., Addison
+Wesley. 1996.\\
+Pratt, T.W. Programming Languages  Design and Implementation, Third
+Edition, Prentice-Hall, 1996.\\
+
+
+---
+
+DISCIPLINA: Banco de Dados CÓDIGO:\\ 
+DEPARTAMENTO: Unidade Acadêmica de Garanhuns\\
+ÁREA: \\
+CARGA HORÁRIA TOTAL: 60 NÚMERO DE CRÉDITOS: 04\\
+CARGA HORÁRIA SEMANAL: 04 TEÓRICAS: 02 PRÁTICAS: 02 TOTAL: 04\\
+PRÉ-REQUISITOS: Algoritmos e Estruturas de Dados II\\
+CO-REQUISITOS: não há
+
+EMENTA 
+
+Conceituação. Arquitetura de SGDB. Modelagem de dados: modelo E-R e suas
+variações, abstrações por agregação e generalização. Modelos de
+representação (relacional, hierárquico e redes). Normalização e
+manutenção da integridade. Arquitetura de Sistemas de Bancos de Dados,
+SQL.
+
+
+Básica: \\
+SILBERSCHATZ, Abraham et al. ; Sistemas de bancos de dados. 3. ed. 778
+p. São Paulo : Makron Books, 1997\\
+DATE, C. J. ; Banco de dados. Rio de Janeiro : Campus, 1990\\
+Complementar:\\
+MOLINA Hector Garcia, Ullman, Jefrey  IMPLEMENTAÇÃO DE SISTEMAS DE
+BANCO DE DADOS  ED. CAMPUS LONEY, Kevin et al.; Oracle  Sistema
+de computador; Banco de dados ralacional -- Oracle Rio de Janeiro:
+Campus, 2000\\
+
+
+---
+
+DISCIPLINA: Engenharia de Software CÓDIGO:\\ 
+DEPARTAMENTO: Unidade Acadêmica de Garanhuns\\
+ÁREA: \\
+CARGA HORÁRIA TOTAL: 60 NÚMERO DE CRÉDITOS: 04\\
+CARGA HORÁRIA SEMANAL: 04 TEÓRICAS: 02 PRÁTICAS: 02 TOTAL: 04\\
+PRÉ-REQUISITOS: Programação Orientada a Objetos\\
+CO-REQUISITOS: não há
+
+EMENTA 
+
+Contextualização da Engenharia de Software; Fundamentação dos Princípios
+da Engenharia de Software; Conceituação de Produto e Processo de
+Software; Tipos de Processos de Software; Comparação entre os
+Paradigmas de Desenvolvimento Software; Caracterização do Projeto de
+Software; UML; Gerenciamento de Projetos; Gerenciamento Ágil; Processo
+de Engenharia de Requisito; Requisitos; Testes de Software; Estilos
+Arquiteturais; Evolução e Refatoração; Definição de Qualidade de
+Software.
+
+
+Básica:\\
+Sommerville, Ian. Engenharia de Software. ISBN.: 8588639076. Addison 
+Wesley.\\
+Roger S. Pressman. Engenharia de Software. ISBN.: 8586804576.
+McGraw-Hill.\\
+FLEEGER, Shari Lawrence. Software Engineering : Theory and Practice,
+Englewood Cliffs, N. J.:Prentice Hall, 2001, 659p. ISBN 0130290491.\\
+Complementar:\\
+Steve McConnell. Code Complete: A Practical Handbook of Software
+Construction. ISBN.: 0735619670. Ed. Microsoft Pres.\\
+Freeman E. , Freeman E., Bates B., Sierra K.; Head First Design
+Patterns. ISBN.: 0596007124. Ed. O'Reilly Media.\
+
+
+\section*{5o. Período}
+
+---
+
+DISCIPLINA: Sistemas Operacionais CÓDIGO:\\ 
+DEPARTAMENTO: Unidade Acadêmica de Garanhuns\\
+ÁREA: \\
+CARGA HORÁRIA TOTAL: 60 NÚMERO DE CRÉDITOS: 04\\
+CARGA HORÁRIA SEMANAL: 04 TEÓRICAS: 03 PRÁTICAS: 01 TOTAL: 04\\
+PRÉ-REQUISITOS: Arquitetura de Computadores 
+CO-REQUISITOS: não há
+
+EMENTA 
+
+Estrutura de um Sistema Operacional. Processos Concorrentes.
+Escalonamento. Gerenciamento de Memória. Memória Virtual. Gerenciamento
+de Disco. Sistemas de Arquivos. Proteção e Segurança. Sistemas
+Distribuídos. Estudos de Caso.
+
+
+Básico:\\
+TANENBAUM, A. Sistemas Operacionais Modernos. Prentice-Hall. 2009.\\
+DEITEL; CHOFFNES. Sistemas Operacionais. Pearson Education. 3a Ed.
+2005.\\
+STALLINGS, W. Operating Systems: Internals and Design Principles.7a Ed.
+2011.\\
+Complementar:\\
+WOODHULL, A. S.; TANEMBAUM, A. Sistemas Operacionais: Projeto e
+Implementação. Artmed. 2008.\\
+SILBERSCHATZ, A; GALVIN, P.; GAGNE, G. Operating Systems Concepts. 6a
+Ed. John Willey. 2003.\\
+OLIVEIRA, R. S., CARISSIMI, A. S., TOSCANI, S. Sistemas Operacionais. 2.
+Ed. Editora Sagra Luzzato: Porto Alegre. 2001.\\
+
+
+---
+
+DISCIPLINA: Sistemas de Informação e Tecnologias CÓDIGO:\\ 
+DEPARTAMENTO: Unidade Acadêmica de Garanhuns\\
+ÁREA:\\
+CARGA HORÁRIA TOTAL: 60 NÚMERO DE CRÉDITOS: 04\\
+CARGA HORÁRIA SEMANAL: 04 TEÓRICAS: 04 PRÁTICAS: 00 TOTAL: 04\\
+PRÉ-REQUISITOS: não há\\
+CO-REQUISITOS: não há
+
+EMENTA 
+
+A organização. Configuração estrutural. A TI na empresa e a Revolução da
+Web.Visão sistêmica de estratégias integradoras de áreas e informação
+como apoio ao processo decisório. Aplicações organizacionais;
+Planejamento. Elementos da Tomada de decisão numa organização. Decisão
+e controle. Sistemas de Informação Transacionais, Gerenciais e de Apoio
+às Operações e à Decisão. ERPs. CRMs. SCMs. Business intellligence.
+Gestão do conhecimento. A importância do planejamento em TI. Tendências
+em TI nas organizações.
+
+
+Básica:\\
+TURBAN, E.; MCLEAN, E; WETHERBE, J. Tecnologia da Informação para
+Gestão. Transformando os Negócios na Economia Digital. Tradução de
+Renate Schinke. Revisão técnica de Ângela F. Brodbeck. Porto Alegre:
+Bookman, 2004.\\
+O'BRIEN, James. Sistemas de Informação e as decisões
+gerenciais na era da Internet. São Paulo: Editora Saraiva, 2001.\\
+Rezende, D. A E. Abreu, A F de . Tecnologia Da Informação Aplicada A
+Sistemas de Informação Empresariais: O Papel Estratégico Da Informação
+E Dos Sistemas de Informação Nas Empresas. São Paulo: Editora Atlas, 2010.\\
+Complementar:\\
+GORDON, S.R.; GORDON, J.R. Sistema de informação. 3. ed. Rio de Janeiro:
+LTC. Livros Técnicos e Científicos Editora S.A., 2006.\\
+
+
+---
+
+DISCIPLINA: Teoria da Computação CÓDIGO:\\
+DEPARTAMENTO: Unidade Acadêmica de Garanhuns\\
+ÁREA: \\
+CARGA HORÁRIA TOTAL: 60 NÚMERO DE CRÉDITOS: 04\\
+CARGA HORÁRIA SEMANAL: 04 TEÓRICAS: 04 PRÁTICAS: 00 TOTAL: 04\\
+PRÉ-REQUISITOS: Matemática Discreta\\
+CO-REQUISITOS: não há
+
+EMENTA 
+
+Conceitos Básicos. Alfabetos e Linguagens. Gramáticas. Autômatos
+Finitos; Linguagens Regulares. Linguagens Livres de Contexto; Autômato
+de Pilhas; Gramáticas Livre de Contexto Ambígua. Formas Normais.
+Linguagens Recursivamente Enumeráveis e Sensíveis ao Contexto.
+Hierarquia de Chomsky. Indecidibilidade.
+
+
+Básica:\\
+MENEZES, Paulo F B: Linguagens Formais e Autômatos. P. Alegre: Sagra
+Luzzatto, 2005 (5a. edição).\\
+HOPCROFT, J. E.; MOTWANI, R.; ULLMAN, J.D.: Introdução à Teoria de
+Autômatos, Linguagens e Computação. Rio de Janeiro: Elsevier, 2002.\\
+Complementar:\\
+GERSTING, J. L: Fundamentos Matemáticos para a Ciência da Computação.
+Rio de Janeiro: LTC, 2008 (5.. edição).\\
+
+---
+
+DISCIPLINA: Redes de Computadores CÓDIGO:\\ 
+DEPARTAMENTO: Unidade Acadêmica de Garanhuns\\
+ÁREA: \\
+CARGA HORÁRIA TOTAL: 60 NÚMERO DE CRÉDITOS: 04\\
+CARGA HORÁRIA SEMANAL: 04 TEÓRICAS: 04 PRÁTICAS: 00 TOTAL: 04\\
+PRÉ-REQUISITOS: Introdução a Computação\\
+CO-REQUISITOS: não há
+
+EMENTA 
+
+Conceitos básicos de redes; Modelo OSI; Modelo TCP/IP; Conceitos básicos
+de roteamento; Conceitos básicos de switching e roteamento
+intermediário; e Tecnologias WAN.
+
+
+Básica:\\
+Kurose, James F.; Ross, Keith W. Redes de computadores e a internet: uma
+abordagem top-down. 3. Edição. São Paulo: Pearson Addison Wesley, 2008.\\
+Tanenbaum, Andrew S. Redes de computadores. 4. Edição. Rio de Janeiro:
+Editora Campus, 2002.\\
+Peterson,Larry. Redes de computadores: Uma abordagem de Sistemas. 3.
+Edição. Editora Campos, 2004.\\
+Complementar:\\
+COMER, Douglas E. Interligação de Redes com TCP/IP, Volumes I 5. Edição.
+Prentice Hall, 2006.\\
+COMER, Douglas E. Interligação de Redes com TCP/IP, Volumes II 5.
+Edição. Prentice Hall, 2006.\\
+SOARES, LEMOS e COLCHER -- Redes Locais -- Das LANs, MANs e WANs às
+redes ATM. 2. Edição. Ed. Campus, 1995.\\
+
+---
+
+DISCIPLINA: Inteligência Artificial CÓDIGO:\\ 
+DEPARTAMENTO: Unidade Acadêmica de Garanhuns\\
+ÁREA: \\
+CARGA HORÁRIA TOTAL: 60 HORAS NÚMERO DE CRÉDITOS: 04\\
+CARGA HORÁRIA SEMANAL: 04 TEÓRICAS: 02 PRÁTICAS: 02 TOTAL: 04\\
+PRÉ-REQUISITOS: Projeto e Análise de Algoritmos; Paradigmas de Linguagens de Programação\\
+CO-REQUISITOS: não há
+
+EMENTA 
+
+Introdução. Sistemas especialistas. Agentes Inteligentes. Resolução de
+problemas por meio de busca. Problema de satisfação de restrição.
+Linguagens Simbólicas. Esquemas para representação do conhecimento:
+lógicos, em rede, estruturados, procedurais. Formalismos para a
+representação de conhecimento incerto. Redes Bayesianas. Conjuntos e
+lógica Fuzzy. Introdução à Computação Evolucionária. Algoritmos
+Genéticos. Ajuste de parâmetros em algoritmos genéticos. Projeto.
+
+
+Básica:\\
+RUSSELL, Stuart e NORVIG, Peter. Inteligência Artificial. Campus, Rio de
+Janeiro, 2004.\\
+REZENDE, Solange O. (2003). Sistemas Inteligentes -- Fundamentos e
+aplicações. Barueri, SP. Editora Manole. 2003.\\
+EIBEN, Agoston E. \& Smith, J.E. Introduction to Evolutionary Computing.
+Springer. 2008.\\
+Complementar:\\
+LUGER, George. Inteligência Artificial: Estruturas e Estratégias para a
+Solução. Bookman, Porto Alegre, 2004.\\
+LIDEN, Ricardo. Algoritmos Genéticos. Brasport. 2006\\
+RICH, Elaine; KNIGHT, Kevin. Inteligência artificial. 2. ed. Makron
+Books, São Paulo, 1994.\\
+BITTENCOURT, G: Inteligência Artificial -- Ferramentas e Teorias.
+Editora da UFSC. 2.. Edição. Florianópolis, 2001.
+
+
+\section*{6o. Período}
+
+---
+
+DISCIPLINA: Empreendimentos em TIC CÓDIGO:\\ 
+DEPARTAMENTO: Unidade Acadêmica de Garanhuns\\
+ÁREA:\\
+CARGA HORÁRIA TOTAL: 60 NÚMERO DE CRÉDITOS: 04\\
+CARGA HORÁRIA SEMANAL: 04 TEÓRICAS: 04 PRÁTICAS: 00 TOTAL: 04\\
+PRÉ-REQUISITOS: não há\\
+CO-REQUISITOS: não há
+
+EMENTA 
+
+Importância e Contribuição Econômica e Social do Empreendedorismo;
+Empreendedores: Características e comportamentos empreendedores.
+Motivações; Inovação tecnológica e empreendedorismo; O sucesso e o
+fracasso de novos empreendimentos; Cases de sucesso em computação.
+Plano de negócio: Importância, estruturação e apresentação. Pesquisa de
+Mercado; Ferramentas Gerenciais para o empreendedor. Incubadoras: o que
+são, objetivos; Caminhos a seguir e recursos disponíveis para o
+empreendedor: Incubação, MCT, FINEP, Venture Capital, Start-ups.
+
+
+Básica:\\
+DRUCKER, P. F. Inovação e Espírito Empreendedor. São Paulo: Pioneira,
+1986.\\
+DOLABELA, Fernando. Oficina do empreendedor. São Paulo: Cultura, 1999.\\
+Leite, Emanuel (2002) -- O Fenómeno do Empreendedorismo, Recife, Edições
+Bagaço.\\
+Complementar:\\
+DEGEN, Ronald Jean. O Empreendedor: empreender como opção de carreira. São Paulo: Pearson Prentice Hall, 2009.\\
+Sites Específicos:\\
+http://www.planodenegocios.com.br - portal brasileiro de plano de negócios, com artigos, cursos e eventos, links e bibligrafia sobre o tema;\\
+http://www.empreendedor.com.br - revista para empreendedores;\\
+http://www.anprotec.org.br - ANPROTEC;\\
+http://emanueleite.blogspot.com/\\
+
+
+---
+
+DISCIPLINA: Reconhecimento de Padrões CÓDIGO:\\ 
+DEPARTAMENTO: Unidade Acadêmica de Garanhuns\\
+ÁREA: \\
+CARGA HORÁRIA TOTAL: 60 NÚMERO DE CRÉDITOS: 04\\
+CARGA HORÁRIA SEMANAL: 04 TEÓRICAS: 04 PRÁTICAS: 00 TOTAL: 04\\
+PRÉ-REQUISITOS: Algoritmos e Estruturas de Dados II, Matemática
+Discreta.\\
+CO-REQUISITOS: Computação Gráfica.
+
+EMENTA 
+
+Introdução a Aprendizagem de Máquina. Paradigmas de Aprendizagem de
+Máquina. Classificação e avaliação de classificadores. Regressão.
+Agrupamento. Redes Neurais. Introdução a Processamento de Imagens.
+Realce, filtragem e restauração de imagens. Segmentação de imagens.
+Compressão e comunicação de imagens. Noções de visão computacional e
+reconhecimento de padrões. Projeto.
+
+
+Básica:\\
+TAN, Pang-Ning; STEINBACH; Michael; KUMAR, Vipin. Introdução ao Data
+Mining. Ciência Moderna. 2009.\\
+HAYKIN, Simon. Redes Neurais: Princípios e Prática, 2. edição. Bookman.
+2001.\\
+GONZALEZ, Rafael C.; WOODS, Richard E.. Processamento Digital De Imagens
+(3 Ed). Pearson Education. 2010.\\
+Complementar:\\
+WITTEN, I. H., Frank, E. (2005). Data mining : practical machine
+learning tools and techniques. Second Edition. Elsevier.\\
+BEALE, R.; Jackson, T. Neural Computing  An Introduction. Institute
+of Physics Publishing. 1990.\\
+MITCHELL, T. (1997). Machine Learning. McGraw-Hill.\\
+THEODORIDIS. S., Koutroumbas, K. (2009). Pattern Recognition. Fourth
+Edition, Academic Press.\\
+REZENDE, Solange O. (2003). Sistemas Inteligentes -- Fundamentos e
+aplicações. Barueri, SP. Editora Manole. 2003.\\
+BRAGA, A. P., Ludermir, T.B. e de Carvalho A. P. L. F. (2007). A Redes
+Neurais Artificiais -- Teoria e Aplicações. LTC.\\
+MARQUES, Jorge Salvador. (2005). Reconhecimento de Padrões  Métodos
+Estatísticos e Neurais. IST Press.\\
+DUDA, R.O., Hart, P.E., Stork, D.G. (2001) Pattern Classification.
+Second Edition. Wiley.\\
+BISHOP, C. M. (2006). Pattern Recognition and Machine Learning.
+Springer.\\
+A. K. Jain. Fundamentals of digital image processing. Prentice-Hall
+International Editions, Englewood Cliffs, NJ, 1989.\\
+Bernd Jähne. Digital Image Processing 6th edition. Springer. 2005.\\
+
+
+---
+
+DISCIPLINA: Compiladores CÓDIGO:\\ 
+DEPARTAMENTO: Unidade Acadêmica de Garanhuns\\
+ÁREA: \\
+CARGA HORÁRIA TOTAL: 60 NÚMERO DE CRÉDITOS: 04\\
+CARGA HORÁRIA SEMANAL: 04 TEÓRICAS: 02 PRÁTICAS: 02 TOTAL: 04\\
+PRÉ-REQUISITOS: Teoria da Computação; Algoritmos e Estruturas de Dados II\\
+CO-REQUISITOS: não há
+
+EMENTA 
+
+Processadores de linguagem: compilador e interpretador. Introdução à
+compilação. Fases da compilação. Relações sobre gramáticas. Análise
+léxica. Análise sintática ascendente e descendente. Tabelas de
+símbolos. Esquemas de tradução. Análise semântica. Geração de código
+intermediário. Ambientes de execução. Introdução à otimização de
+código.
+
+
+Básica:\\
+AHO, A. V., SETHI, R., ULLMAN, J. D. Compiladores: Princípios, Técnicas
+e Ferramentas. Rio de Janeiro: Guanabara Koogan, 1986.\\
+PRICE, A. M. Implementação de Linguagens de Programação: Compiladores.
+Sagra Luzzato, 2001.\\
+Complementar:\\
+DELAMARO, M. E. Como Construir um Compilador -- Utilizando Ferramentas
+Java. São Paulo: Novatec, 1. edição, 2004.\\
+SEBESTA, R. W. Conceitos de Linguagens de Programação. Porto Alegre:
+Bookman, 5. edição, 2003.\\
+MENEZES, P. B. Linguagens Formais e Autômatos. Sagra Luzzato, 5. edição,
+2005.\\
+SETZER, Valdemar. A Construção de um Compilador. Campus, Rio de Janeiro, 1986.
+
+---
+
+DISCIPLINA: Computação Gráfica CÓDIGO:\\ 
+DEPARTAMENTO: Unidade Acadêmica de Garanhuns\\
+ÁREA: \\
+CARGA HORÁRIA TOTAL: 60 NÚMERO DE CRÉDITOS: 04\\
+CARGA HORÁRIA SEMANAL: 04 TEÓRICAS: 04 PRÁTICAS: 00 TOTAL: 04\\
+PRÉ-REQUISITOS: Introdução à Programação; Álgebra Linear\\
+CO-REQUISITOS: não há
+
+EMENTA 
+
+Introdução à computação gráfica. Biblioteca gráfica OpenGL.
+Representação de objetos. Dispositivos periféricos gráficos. Processo
+de visualização. Curvas e superfícies paramétricas. Eliminação de
+superfícies ocultas. Geração de imagens com realismo. Tópicos
+complementares em computação gráfica.
+
+
+Básica:\\
+Computação Gráfica: Teoria e Prática, AZEVEDO, E. e Conci, A. Editora
+Campus, Elsevier, 2003. Rio de Janeiro.ISBN 8535212533.\\
+Fundamentos de Computação Gráfica, Gomes, J. e Velho, L. IMPA, 2003.\\
+Geometric Algebra for Computer Graphics, John A. Vince, Springer, 2008.
+ISBN 1846289963.\\
+Complementar:\\
+Fundamentals of Computer Graphics, Second Ed. Peter Shirley, et al. A K
+Peters Ltd, 2005. ISBN 1568812698.\\
+OpenGL(R) Programming Guide, Shreiner D., et al. Addison-Wesley, 5th
+Edition, 2005. ISBN 0321335732.\\
+Foley, J.D. van Dam, A. Feiner K.S., Jughes, J.F.,
+ Computer Graphics: Principles And
+Practice , Addison Wesley, 1993.\\
+
+
+---
+
+DISCIPLINA: Sistemas Distribuídos CÓDIGO:\\ 
+DEPARTAMENTO: Unidade Acadêmica de Garanhuns\\
+ÁREA: \\
+CARGA HORÁRIA TOTAL: 60 NÚMERO DE CRÉDITOS: 04\\
+CARGA HORÁRIA SEMANAL: 04 TEÓRICAS: 04 PRÁTICAS: 00 TOTAL: 04\\
+PRÉ-REQUISITOS: Redes de Computadores\\
+CO-REQUISITOS: não há
+
+EMENTA 
+
+Introdução aos sistemas distribuídos; Definições de processos e threads;
+Comunicação em sistemas distribuídos; Sincronização em sistemas
+distribuídos; Conceitos de middleware;Redes P2P: conceitos básicos,
+arquiteturas, aplicações;Introdução a grades computacionais;Tecnologias
+de middleware tradicionais.
+
+
+Básica:\\
+G. Coulouris, J. Dollimore e T. Kindberg,  Sistemas
+Distribuídos: Conceitos e Projetos . 4. Edição.
+Bookman Companhia, 2007.\\
+A.S. Tanenbaum and M.V. Steen,  Sistemas Distribuídos:
+Princípios e Paradigmas . 2. Edição. Prentice Hall
+Brasil, 2007.\\
+M. DANTAS. Computação Distribuída: Redes, Grids e Clusters
+Computacionais. Rio de janeiro: Axcel Books, 2005.
+Complementar:\\
+U. RIBEIRO. Sitemas Distribuídos: Desenvolvendo Aplicações de Alta
+Perfarmance no Linux. Rio de Janeiro: Axcel Books, 2005.\\
+Marques, José Alves. Tecnologia de Sistemas Distribuídos. 1. Edição.
+FCA, 1998.\\
+Tanenbaum, Andrew S. Redes de computadores. 4. Edição. Rio de Janeiro:
+Editora Campus, 2002.
+
+
+\section*{7o. Período}
+
+---
+
+DISCIPLINA: Projeto de Desenvolvimento de Software CÓDIGO:\\ 
+DEPARTAMENTO: Unidade Acadêmica de Garanhuns\\ 
+ÁREA: \\
+CARGA HORÁRIA TOTAL: 90 NÚMERO DE CRÉDITOS: 06\\
+CARGA HORÁRIA SEMANAL: 06 TEÓRICAS: 02 PRÁTICAS: 05 TOTAL: 06\\
+PRÉ-REQUISITOS: Engenharia de Software; Fundamentos de Banco de Dados\\
+CO-REQUISITOS: não há
+
+EMENTA 
+
+Desenvolvimento de um sistema de computação usando conceitos aprendidos
+anteriormente. Sistemas multidisciplinares devem ser estimulados bem
+como o trabalho em equipe.
+
+
+Básica:\\
+PRESMANN. Engenharia de Software 7. ed. 776 p. McGraw-Hill, 2011\\
+SOMMERVILLE. Engenharia de Software. 8. ed. 568 p. Addison Wesley, 2007\\
+BRAUDE. Projeto de Software. Bookman. 2005.\\
+Complementar:\\
+WAZLAWICK. Análise e Projetos de Sistemas de Informação. 2. Ed. 344p.
+Campus. 2010.\\
+BEZERRA. Princípios de Análise e Projetos de Sistemas UML. 380p, Campus
+2006.\\
+HELM et. al. Padrões de Projeto 1. Ed. 366p. Bookman. 2005.\\
+
+
+---
+
+DISCIPLINA: Interface Humano-Computador CÓDIGO:\\
+DEPARTAMENTO: Unidade Acadêmica de Garanhuns\\
+ÁREA: \\
+CARGA HORÁRIA TOTAL: 60 NÚMERO DE CRÉDITOS: 04\\
+CARGA HORÁRIA SEMANAL: 04 TEÓRICAS: 02 PRÁTICAS: 02 TOTAL: 04\\
+PRÉ-REQUISITOS: Engenharia de Software
+CO-REQUISITOS: não há
+
+EMENTA 
+
+Conhecer os fundamentos de fatores humanos em IHC, os modelos mentais
+(metáforas), os paradigmas de IHC (engenharia semiótica e cognitiva) e
+os métodos, técnicas, suporte e avaliação de design de interação.
+
+
+Básica:\\
+Barbosa, S. D. J.; Silva, B. S. Interação Humano-Computador. Rio de
+Janeiro: Elservier, 2010.\\
+Preece, Rogers e Sharp; Design de Interação  Além da Interação
+Homem-computador. São Paulo: Bookman, 2005.\\
+Complementar:\\
+de Souza, C.S.; Leite, J.C.; Prates, R.O.; Barbosa, S.D.J. Projeto de
+Interfaces de Usuário: perspectivas cognitivas e semióticas. Jornada de
+Atualização em Informática (JAI), Congresso da SBC, 1999.\\
+Prates, R.O.; Barbosa, S.D.J. Avaliação de Interfaces de Usuário 
+Conceitos e Métodos. Jornada de Atualização em Informática (JAI), XXIII
+Congresso da SBC, 2003.
+
+---
+
+DISCIPLINA: Computadores e Sociedade CÓDIGO:\\ 
+DEPARTAMENTO: Unidade Acadêmica de Garanhuns\\
+ÁREA: \\
+CARGA HORÁRIA TOTAL: 30 NÚMERO DE CRÉDITOS: 02\\
+CARGA HORÁRIA SEMANAL: 02 TEÓRICAS: 02 PRÁTICAS: 00 TOTAL: 02\\
+PRÉ-REQUISITOS: não há\\
+CO-REQUISITOS: não há
+
+EMENTA 
+
+CONSEQÜÊNCIAS DA INFORMATIZAÇÃO DA SOCIEDADE: A informatização e o
+aspecto educacional; Efeitos políticos e econômicos; Impactos sociais;
+Informatização e privacidade; POLÍTICA NACIONAL DE INFORMÁTICA:
+Indústria nacional de informática; O papel do analista e sistemas na
+sociedade; AUTOMAÇÃO DE ATIVIDADES: Comerciais; Industriais;
+Escritórios; APLICAÇÕES DA INFORMÁTICA: Científica; Administrativa;
+Jurídica; Humanística; Educação; ERGONOMIA E DOENÇAS PROFISSIONAIS:
+Tipos; Características.
+
+
+Básica:\\
+MINISTÉRIO da Ciência e Tecnologia. Sociedade da Informação 
+no Brasil  Livro Verde. Brasília: Imprensa Nacional,
+2000.Bibliografia
+Complementar:\\
+MASIEIRO, Paulo C. Ética em Computação. São Paulo : Editora da
+Universidade de São Paulo. 2000.\\
+YOUSSEF, Antonio N.; FERNANDES, Vicente P. Informática e Sociedade. 2
+ed. São Paulo: Ática, 1998.\\
+NEGROPONTE, Nicholas. A Vida Digital. São Paulo: Companhia das Letras,
+1998.\\
+SCHAFF, Adam. A Sociedade Informática. São Paulo: Brasiliense, 1995.\\
+NAVEIRA \& SILVA, L. A quarta onda. Rio de Janeiro : Record, 1989.\\
+TOFFLER, Alvin. A Terceira Onda. Rio de Janeiro, Record, 1995.\\
+SOUSA, M. S. L. Introdução aos aspectos humanos da 
+interação homem: computador. UFRGS, 1995. \\
+REZENDE, D. A. Engenharia de software e sistemas de informação. Rio de Janeiro: Brasport, 2002,
+358p. ISBN 8574520942. ISBN 8522103909. (2004).
+
+
+%--------------------------------------------------------
+\chapter{Ementas das Disciplinas Optativas}
+%--------------------------------------------------------
+
+\section*{Área Temática: Banco de Dados}
+
+---
+
+DISCIPLINA: Banco de Dados Avançado CÓDIGO:\\
+DEPARTAMENTO: Unidade Acadêmica de Garanhuns\\
+ÁREA: \\
+CARGA HORÁRIA TOTAL: 60 NÚMERO DE CRÉDITOS: 04\\
+CARGA HORÁRIA SEMANAL: 04 TEÓRICAS: 02 PRÁTICAS: 02 TOTAL: 04\\
+PRÉ-REQUISITOS: Banco de Dados\\
+CO-REQUISITOS: não há
+
+EMENTA 
+
+Conceitos avançados de Banco de Dados. SQL Avançado. Aspectos
+Operacionais de SGBD (Controle de Concorrência, Restrições de
+Integridade, Segurança e Recuperação após falhas). Modelo EER (ER
+Estendido). Data Warehouse. Data Mining. BDs Móveis.BDs Multimídia. BDs Geográficos. BDs Distribuídos. BD Orientado a
+Objetos. BD Objeto-Relacional. BDs Ativos. BDs Temporais. BDs
+Biológicos. BDs P2P. BDs Autônomos. Cloud Data Bases (Banco de Dados em
+Nuvens).
+
+
+Básica:\\
+SILBERSCHATZ, Abraham et al. Sistemas de bancos de dados. 5. ed. 778 p.
+São Paulo : Makron Books, 2006\\
+ÖZSU and VALDURIEZ. Princípios de Sistemas de Bancos de dados
+Distribuídos, Editora Campus, 2001\\
+ELSMARI \& NAVATHE. Sistemas de Banco de Dados. 6. Ed. 744p. Pearson.
+2011.\\
+Complementar:\\
+REUSER, Carlos Alberto. Projeto de Banco de Dados. 6. Ed. 282p. Ed.
+Bookman 2009.\\
+RAMAKRISHNAN, GEHRKE. Sistema de Gerenciamento de Banco de Dados. 3. Ed.
+884 páginas, Mcgraw Hill 2008.\\
+RIGAUX et. al. Spatial Databases: with application to GIS, Morgan
+Kaufmann, 2002.\
+
+---
+
+DISCIPLINA: Integração de Dados e Data Warehouse CÓDIGO:\\
+DEPARTAMENTO: Unidade Acadêmica de Garanhuns\\
+ÁREA: \\
+CARGA HORÁRIA TOTAL: 60 NÚMERO DE CRÉDITOS: 04\\
+CARGA HORÁRIA SEMANAL: 04 TEÓRICAS: 02 PRÁTICAS: 02 TOTAL: 04\\
+PRÉ-REQUISITOS: Banco de Dados\\
+CO-REQUISITOS: não há
+
+EMENTA 
+
+Definir o processo de construção de um Data Warehouse (DW). Explicar as
+diferentes fases de construção de um DW. Listar os principais fatores
+que definem um projeto com sucesso. Analisar e transformar exigências
+empresariais em um modelo de negócios (conceitual). Utilizar diagramas
+de relacionamentos de entidades para transformar o modelo de negócios
+em um modelo dimensional (lógico). Transformar o modelo dimensional em
+um projeto de dados físico. Apresentar as principais estruturas que
+cooperam no desempenho e criação de uma base DW.
+
+
+Básica:\\
+SILBERSCHATZ et al. Sistemas de bancos de dados. 5. ed. 778 p. São Paulo
+: Makron Books, 2006\\
+ÖZSU \& VALDURIEZ. Princípios de Sistemas de Bancos de dados
+Distribuídos, Editora Campus, 2001\\
+JARKE et, al. Fundamentals of Data Warehouses, Springer-Verlag. 2000.\\
+Complementar:\\
+HAN \& KAMBER. Data mining: concepts and techniques. Morgan-Kauffman.
+2000.\\
+ABITEBOUL et. al. Data on the Web, from relations to semistructured data
+and XML. Morgan-Kauffman. 2000.\\
+ELSMARI \& NAVATHE. Sistemas de Banco de Dados. 6. Ed. 744p. Pearson.
+2011.
+
+---
+
+DISCIPLINA: Modelagem Conceitual de Dados CÓDIGO:\\
+DEPARTAMENTO: Unidade Acadêmica de Garanhuns\\
+ÁREA: \\
+CARGA HORÁRIA TOTAL: 60 NÚMERO DE CRÉDITOS: 04\\
+CARGA HORÁRIA SEMANAL: 04 TEÓRICAS: 02 PRÁTICAS: 02 TOTAL: 04\\
+PRÉ-REQUISITOS: Banco de Dados
+CO-REQUISITOS: não há
+
+EMENTA 
+
+Conceitos Básicos. Análise de Requisitos para Projeto Conceitual do
+Banco de Dados. Verificação do Projeto Conceitual do Banco de Dados.
+Estratégias para Especificação do Projeto Conceitual de Banco de Dados.
+Aspectos Avançados de Projeto Conceitual de Banco de Dados com o Modelo
+Entidade-Relacionamento (MER) e com a Linguagem de Modelagem Unificada
+(UML). Metamodelos e UML Profile. Ferramentas CASE. Ontologias e
+Modelos Conceituais de Banco de dados. Projeto Conceitual de Data
+Warehouse. Tópicos Especiais. Projeto Prático.
+
+
+Básica:\\
+SILBERSCHATZ, Abraham et al. Sistemas de bancos de dados. 5. ed. 778 p.
+São Paulo : Makron Books, 2006\\
+TEOREY et. al.  Projeto e Modelagem de Banco De Dados, Elsevier.
+2007.\\
+ELSMARI \& NAVATHE. Sistemas de Banco de Dados. 6. Ed. 744p. Pearson.
+2011.\\
+Complementar:\\
+REUSER, Carlos Alberto. Projeto de Banco de Dados. 6. Ed. 282p. Ed.
+Bookman 2009.\\
+RAMAKRISHNAN, GEHRKE. Sistema de Gerenciamento de Banco de Dados. 3. Ed.
+884 páginas, Mcgraw Hill 2008.\\
+DATE, C. J. Introdução a Sistemas de Banco de dados. 8. Ed. 900 p. Rio de Janeiro : Campus, 2004\\
+
+---
+
+DISCIPLINA: Projeto de Banco de Dados CÓDIGO:\\
+DEPARTAMENTO: Unidade Acadêmica de Garanhuns\\
+ÁREA: \\
+CARGA HORÁRIA TOTAL: 60 NÚMERO DE CRÉDITOS: 04\\
+CARGA HORÁRIA SEMANAL: 04 TEÓRICAS: 02 PRÁTICAS: 02 TOTAL: 04\\
+PRÉ-REQUISITOS: Banco de Dados\\
+CO-REQUISITOS: não há
+
+EMENTA 
+
+Realizar um projeto real com aplicação de mercado utilizando os
+conceitos de Banco de Dados já adquirido e um conjunto de novos
+conceitos apresentados nesta disciplina.
+
+
+Básica:\\
+SILBERSCHATZ, Abraham et al. Sistemas de bancos de dados. 5. ed.
+778 p. São Paulo : Makron Books, 2006\\
+REUSER, Carlos Alberto. Projeto de Banco de Dados. 6. Ed. 282p.
+Ed. Bookman 2009.\\
+ELSMARI \& NAVATHE. Sistemas de Banco de Dados. 6. Ed. 744p.
+Pearson. 2011.\\
+Complementar:\\
+RAMAKRISHNAN, GEHRKE. Sistema de Gerenciamento de Banco de Dados. 3. Ed.
+884 páginas, Mcgraw Hill 2008.\\
+DATE, C. J. Introdução a Sistemas de Banco de dados. 8. Ed. 900 p. Rio
+de Janeiro : Campus, 2004\\
+
+---
+
+DISCIPLINA: Tópicos Especiais em Banco de Dados CÓDIGO:\\
+DEPARTAMENTO: Unidade Acadêmica de Garanhuns\\
+ÁREA: \\
+CARGA HORÁRIA TOTAL: 60 NÚMERO DE CRÉDITOS: 04\\
+CARGA HORÁRIA SEMANAL: 04 TEÓRICAS: 02 PRÁTICAS: 02 TOTAL: 04\\
+PRÉ-REQUISITOS: Banco de Dados\\
+CO-REQUISITOS: não há
+
+EMENTA 
+
+Estudo de técnicas avançadas em na área multidisciplinar de Banco de
+Dados permitindo ao aluno conhecer o estado da arte nesta área de
+pesquisa.
+
+
+Artigos e Períodicos Recentes da Área de Pesquisa
+
+
+\section*{Área Temática: Engenharia da Computação}
+
+---
+
+DISCIPLINA: Sistemas de Tempo Real CÓDIGO:\\
+DEPARTAMENTO: Unidade Acadêmica de Garanhuns\\
+ÁREA: \\
+CARGA HORÁRIA TOTAL: 60 NÚMERO DE CRÉDITOS: 04\\
+CARGA HORÁRIA SEMANAL: 04 TEÓRICAS: 02 PRÁTICAS: 02 TOTAL: 04\\
+PRÉ-REQUISITOS: Arquitetura e Organização de Computadores\\
+CO-REQUISITOS: não há
+
+EMENTA 
+
+Sistemas de tempo real. Processos de tempo real. Interações entre
+processos. Tempo de execução. Escalonamento de processos. Garantia de
+escalonamento.Kernels e sistemas operacionais de tempo real. Introdução a tolerância a
+falhas. Dispositivos para aumentar robustez de sistemas embarcados
+
+
+Básica:\\
+BURNS, A.; WELLINGS, A.; Real-Time Systems and Programming Languages. 3a
+Ed. Addison-Wesley. 2001.\\
+KOPETZ, H. Real-Time Systems: Design Principles for Distributed Embedded
+Applications. Springer. 1997.\\
+FARINES, J. M.; FRAGA, J. S.; OLIVEIRA, R. S. 12. Escola de Computação.
+IME-USP. 2000.\\
+Complementar:\\
+GOLDSMITH, S. A practical guide to Real-Time Systems. Prentice Hall.
+1993.\\
+SHAW, A.C. Sistemas e Software de Tempo Real. Bookman. 2003.\\
+LI, Q.; YAO, C. Real-Time Concepts for Embedded Systems. CMP. 2003.
+
+---
+
+DISCIPLINA: Projeto de Sistemas Embarcados CÓDIGO:\\ 
+DEPARTAMENTO: Unidade Acadêmica de Garanhuns\\
+ÁREA: \\
+CARGA HORÁRIA TOTAL: 60 NÚMERO DE CRÉDITOS: 04\\
+CARGA HORÁRIA SEMANAL: 04 TEÓRICAS: 02 PRÁTICAS: 02 TOTAL: 04\\
+PRÉ-REQUISITOS: Arquitetura e Organização de Computadores\\
+CO-REQUISITOS: não há
+
+EMENTA 
+
+Modelos de Especificação de Sistemas Embutidos. Técnicas de
+Particionamento de Sistemas. Técnicas de Estimativas. Técnicas para
+Geração de Interfaces. Técnicas para Síntese de Software. Técnicas de
+Co-simulação. Prototipação de Sistemas.
+
+
+Básica:\\
+VAHID, F.; GIVARGIS, T. Embedded system design: a unified
+hardware/software introduction. Willey. 2002.\\
+GAJSKI, D. et al. Embedded System Design  Modeling, Synthesis and
+Verification. Springer. 2009.\\
+CATSOULIS, J. Designing Embedded Hardware. 2. Ed.
+O'Reilly Media. 2005.\
+Complementar:\
+HENNESSY, J. L; PATTERSON, D. Arquiteturas de Computadores -- Uma
+abordagem quantitativa. 3. Ed. Campus. 2003.\\
+SASS, R.; SCHMIDT, A.G. Embedded Systems Design with Platform FPGAs --
+Principles and Practices. Morgan Kaufmann. 2010.\\
+SIMON, E. S. An Embedded Software Primer. Addison-Wesley Professional.
+1999.
+
+---
+
+DISCIPLINA: Prototipação de Circuitos Digitais CÓDIGO:\\ 
+DEPARTAMENTO: Unidade Acadêmica de Garanhuns\\
+ÁREA: \\
+CARGA HORÁRIA TOTAL: 60 NÚMERO DE CRÉDITOS: 04\\
+CARGA HORÁRIA SEMANAL: 04 TEÓRICAS: 02 PRÁTICAS: 02 TOTAL: 04\\
+PRÉ-REQUISITOS: Arquitetura e Organização de Computadores
+CO-REQUISITOS: não há
+
+EMENTA 
+
+Ferramentas de CAD (Computer Aided-Design). Metodologias de projeto.
+Tecnologia para implementação de circuitos de alta integração. Estilos
+de projetos para implementação de circuitos integrados. Projeto e
+implementação de circuitos integrados usando ferramentas de CAD.
+Laboratório/projeto de um estudo de caso.
+
+
+Básica:\\
+WESTE, N., ESHRAGHIAN, K., Principles of CMOS VLSI Design- A Systems
+Perspective, Addison-Wesley Publishing Company, 1988.\\
+REIS, Ricardo A. L., Concepção de Circuitos integrados. Série Livros
+didáticos. Editora Sagra Luzzatto, 2000.\\
+Complementar:\\
+Notas de aula; Artigos científicos
+
+---
+
+DISCIPLINA: Tópicos Avançados em Engenharia da Computação CÓDIGO:\\ 
+DEPARTAMENTO: Unidade Acadêmica de Garanhuns\\ 
+ÁREA:\\
+CARGA HORÁRIA TOTAL: 60 NÚMERO DE CRÉDITOS: 04\\
+CARGA HORÁRIA SEMANAL: 04 TEÓRICAS: 02 PRÁTICAS: 02 TOTAL: 04\\
+PRÉ-REQUISITOS: não há\\
+CO-REQUISITOS: não há
+
+EMENTA 
+
+Estudo de técnicas avançadas em Engenharia da Computação permitindo ao
+aluno conhecer o estado da arte nesta área de pesquisa.
+
+
+Artigos recentes da área de pesquisa.
+
+
+\section*{Área Temática: Engenharia de Software}
+
+---
+
+DISCIPLINA: Engenharia de Software Experimental CÓDIGO:\\ 
+DEPARTAMENTO: Unidade Acadêmica de Garanhuns\\
+ÁREA: \\
+CARGA HORÁRIA TOTAL: 60 HORAS NÚMERO DE CRÉDITOS: 04\\
+CARGA HORÁRIA SEMANAL: 04 TEÓRICAS: 03 PRÁTICAS: TOTAL: 01\\
+PRÉ-REQUISITOS: não há\\
+CO-REQUISITOS: não há
+
+EMENTA 
+
+Introdução a Princípios de Experimentação; Métodos e Técnicas de
+Experimentação: Estudo de Caso; Survey; Experimento. Projeto, Execução
+e Avaliação de Experimentos em Engenharia de Software; Definição de
+Métricas; Empacotamento e Replicação de Experimentos.
+
+
+Básica:\\
+TRAVASSOS, G.; GUROV, D.; AMARAL, E. Introdução a Engenharia de Software
+Experimental. Technical Report ES-590/02, COPPE/UFRJ, Abril, 2002.\\
+SHULL, Forrest., SINGER, Janice., SJøBERG, Dag I. K.. Guide to Advanced
+Empirical Software Engineering; Springer, 2010.\\
+BASILI, V.; SALBY, R.; HUTCHENS, D. Experimentation in Software
+Engineering. IEEE Transactions on Software Engineering,
+SE-12(7):733-743, Julho, 1986.\\
+Complementar:\\
+JAIN, R. The art of computer systems performance analysis: techniques
+for experimental design, measurement, simulation and modeling.
+Wiley,1991.\\
+CONRADI, Reidar. Empirical Methods and Studies in Software Engineering:
+Experiences from ESERNET; Springer, 2003.\\
+PFLEEGER, S. Design and Analysis in Software Engineering, Part 1: The
+Language of Case Studies and Formal Experiments. Software.
+
+---
+
+DISCIPLINA: Programação Orientada a Aspectos CÓDIGO:\\ 
+DEPARTAMENTO: Unidade Acadêmica de Garanhuns\\ ÁREA: \\
+CARGA HORÁRIA TOTAL: 60 HORAS NÚMERO DE CRÉDITOS: 04\\
+CARGA HORÁRIA SEMANAL: 04 TEÓRICAS: 02 PRÁTICAS: 02 TOTAL: 04\\
+PRÉ-REQUISITOS: não há
+CO-REQUISITOS: não há
+
+EMENTA 
+
+Introdução ao paradigma orientado a aspectos: Problemas no paradigma OO; Modularidade; Extensibilidade; Reusabilidade; AspectJ; Aspectos; Pointcuts; Join points; Advice; Static and dynamic crosscutting; Discutir detalhes da semântica estática e dinâmica de AspectJ; Apresentação de exemplos de aplicações do paradigma orientado a aspectos; Padrões de projetos orientados a aspectos; Padrões GOF (implementações em Java e AspectJ ); PDC (Persistent Data Collection); Refactorings orientados a aspectos; AspectJ dioms para construção de software orientado a aspectos; Catálogo de refactorings e code smells para AspectJ.
+
+
+Básica:\\
+Ladda, Ramnivas. AspectJ in Action: Practical Aspect-Oriented
+programming. Greenwich, CT, USA, 1 ed., 2003.\\
+Kiselev, I. Aspect-Oriented Programming with AspectJ. ISBN:~0672324105.
+Sams Publisher. 1 ed., 2002.\\
+Miles, R.; AspectJ Cookbook. ISBN: 0596006543. Ed. O'REILLY \& ASSOC.
+2009.\\
+Complementar:\\
+Sommerville, Ian. Engenharia de Software. ISBN.: 8588639076. Addison --
+Wesley.\\
+Roger S. Pressman. Engenharia de Software. ISBN.: 8586804576.
+McGraw-Hill.\
+
+---
+
+DISCIPLINA: Programação Orientada a Objetos II CÓDIGO:\\ 
+DEPARTAMENTO: Unidade Acadêmica de Garanhuns\\ 
+ÁREA: \\
+CARGA HORÁRIA TOTAL: 60 HORAS NÚMERO DE CRÉDITOS: 04\\
+CARGA HORÁRIA SEMANAL: TEÓRICAS: PRÁTICAS: TOTAL: \\
+PRÉ-REQUISITOS: não há\\
+CO-REQUISITOS: não há
+
+EMENTA 
+
+Desenvolvimento de Interface Gráfica com Usuário (Aplicações Desktop); Desenvolvimento em equipe; Utilização de SVN e CVS; Merge e Branch de códigos fonte; Instalações de Pluggins para Eclipse; Utilização de APIs; XML; Utilização de JUnit; Construção e utilização de Build.xml; Eclipse Debugging.
+
+
+Básica:\\
+Harvey M. Deitel, Paul J. Deitel. Java How to Program. Prentice Hall. 7.
+Edição, 2006. ISBN : 0132222205.\\
+Lynn Andrea Stein.~Interactive Programming in Java, 2003.\\
+Bruce Eckel.~Thinking in Java. Segunda edição, 2000.\\
+Complementar:\\
+Barnes, D. J., Kölling, M. Programação Orientada a Objetos com Java, Ed.
+Pearson/Prentice-Hall, 2004.\\
+Santos, R. Introdução à Programação Orientada à Objetos Usando Java, Ed.
+Campus, 2003.\\
+Cay S. Horstmann e Gary Cornell.~Core Java 2, Volume I  Fundamentos.
+Sun Microsystems Press, Makron Books do Brasil, 2001.
+
+---
+
+DISCIPLINA: Programação Paralela e Distribuída CÓDIGO:\\ 
+DEPARTAMENTO: Unidade Acadêmica de Garanhuns\\
+ÁREA: \\
+CARGA HORÁRIA TOTAL: 60 HORAS NÚMERO DE CRÉDITOS: 04\\
+CARGA HORÁRIA SEMANAL: TEÓRICAS: 3 PRÁTICAS: TOTAL: 1\\
+PRÉ-REQUISITOS: não há\\
+CO-REQUISITOS: não há
+
+EMENTA 
+
+Arquiteturas paralelas, programação paralela e aspectos de desempenho;
+Processos, comunicação e sincronização (IPC); Threads, comunicação e
+sincronização em memória compartilhada; Paralelismo com threads;
+Algoritmos de escalonamento; Processadores paralelos e distribuídos;
+Comunicação em Rede (sockets); Computação com Passagem de Mensagem
+(MPI)
+
+
+Básica:\\
+Wilkinson, B. and Allen, M. Parallel Programming: Techniques and
+Applications Using Networked Workdstations and Parallel Computers.
+Pearson Prentice Hall, 2005.\\
+Dongarra,J.;Foster,I.;Fox,G.;Gropp,W.;White,A.;Torczon,L.;Kennedy,K.
+Sourcebook of Parallel Computing. Morgan Kaufmann Pub, 2002.\\
+DEITEL, Harvey M.; DEITEL, Paul J. Java: Como Programar. 4a Edição.
+Bookman, 2002.\\
+Complementar:\\
+ORFALI, Robert; HARVEY, Dan. Client/Server Programming with Java and
+CORBA. 2nd Edition. John Wiley, 1998.\\
+Quinn, M.J.Parallel Programming in C with MPI and OpenMP. McGrawHill,
+2004.\\
+Grama,A.;Gupta,A.;Karypis,G.;Kumar,V. Introduction to Parallel
+Computing. Adisson-Wesley, 2003.
+
+---
+
+DISCIPLINA: Programação Web CÓDIGO:\\ 
+DEPARTAMENTO: Unidade Acadêmica de Garanhuns\\ 
+ÁREA: \\
+CARGA HORÁRIA TOTAL: 60 HORAS NÚMERO DE CRÉDITOS: 04\\
+CARGA HORÁRIA SEMANAL: TEÓRICAS: PRÁTICAS: TOTAL: \\
+PRÉ-REQUISITOS: não há\\
+CO-REQUISITOS: não há
+
+EMENTA 
+
+Introdução à Programação WEB (Elementos Básicos); Desenvolvimento de interfaces gráficas para a Internet; Desenvolvimento de serviços e sistemas de informação para a Internet; Servidores de Aplicação; Segurança e desempenho de sistemas para a Internet; Integração de sistemas baseados na Internet; JBoss; Desenvolvimento de interfaces gráficas para a Internet com HTML, Javascript, e Applets); Desenvolvimento de serviços e sistemas de informação para a Internet com Servlets, Java Server Pages; Performance de sistemas para a Internet; XML/CSS/XLST (Web Design)
+
+
+Básica:\\
+Nicholas Kassem ET. AL.;~Designing Enterprise Applications with the Java
+2 Platform, Enterprise Edition. Addison-Wesley, 2000.\\
+Jason Hunter, William Crawford. Java Servlet Programming.
+O'Reilly \& Associates, 1998.\\
+Baehr, C. M; Web Development A Visual-Spatial Approach. ISBN:
+0131701223. Ed. Prentice Hall. 2006.\\
+Complementar:\\
+David Flanagan, Dan Shafer. Javascript: The Definitive Guide.
+O'Reilly \& Associates, 3rd edition, 1998\\
+Downet, T.; Web Development with Java. ISBN: 1846288622. Ed. Springer
+Verlag NY. 2007
+
+---
+
+DISCIPLINA: Desenvolvimento Distribuído de Software CÓDIGO:\\ 
+DEPARTAMENTO: Unidade Acadêmica de Garanhuns\\ 
+ÁREA: \\
+CARGA HORÁRIA TOTAL: 60 HORAS NÚMERO DE CRÉDITOS: 04\\
+CARGA HORÁRIA SEMANAL: TEÓRICAS: 3 PRÁTICAS: TOTAL: 1\\
+PRÉ-REQUISITOS: não há\\
+CO-REQUISITOS: não há
+
+EMENTA 
+
+Gerência de Projeto; Engenharia de Requisitos; Processos de Software; Adaptação de Processos; Modelos de desenvolvimento; Métodos Ágeis; Scrum; XP.
+
+
+Básico:\\
+PRIKLADNICKI, Rafael., AUDY, Jorge. Desenvolvimento Distribuído de
+Software; Elsevier, 2007.\\
+CARMEL, E. Global Software Teams: Collaboration Across Borders and Time
+Zones;Prentice-Hall, EUA, 1999.\\
+ECKSTEIN, Jutta. Agile Software Development with Distributed Teams;
+Dorset House, 2010.\\
+Complementar:\\
+COHN, Mike. Succeeding with Agile: Software Development Using Scrum;
+Addison-Wesley, 2009.\\
+LOELIGER, Jon. Version Control with Git: Powerful Tools and Techniques
+for Collaborative Software Development; O'Reilly,
+2009.\\
+KAROLAK, Dale Walter. Global Software Development: Managing Virtual
+Teams and Environments; Wiley, 1998.
+
+---
+
+Disciplina: Análise e Projeto de Sistemas CÓDIGO:\\ 
+Departamento: Unidade Acadêmica de Garanhuns\\
+ÁREA: \\
+Carga Horária Total: 60 horas Número de créditos: 04\\
+Carga Horária Semanal:04 horas Teóricas: 50h Práticas: 10h Total: 60h\\
+Pré-requisitos: Engenharia de Software\\
+CO-REQUISITOS: não há
+
+EMENTA 
+
+Apresentar aos alunos os princípios de linha de produção dentro da Eng. de Software. Este conceito define as etapas de como um software orientado a objeto deve ser construído desde seu levantamento de requisitos até a sua implantação.
+
+
+Básica:\\
+PRESMANN. Engenharia de Software 7. ed. 776 p. McGraw-Hill, 2011\\
+HELM et. al. Padrões de Projeto 1. Ed. 366p. Bookman. 2005.\\
+BEZERRA. Princípios de Análise e Projetos de Sistemas UML. 380p, Campus 2006.\\
+Complementar:\\
+BRAUDE. Projeto de Software. Bookman. 2005.\\
+SOMMERVILLE. Engenharia de Software. 8. ed. 568 p. Addison Wesley, 2007\\
+WEST et. al. Use A Cabeça Analise \& Projeto Orientado Ao Objeto. 472 p.
+Starling Consult. 2007.
+
+---
+
+DISCIPLINA: Gerenciamento de Projetos CÓDIGO:\\ 
+DEPARTAMENTO: Unidade Acadêmica de Garanhuns\\
+ÁREA: \\
+CARGA HORÁRIA TOTAL: 60 HORAS NÚMERO DE CRÉDITOS: 04\\
+CARGA HORÁRIA SEMANAL: TEÓRICAS: PRÁTICAS: TOTAL: \\
+PRÉ-REQUISITOS: não há\\
+CO-REQUISITOS: não há
+
+EMENTA 
+
+Fundamentos de Gerenciamento de Projetos (GP); Descrição do Processo de GP; Atividades de planejamento e gerenciamento de um processo específico (o RUP, por exemplo); Desenvolvimento de Proposta e Plano de Projeto; Atividade de Iniciação de um Projeto; Atividade de Gerenciamento de Tempo; Atividade de Gerenciamento de Escopo; Atividade de Gerenciamento de Riscos; Fases de Implementação do Projeto; Fases de Implantação; Fase de Finalização do Projeto de Software; Ferramentas de planejamento e gerenciamento; Técnicas para estimativas e coleta de métricas
+
+
+Básica:\\
+Jack R. Meredith e Samuel J. Mantel, Jr.; Project Management: A
+Managerial Approach, Third Edition, John Wiley \& Sons Inc., USA,
+1995.\\
+Robert K., Wysocki, Robert, Jr Beck, David B. Crane; Effective Project
+Management, 2nd Edition. 384 pages. March 2, 2000. John Wiley \& Sons.
+ISBN 0471360287.03 -- Bruce Eckel.\\
+Barry W. Boehm; Software Engineering Economics. 767 pages (October
+1981). Prentice Hall.~ISBN 01382212\\
+Complementar:\\
+Steve McConnell. Software Project Survival Guide. 250 pages. November
+1997. Microsoft Press. ISBN 1572316217.\\
+Tom Demarco, Timothy Lister. Peopleware: Productive Projects and Teams.
+2nd~edition, February 1, 1999. Dorset House. ISBN 0932633439.\\
+Frederick P., Jr. Brooks, Frederick P. Brooks Jr.; The Mythical
+Man-Month : Essays on Software Engineering. 336 pages anniversary
+edition (July 1995). Addison-Wesley Pub Co. ISBN 0201835959.\
+
+---
+
+DISCIPLINA: Especificação de Requisitos CÓDIGO:\\ 
+DEPARTAMENTO: Unidade Acadêmica de Garanhuns\\ 
+ÁREA: \\
+CARGA HORÁRIA TOTAL: 60 HORAS NÚMERO DE CRÉDITOS: 04\\
+CARGA HORÁRIA SEMANAL: 04 TEÓRICAS: 02 PRÁTICAS: 02 TOTAL: 04\\
+PRÉ-REQUISITOS: Engenharia de Software\\
+CO-REQUISITOS: não há
+
+EMENTA 
+
+Motivação; Técnicas de especificação de requisitos; Ferramentas de especificação de requisitos; Técnicas de validação de sistemas; Ferramentas de validação de sistemas; Estudo de caso; Projeto
+
+
+Básica:\\
+PRESMANN. Engenharia de Software 7. ed. 776 p. McGraw-Hill, 2011\\
+KONTOYA \& SOMMERVILLE: Requirements Engineering: Processes and
+Tecniques, John Wiley \& Sons, Ltd, 1998\\
+COHN: User Stories Applied, Addison Wesley. 2004\\
+Complementar:\\
+SOMMERVILLE \& SAWYER: Requirements Engineering. John Wiley \& Sons,
+Ltd, 1997 \\
+SOMMERVILLE. Engenharia de Software. 8. ed. 568 p. Addison Wesley, 2007\\
+LAMSWEERDE. Requirements Engineering. John Wiley \& Sons, Ltd, 2009\\
+
+---
+
+DISCIPLINA: Qualidade de Software CÓDIGO:\\ 
+DEPARTAMENTO: Unidade Acadêmica de Garanhuns\\
+ÁREA: \\
+CARGA HORÁRIA TOTAL: 30 NÚMERO DE CRÉDITOS: 02\\
+CARGA HORÁRIA SEMANAL: 02 TEÓRICAS: 01 PRÁTICAS: 01 TOTAL: 02\\
+PRÉ-REQUISITOS: Engenharia de Software\\
+CO-REQUISITOS: não há
+
+EMENTA 
+
+Apresentar aos alunos o tema Qualidade de Software, procurando discutir
+aspectos relacionados a essa sub-área da Engenharia de Software.
+
+
+Básica:\\
+PRESMANN. Engenharia de Software 7. ed. 776 p. McGraw-Hill, 2011\\
+KOSCIANSKI. Qualidade de Software, Editora Novatec, 2006.\\
+BROOKS. O Mítico homem mês 1.Ed. 328p. Campus. 2009.\\
+Complementar:\\
+BARTIE. Garantia da Qualidade de Software, Editora Campus, 2002.\\
+SOMMERVILLE. Engenharia de Software. 8. ed. 568 p. Addison Wesley, 2007\\
+CHRISSIS et. al. CMMI -- Guidelines for Process Integration and Product
+Improvement, Addison-Wesley, 2003.
+
+---
+
+DISCIPLINA: Paradigmas de Linguagens de Programação CÓDIGO:\\ 
+DEPARTAMENTO: Unidade Acadêmica de Garanhuns\\
+ÁREA: \\
+CARGA HORÁRIA TOTAL: 60 HORAS NÚMERO DE CRÉDITOS: 04\\
+CARGA HORÁRIA SEMANAL: 04 TEÓRICAS: 03 PRÁTICAS: TOTAL: 04 \\
+PRÉ-REQUISITOS: não há\\
+CO-REQUISITOS: não há
+
+EMENTA 
+
+Inspeção de software; Princípios e técnicas de testes de software; teste
+de unidade; teste de integração; teste de regressão; Desenvolvimento
+orientado a testes; Automação dos testes; Geração de casos de teste;
+Teste de interfaces humanas; Teste de aplicações para a web; Testes
+alfas, beta e de aceitação; Ferramentas de testes; Planos de testes.
+Gerenciamento do processo de testes. Registro e acompanhamento de
+problemas.
+
+
+Básica:\\
+DELAMARO. M.E.; MALDONADO, J. C.; JINO, M. Introdução ao Teste de
+Software; Rio de Janeiro: Campus, 2007.\\
+MOLINARI, Leonardo. Testes Funcionais de Software; Visual Books, 2008.\\
+PRESSMAN, Roger S.. Engenharia de Software: uma Abordagem Profissional;
+Bookman, 2011.\\
+Complementar:\\
+BECK, K. Test-driven development by example; EUA: Addison Wesley, 2002.\\
+BLACK, Rex. Pragmatic Software Testing; Wiley, 2007.\\
+MOLINARI, Leonardo. Testes de Software: Produzindo Sistemas Melhores e
+mais Confiáveis; Érica, 2003.
+
+---
+
+DISCIPLINA: Medição de Software CÓDIGO:\\ 
+DEPARTAMENTO: Unidade Acadêmica de Garanhuns\\
+ÁREA: \\
+CARGA HORÁRIA TOTAL: 30 HORAS NÚMERO DE CRÉDITOS: 02\\
+CARGA HORÁRIA SEMANAL: 02 TEÓRICAS: 01 PRÁTICAS: 01 TOTAL: 02\\
+PRÉ-REQUISITOS: Engenharia de Software\\
+CO-REQUISITOS: não há
+
+EMENTA 
+
+Apresentar aos alunos os princípios subjacentes ao desenvolvimento de software que precisa para satisfazer objetivos específicos, onde estas metas devem ser expressas em termos mensuráveis Ela abrange os princípios de medição de software, e as maneiras pelas quais elas são usadas no planejamento de projetos de software, e no acompanhamento dos projetos bem como sua realização. Discute a aplicação de técnicas de medição de software para estes métodos de ensaio.
+
+
+Básica:\\
+PRESMANN. Engenharia de Software 7. ed. 776 p. McGraw-Hill, 2011\\
+JONES. Applied Software Measurement 3. Ed. 700 p. McGraw-Hill, 2008\\
+BROOKS. O Mítico homem mês 1.Ed. 328p. Campus. 2009.\\
+Complementar:\\
+VAZQUES ET. AL. Análise de Pontos de Função: Medição, Estimativas e
+Gerenciamento de Projetos de Software  7. Edição. Ed. Érica. 2007\\
+SOMMERVILLE. Engenharia de Software. 8. ed. 568 p. Addison Wesley, 2007\\
+MCGARRY ET. AL. Practical Software Measurement: Objective Information
+for Decision Makers. Addison-Wesley. 2001.
+
+---
+
+DISCIPLINA: Paradigmas de Linguagens de Programação CÓDIGO:\\ 
+DEPARTAMENTO: Unidade Acadêmica de Garanhuns\\
+ÁREA: \\
+CARGA HORÁRIA TOTAL: 60 HORAS NÚMERO DE CRÉDITOS: 04\\
+CARGA HORÁRIA SEMANAL: 04 TEÓRICAS: 03 PRÁTICAS: 01 TOTAL: 04 \\
+PRÉ-REQUISITOS: não há\\
+CO-REQUISITOS: 
+
+EMENTA 
+
+Inspeção de software; Princípios e técnicas de testes de software; teste
+de unidade; teste de integração; teste de regressão; Desenvolvimento
+orientado a testes; Automação dos testes
+Geração de casos de teste; Teste de interfaces humanas; Teste de
+aplicações para a web. 
+Testes alfas, beta e de aceitação; Ferramentas de testes; Planos de
+testes. Gerenciamento do processo de testes. Registro e acompanhamento
+de problemas.
+
+
+Básica:\\
+DELAMARO. M.E.; MALDONADO, J. C.; JINO, M. Introdução ao Teste de
+Software; Rio de Janeiro: Campus, 2007.\\
+MOLINARI, Leonardo. Testes Funcionais de Software; Visual Books, 2008.\\
+PRESSMAN, Roger S.. Engenharia de Software: uma Abordagem Profissional;
+Bookman, 2011.\\
+Complementar:\\
+BECK, K. Test-driven development by example; EUA: Addison Wesley, 2002.\\
+BLACK, Rex. Pragmatic Software Testing; Wiley, 2007.\\
+MOLINARI, Leonardo. Testes de Software: Produzindo Sistemas Melhores e
+mais Confiáveis; Érica, 2003.
+
+---
+
+DISCIPLINA: Tópicos Especiais em Engenharia de Software CÓDIGO: \\
+DEPARTAMENTO: Unidade Acadêmica de Garanhuns\\
+ÁREA: \\
+CARGA HORÁRIA TOTAL: 60 NÚMERO DE CRÉDITOS: 04\\
+CARGA HORÁRIA SEMANAL:04 horas TEÓRICAS: 60h PRÁTICAS: 0h TOTAL: 60h\\
+PRÉ-REQUISITOS: Engenharia de Software\\
+CO-REQUISITOS: não há
+
+EMENTA 
+
+Estudo de técnicas avançadas em na área multidisciplinar de Engenharia
+de Software permitindo ao aluno conhecer o estado da arte nesta área de
+pesquisa.
+
+
+Artigos e Periódicos Recentes da Área de Pesquisa.
+
+---
+
+DISCIPLINA: Metodologias Ágeis CÓDIGO: \\
+DEPARTAMENTO: Unidade Acadêmica de Garanhuns\\
+ÁREA: \\
+CARGA HORÁRIA TOTAL: 60 horas NÚMERO DE CRÉDITOS: 04\\
+CARGA HORÁRIA SEMANAL:04 horas TEÓRICAS: 30h PRÁTICAS: 30h TOTAL: 60h\\
+PRÉ-REQUISITOS: Gestão de Projetos e Análise e Projeto de Sistemas\\
+CO-REQUISITOS: não há
+
+EMENTA 
+
+Apresentar aos alunos os problemas da Engenharia de Software
+Tradicional. Como enxergar o desenvolvimento de software como uma
+atividade de rápidas mudanças e como as metodologias ágeis trata esta
+questão.
+
+
+Básica:\\
+Agile Planning and Estimation. Mike Cohn: Addison Wesley, 2004.\\
+User Stories Applied. Por Mike Cohn  Addison Wesley (2003)\\
+Agile Software Development Quality Assurance. Stamelos \& Sfetsos:
+Information Science Centre, 2007.\\
+Complementar:\\
+BECK. K. Extreme Programming Explained. Addison Wesley. 2000.\\
+SOMMERVILLE. Engenharia de Software. 8. ed. 568 p. Addison Wesley, 2007\\
+BOEHM \& TURNER Balancing Agility and Discipline. Addison Wesley. 2003.
+
+
+\section*{Área Temática: Inteligência Computacional}
+
+---
+
+DISCIPLINA: Redes Neurais CÓDIGO:\\ 
+DEPARTAMENTO: Unidade Acadêmica de Garanhuns\\
+ÁREA: \\
+CARGA HORÁRIA TOTAL: 60 HORAS NÚMERO DE CRÉDITOS: 04\\
+CARGA HORÁRIA SEMANAL: TEÓRICAS: PRÁTICAS: TOTAL: \\
+PRÉ-REQUISITOS: Reconhecimento de Padrões\\
+CO-REQUISITOS: não há
+
+EMENTA 
+
+Processos de aprendizagem de máquina. Perceptrons de camada única.
+Perceptrons de múltiplas camadas. Redes de função de base radial. Mapas
+auto-organizáveis. Tópicos avançados em Redes Neurais: máquinas de
+vetor de suporte, análise de componentes principais, outros tópicos.
+
+
+Básica:\\
+BRAGA, A. P., LUDEMIR, T. B., CARVALHO, A. P. L. F. A Redes Neurais Artificiais  Teoria e Aplicações. LTC, 2007.\\
+HAYKIN, Simon. Redes Neurais: Princípios e Prática, 3. edição. Bookman.
+2008.\\
+COPPIN, B. Inteligência Artificial. LTC, 2010.\\
+Complementar:\\
+MARQUES, J. S.. Reconhecimento de Padrões  Métodos Estatísticos e Neurais. IST Press, 2005.\\
+WITTEN, I. H., FRANK, E. Data mining : practical machine learning tools and techniques. Second Edition. Elsevier, 2005.\\
+THEODORIDIS, S., KOUTROUMBAS, K. Pattern Recognition. Fourth Edition, Academic Press, 2009.\\
+DUDA, R.O., HART, P.E., STORK, D.G. Pattern Classification. Second Edition. Wiley, 2001.\\
+BISHOP, C. M. Pattern Recognition and Machine Learning. Springer, 2006.\\
+MITCHELL, T. Machine Learning. McGraw-Hill, 1997.
+
+---
+
+DISCIPLINA: Computação Evolucionária CÓDIGO:\\ 
+DEPARTAMENTO: Unidade Acadêmica de Garanhuns\\
+ÁREA: \\
+CARGA HORÁRIA TOTAL: 60 HORAS NÚMERO DE CRÉDITOS: 04\\
+CARGA HORÁRIA SEMANAL: TEÓRICAS: PRÁTICAS: TOTAL: \\
+PRÉ-REQUISITOS: Inteligência Artificial\\
+CO-REQUISITOS: não há
+
+EMENTA 
+
+A metáfora biológica. Elementos de um algoritmo de computação
+evolucionária (CE). Algoritmos genéticos. Estratégia de evolução. Programação evolucionária. Programação genética. Controle de
+parâmetros. Problema multi-modais. Satisfação de restrição. Tópicos avançados. Projeto.
+
+
+Básica:\\
+Eiben, A. E. \& Smith, J. E. . Introduction to Evolutionary Computing.
+Springer Verlag, 2003.\\
+Linden, R. Algoritmos Geneticos. BRASPORT, 2008.\\
+Coello, C. A., Lamont, G. B., \& van Veldhuizen, D. A.. Evolutionary
+Algorithms for Solving Multi-Objective Problems, Springer, 2nd Edition,
+2007.\\
+Complementar:\\
+Fogel, D. B.. Evolutionary Computation, IEEE Press, 2003.\\
+Ghosh, A. \& Tsutsui, S.. Advances in Evolutionary Computing: Theory and
+Applications. Springer, 2003.\\
+Goldberg, D. E.. of Genetic Algorithms in Search, Optimization, and
+Machine Learning. Reading, Ma: Addison-Wesley, 1989.
+
+---
+
+DISCIPLINA: Mineração de Dados CÓDIGO:\\
+DEPARTAMENTO: Unidade Acadêmica de Garanhuns\\
+ÁREA:\\
+CARGA HORÁRIA TOTAL: 60 HORAS NÚMERO DE CRÉDITOS: 04\\
+CARGA HORÁRIA SEMANAL: TEÓRICAS: PRÁTICAS: TOTAL:\\
+PRÉ-REQUISITOS: Inteligência Artificial e Reconhecimento de Padrões\\
+CO-REQUISITOS: não há
+
+EMENTA 
+
+Introdução e Motivação ao Processo de Descoberta de Conhecimento em
+Bases de Dados (KDD). Etapas do Processo de KDD. Conceitos e
+Tecnologias de Suporte à Mineração de Dados. Pré-processamento dos
+Dados. Extração de Padrões: Tarefas, Algoritmos e Paradigmas de
+Mineração de Dados. Pós-processamento de Resultados. Métricas de
+Avaliação: Complexidade, Eficiência e Escalabilidade. Tópicos
+Avançados: Metaheurísticas, Paralelismo e Distribuição, Visualização,
+Privacidade e Segurança, Representações e Estruturas de Dados
+Nãoconvencionais, Mineração Multimodal (Textos e Multimídia), Mineração
+de Dados Espaciais e Temporais. Técnicas, Ferramentas e Aplicações.
+
+
+Básica:\\
+I. H. Witten, E. Frank:  Data Mining: Practical
+Machine Learning Tools and Techinques , Morgan
+Kaufmann, 2005.\\
+P. N. Tan, M. Steinbach, V. Kumar:  Introduction to
+Data Mining , Addison-Wesley, 2005.\\
+J. Han, M. Kamber:  Data Mining: Concepts and
+Techniques , 2a. Ed., Morgan Kaufmann, 2006.\\
+A. Abraham, C. Grosan, V. Ramos:  Swarm Intelligence
+in Data Mining , Springer, 2006.\\
+Complementar:\\
+D. Hand, H. Mannila, P. Smith:  Principles of Data
+Mining , MIT Press, 2001.\\
+O. Maimon, L. Rokach:  Data Mining and Knowledge
+Discovery Handbook , Springer, 2005.\\
+D. T. Larose:  Discovering Knowledge in Data: An
+Introduction to Data Mining , John Wiley, 2005.\\
+M. Kantardzic, J. Zurada:  Next Generation of
+Data-Mining Applications , Wiley-IEEE Press, 2005.\\
+S. Mitra, T. Acharya:  Data Mining: Multimedia, Soft
+Computing, and Bioinformatics , John Wiley, 2003.\\
+Artigos recentes da área.
+
+---
+
+DISCIPLINA: Visão Computacional CÓDIGO:\\ 
+DEPARTAMENTO: Unidade Acadêmica de Garanhuns\\
+ÁREA: \\
+CARGA HORÁRIA TOTAL: 60 HORAS NÚMERO DE CRÉDITOS: 04\\
+CARGA HORÁRIA SEMANAL: TEÓRICAS: PRÁTICAS: TOTAL: \\
+PRÉ-REQUISITOS: Reconhecimento de Padrões\\
+CO-REQUISITOS: não há
+
+EMENTA 
+
+Introdução à visão computacional. Ferramentas de apoio.
+Pré-processamento e Filtros. Segmentação. Rastreamento. Reconhecimento
+e classificação de Padrões em Imagens e Vídeos. Avaliação de desempenho
+de algoritmos de visão computacional. Seminário. Projeto.
+
+
+Básica:\\
+Richard Szeliski.Computer Vision: Algorithms and Applications. Springer,
+2010.\\
+Nicu Sebe, Michael S. Lew. Robust Computer Vision: Theory and
+Applications. Kluwer / Springer, 2003.\\
+Richard Hartley, Andrew Zisserman. Multiple View Geometry in Computer
+Vision, 2nd Edition. Cambridge University Press, 2004.\\
+Complementar:\\
+Artigos recentes da área.
+
+---
+
+DISCIPLINA: Agentes Inteligentes CÓDIGO:\\ 
+DEPARTAMENTO: Unidade Acadêmica de Garanhuns\\
+ÁREA: \\
+CARGA HORÁRIA TOTAL: 60 HORAS NÚMERO DE CRÉDITOS: 04\\
+CARGA HORÁRIA SEMANAL: TEÓRICAS: PRÁTICAS: TOTAL: \\
+PRÉ-REQUISITOS: Inteligência Artificial\\
+CO-REQUISITOS: não há
+
+EMENTA 
+
+Sistemas Multiagentes, princípios gerais e aplicações. Agentes autônomos
+e sistemas multiagentes. Introdução à resolução distribuída de
+problemas. Cooperação, Coordenação e Negociação. Comunicação entre
+agentes. Arquiteturas de comunicação. Linguagens de comunicação e
+conteúdo. Protocolos de interação. Modelos e arquiteturas de agentes.
+Taxonomia de Agentes. Agentes autônomos, reativos, deliberativos e
+adaptativos. Ontologias.
+
+
+Básica:\\
+COPPIN, B. Inteligência Artificial. LTC, 2010.\\
+RUSSELL, S. and NORVIG, P. Artificial Intelligence: a Modern Approach.
+Prentice Hall, 2a edição, 2002.\\
+WOOLDRIGE, M. Introduction to Multi-Agent Systems. Wiley, 2002.\\
+Complementar:\\
+FERBER, J. Multi-Agent Systems: An Introduction to Distributed
+Artificial Intelligence. Addison-Wesley. 1999.\\
+WEISS, G. Multiagent Systems: A Modern Approach to Distributed
+Artificial Intelligence, Morgan Kauffmann, 2000.
+
+---
+
+DISCIPLINA: Aprendizagem de Máquina CÓDIGO:\\ 
+DEPARTAMENTO: Unidade Acadêmica de Garanhuns\\
+ÁREA: \\
+CARGA HORÁRIA TOTAL: 60 HORAS NÚMERO DE CRÉDITOS: 04\\
+CARGA HORÁRIA SEMANAL: TEÓRICAS: PRÁTICAS: TOTAL: \\
+PRÉ-REQUISITOS: Reconhecimento de Padrões\\
+CO-REQUISITOS: não há
+
+EMENTA 
+
+Introdução; Vetores de Características; Domínio dos atributos;
+Aprendizagem Não Supervisionada; Algoritmos de Agrupamento;
+Aprendizagem Supervisionada; Algoritmos de Classificação de padrões;
+Algoritmos de regressão de funções; Avaliação de técnicas de
+classificação, regressão, agrupamento e testes estatísticos; Tratamento
+dos dados; Projeto.
+
+
+Básica:\\
+TAN, Pang-Ning; STEINBACH; Michael; KUMAR, Vipin. Introdução ao Data
+Mining. Ciência Moderna. 2009.\\
+Witten, I. H., Frank, E. (2005). Data mining : practical machine
+learning tools and techniques. Second Edition. Elsevier.\\
+Mitchell, T. (1997). Machine Learning. McGraw-Hill.\\
+Theodoridis. S., Koutroumbas, K. (2009). Pattern Recognition. Fourth
+Edition, Academic Press.\\
+Duda, R.O., Hart, P.E., Stork, D.G. (2001) Pattern Classification.
+Second Edition. Wiley..\\
+Complementar:\\
+Rezende, Solange O. (2003). Sistemas Inteligentes  Fundamentos e
+aplicações. Barueri, SP. Editora Manole. 2003.\\
+Marques, Jorge Salvador. (2005). Reconhecimento de Padrões  Métodos
+Estatísticos e Neurais. IST Press.\\
+Braga, A. P., Ludermir, T.B. e de Carvalho A. P. L. F. (2007). A Redes
+Neurais Artificiais  Teoria e Aplicações. LTC.\\
+Bishop, C. M. (2006). Pattern Recognition and Machine Learning.
+Springer.\\
+Haykin, Simon. Redes Neurais: Princípios e Prática, 2. edição. Bookman.
+2001.\\
+Beale, R.; Jackson, T. Neural Computing  An Introduction. Institute of Physics Publishing. 1990.
+
+---
+
+DISCIPLINA: Biometria CÓDIGO:\\ 
+DEPARTAMENTO: Unidade Acadêmica de Garanhuns\\
+ÁREA: \\
+CARGA HORÁRIA TOTAL: 60 HORAS NÚMERO DE CRÉDITOS: 04\\
+CARGA HORÁRIA SEMANAL: TEÓRICAS: PRÁTICAS: TOTAL: \\
+PRÉ-REQUISITOS: Reconhecimento de Padrões\\
+CO-REQUISITOS: não há
+
+EMENTA 
+
+Introdução a Biometria. Etapas de um sistema computacional para
+econhecimento/verificação dos seguintes elementos: digitais, face, voz, íris, retina, veias, mão, pé, assinaturas e manuscritos. Sistemas de segurança biométricos. Seminário. Projeto.
+
+
+Básica:\\
+Jerzy Pejas, Andrzej Piegat. Enhanced Methods in Computer Security,
+Biometric and Artificial Intelligence Systems. Springer, 2004.\\
+John R. Vacca. Biometric Technologies and Verification Systems.
+Butterworth-Heinemann, 2007.
+\\Ted Dunstone, Neil Yager. Biometric System and Data Analysis: Design,
+Evaluation, and Data Mining. Springer, 2008.\\
+Complementar:\\
+Artigos recentes da área.
+
+---
+
+DISCIPLINA: Sistemas de Recomendação CÓDIGO:\\ 
+DEPARTAMENTO: Unidade Acadêmica de Garanhuns\\
+ÁREA: \\
+CARGA HORÁRIA TOTAL: 60 HORAS NÚMERO DE CRÉDITOS: 04\\
+CARGA HORÁRIA SEMANAL: TEÓRICAS: PRÁTICAS: TOTAL: \\
+PRÉ-REQUISITOS: Inteligência Artificial\\
+CO-REQUISITOS: não há
+
+EMENTA 
+
+Função do Sistema de Recomendação. Coleta de Informações. Estratégias de
+Recomendação. Descoberta do Conhecimento: tipos de descoberta;
+classificação; agrupamento. Filtragem de informações; filtragem baseada
+em conteúdo; filtragem colaborativa; filtragem híbrida. Técnicas de
+Recomendação. Aplicação e avaliação. Sistemas de Recomendação e IHC.
+Processamento de Dados, Classificação, Análise de Cluster, Regras
+associativas de recomendação. Exemplos de Sistemas de Recomendação.
+Projeto.
+
+
+Básica:\\
+RICCI, F., ROKACH, L., SHAPIRA, B., KANTOR, P. Recommender Systems
+Handbook. Springer, 2010.\\JANNACH, D., ZANKER, M., FELFERING, A., FRIEDRICH, G. Recommender
+Systems: An Introduction. Cambridge, 2011.\\RUSSEL, M. Mining the Social Web: Analyzing Data From Facebook, Twitter,
+LinkedIn, and Other Social Media Sites. O'Reilly,
+2011..\\
+Complementar:\\
+UCHYIGIT, G., MA, M. Y. Personalization Techniques and Recommender
+Systems. Woeld Scientific Publishing Company.\\MUSIAL, K. Recommender System for online Social Network. Lambert
+Academic Publishing, 2009.
+
+---
+
+DISCIPLINA: Reconhecimento de Padrões II CÓDIGO:\\ 
+DEPARTAMENTO: Unidade Acadêmica de Garanhuns\\
+ÁREA: \\
+CARGA HORÁRIA TOTAL: 60 HORAS NÚMERO DE CRÉDITOS: 04\\
+CARGA HORÁRIA SEMANAL: TEÓRICAS: PRÁTICAS: TOTAL: \\
+PRÉ-REQUISITOS: Inteligência Artificial e Reconhecimento de Padrões\\
+CO-REQUISITOS: não há
+
+EMENTA 
+
+Introdução; Extração de Características; Pré-processamento dos dados; Seleção de Características; Redução da dimensionalidade dos padrões; Algoritmos de Aprendizagem de Máquina; Reconhecimento de Imagens; Outras aplicações; Projeto.
+
+
+Básica:\\
+WITTEN, I. H., Frank, E. (2005). Data mining : practical machine
+learning tools and techniques. Second Edition. Elsevier.\\
+MITCHELL, T. (1997). Machine Learning. McGraw-Hill.\\
+THEODORIDIS. S., Koutroumbas, K. (2009). Pattern Recognition. Fourth
+Edition, Academic Press.\\
+GONZALEZ, Rafael C.; WOODS, Richard E.. Processamento Digital De Imagens
+(3 Ed). Pearson Education. 2010.\\
+Complementar:\\
+HAYKIN, Simon. Redes Neurais: Princípios e Prática, 2. edição. Bookman.
+2001.\\
+TAN, Pang-Ning; STEINBACH; Michael; KUMAR, Vipin. Introdução ao Data
+Mining. Ciência Moderna. 2009.\\
+BEALE, R.; Jackson, T. Neural Computing  An Introduction. Institute
+of Physics Publishing. 1990.\\
+REZENDE, Solange O. (2003). Sistemas Inteligentes  Fundamentos e
+aplicações. Barueri, SP. Editora Manole. 2003.\\
+BRAGA, A. P., Ludermir, T.B. e de Carvalho A. P. L. F. (2007). A Redes
+Neurais Artificiais  Teoria e Aplicações. LTC.\\
+MARQUES, Jorge Salvador. (2005). Reconhecimento de Padrões  Métodos
+Estatísticos e Neurais. IST Press.\\
+DUDA, R.O., Hart, P.E., Stork, D.G. (2001) Pattern Classification.
+Second Edition. Wiley.\\
+BISHOP, C. M. (2006). Pattern Recognition and Machine Learning.
+Springer.\\
+A. K. Jain. Fundamentals of digital image processing. Prentice-Hall
+International Editions, Englewood Cliffs, NJ, 1989.\\
+Bernd Jähne. Digital Image Processing 6th edition. Springer. 2005.
+
+---
+
+DISCIPLINA: Sistemas Inteligentes Híbridos CÓDIGO:\\ 
+DEPARTAMENTO: Unidade Acadêmica de Garanhuns\\
+ÁREA: \\
+CARGA HORÁRIA TOTAL: 60 HORAS NÚMERO DE CRÉDITOS: 04\\
+CARGA HORÁRIA SEMANAL: TEÓRICAS: PRÁTICAS: TOTAL: \\
+PRÉ-REQUISITOS: Inteligência Artificial\\
+CO-REQUISITOS: não há
+
+EMENTA 
+
+Introdução. Classificação dos sistemas inteligentes
+híbridos. Sistemas Fuzzy. Algoritmos Genéticos. Raciocínio baseado em
+casos. Sistemas NeuroFuzzy, Projeto Evolucionário de Redes Neurais.
+Combinação de Raciocínio baseado em casos e Redes Neurais. Extração de
+Regras de Redes Neurais. Projeto.
+
+
+Básica:\\
+BRAGA, A P, LUDEMIR, T.B. e CARVALHO, A. Redes Neurais Artificiais 
+Teoria e Aplicações, LTC, 2007.\\
+GOONATILAKE, S., KHEBBAL, S.  Intelligent Hybrid Systems. John Wiley
+\& Sons, Inc. 1995.\\
+Complementar:\\
+Artigos recentes da área.
+
+---
+
+DISCIPLINA: Computação Forense CÓDIGO:\\ 
+DEPARTAMENTO: Unidade Acadêmica de Garanhuns\\
+ÁREA: \\
+CARGA HORÁRIA TOTAL: 60 HORAS NÚMERO DE CRÉDITOS: 04\\
+CARGA HORÁRIA SEMANAL: TEÓRICAS: PRÁTICAS: TOTAL: \\
+PRÉ-REQUISITOS: Inteligência Artificial e Reconhecimento de Padrões\\
+CO-REQUISITOS: não há
+
+EMENTA 
+
+Princípios básicos de Ciência Forense e áreas de atuação. Apresentar os
+conceitos básicos da perícia criminal e cível. Novas tecnologias
+disponíveis nas áreas de Computação Forense e ferramentas tecnológicas
+para processamento e análise de evidências. Seminários e Projeto.
+
+
+Básica:\\
+DUDA, R.O., HART, P.E., STORK, D.G. Pattern Classification. Second
+Edition. Wiley, 2001.\\MARQUES, J. S. Reconhecimento de Padrões  Métodos Estatísticos e
+Neurais. IST Press, 2005.\\BISHOP, C. M. Pattern Recognition and Machine Learning. Springer, 2006.\\
+Complementar:\\
+Artigos recentes da área.
+
+---
+
+DISCIPLINA: Métodos Paramétricos de Aprendizagem de Máquina CÓDIGO:\\ 
+DEPARTAMENTO: Unidade Acadêmica de Garanhuns\\
+ÁREA: \\
+CARGA HORÁRIA TOTAL: 60 HORAS NÚMERO DE CRÉDITOS: 04\\
+CARGA HORÁRIA SEMANAL: TEÓRICAS: PRÁTICAS: TOTAL: \\
+PRÉ-REQUISITOS: Reconhecimento de Padrões\\
+CO-REQUISITOS: não há
+
+EMENTA 
+
+Reconhecimento de padrões. Revisão de Probabilidade e Estatística. Teoria da decisão Bayesiana. Máxima verossimilhança e estimação de parâmetros. Métodos paramétricos de classificação. Métodos paramétricos de regressão. Métodos paramétricos de agrupamento. Análise dos Componentes Principais. Discriminante linear de Fisher.
+
+
+Básica:\\
+Richard Szeliski.Computer Vision: Algorithms and Applications. Springer,
+2010.\\
+Nicu Sebe, Michael S. Lew. Robust Computer Vision: Theory and
+Applications. Kluwer / Springer, 2003.\\
+Richard Hartley, Andrew Zisserman. Multiple View Geometry in Computer
+Vision, 2nd Edition. Cambridge University Press, 2004.\\
+Complementar:\\
+Theodoridis, S., Koutroumbas, K. Pattern Recognition. Fourth Edition,
+Academic Press, 2009.
+
+---
+
+DISCIPLINA: Introdução á Bioinformática CÓDIGO:\\ 
+DEPARTAMENTO: Unidade Acadêmica de Garanhuns\\
+ÁREA: \\
+CARGA HORÁRIA TOTAL: 60 HORAS NÚMERO DE CRÉDITOS: 04\\
+CARGA HORÁRIA SEMANAL: TEÓRICAS: PRÁTICAS: TOTAL: \\
+PRÉ-REQUISITOS: Inteligência Artificial e Reconhecimento de Padrões\\
+CO-REQUISITOS: não há
+
+EMENTA 
+
+Introdução aos conceitos de Bio-informática e Biologia Molecular.
+Aplicações envolvendo métodos computacionais, matemáticos e
+estatísticos. Introdução aos diferentes tipos de dados biológicos,
+Bancos de Dados Biológicos e ferramentas público. Alinhamento de
+Sequências e Sequenciamento de DNA. Classificação e Anotação de
+Sequências Biológicas. Estruturas de Dados Biológicos e Busca em
+Cadeias. Transcrição, regulação e expressão gênica. Análise de dados de
+microarray. Famílias de Proteínas e Predição de Estruturas. Modelagem
+de Sistemas Biológicos. Árvores Evolucionárias e Filogenia.
+
+
+Básica:\\
+ALURU, S. Handbook of Computational Molecular Biology. Chapman \& Hall/CRC, 2006.\\
+BAXEVANIS, A., OUELLETTE, F. Bioinformatics: A Practical Guide to the Analysis of Genes and Proteins. Wiley-Interscience, 1998.\\
+SETUBAL, J. C., MEIDANIS, J. Introduction to Computational Molecular Biology. PSW Publ. Co., 1997.\\
+ALBERTS, B. Essential Cell Biology: An Introduction to the Molecular Biology of the Cell. Garland Pub., 1997.\\
+Complementar:\\
+Artigos recentes da área.
+
+---
+
+DISCIPLINA: Tópicos Especiais em Bioinformática CÓDIGO:\\ 
+DEPARTAMENTO: Unidade Acadêmica de Garanhuns\\
+ÁREA: \\
+CARGA HORÁRIA TOTAL: 60 HORAS NÚMERO DE CRÉDITOS: 04\\
+CARGA HORÁRIA SEMANAL: TEÓRICAS: PRÁTICAS: TOTAL: \\
+PRÉ-REQUISITOS: Bioinformática\\
+CO-REQUISITOS: não há
+
+EMENTA 
+
+Estudo de técnicas avançadas em Bioinformática permitindo ao aluno conhecer o estado da arte nesta área de pesquisa.
+
+
+Artigos recentes da área de pesquisa.
+
+---
+
+DISCIPLINA: Tópicos Especiais em Aprendizagem de Máquina. CÓDIGO:\\ 
+DEPARTAMENTO: Unidade Acadêmica de Garanhuns\\ 
+ÁREA: \\
+CARGA HORÁRIA TOTAL: 60 HORAS NÚMERO DE CRÉDITOS: 04\\
+CARGA HORÁRIA SEMANAL: TEÓRICAS: PRÁTICAS: TOTAL: \\
+PRÉ-REQUISITOS: Aprendizagem de Máquina\\
+CO-REQUISITOS: não há
+
+EMENTA 
+
+Estudo de técnicas avançadas em Aprendizagem de Máquina permitindo ao
+aluno conhecer o estado da arte nesta área de pesquisa.
+
+
+Básica:\\
+IEEE Transactions on Pattern Analysis and Machine Intelligence\\
+IEEE Transactions on Neural Networks\\
+IEEE Transactions on Knowledge and Data Engineering (Print)\\
+Complementar:\\
+IEEE Transactions on Evolutionary Computation\\
+Evolutionary Computation (Online)\\
+ACM Computing Surveys\\
+IEEE Transactions on Image Processing\\
+Image and Vision Computing\\
+Data Mining and Knowledge Discovery (Dordrecht. Online)\\
+I.E.E.E. Transactions on Computers (Print)\\
+IEEE Intelligent Systems\\
+International Journal of Computer Vision\\
+
+---
+
+DISCIPLINA: Tópicos Especiais em Redes Neurais. CÓDIGO:\\\
+DEPARTAMENTO: Unidade Acadêmica de Garanhuns\\ ÁREA: \\
+CARGA HORÁRIA TOTAL: 60 HORAS NÚMERO DE CRÉDITOS: 04\\
+CARGA HORÁRIA SEMANAL: TEÓRICAS: PRÁTICAS: TOTAL: \\
+PRÉ-REQUISITOS: Redes Neurais\\
+CO-REQUISITOS: não há
+
+EMENTA 
+
+Estudo de técnicas avançadas em Redes Neurais permitindo ao aluno
+conhecer o estado da arte nesta área de pesquisa.
+
+
+Básica:\\
+IEEE Transactions on Neural Networks\\
+IEEE Transactions on Knowledge and Data Engineering (Print)\\
+IEEE Transactions on Pattern Analysis and Machine Intelligence\\
+IEEE Transactions on Evolutionary Computation\\
+Complementar:\\
+Evolutionary Computation (Online)\\
+ACM Computing Surveys\\
+IEEE Transactions on Image Processing\\
+Image and Vision Computing\\
+Data Mining and Knowledge Discovery (Dordrecht. Online)\\
+I.E.E.E. Transactions on Computers (Print)\\
+IEEE Intelligent Systems\\
+International Journal of Computer Vision\\
+
+---
+
+DISCIPLINA: Tópicos Especiais em Computação Evolucionária. CÓDIGO:\\ 
+DEPARTAMENTO: Unidade Acadêmica de Garanhuns\\ 
+ÁREA: \\
+CARGA HORÁRIA TOTAL: 60 HORAS NÚMERO DE CRÉDITOS: 04\\
+CARGA HORÁRIA SEMANAL: TEÓRICAS: PRÁTICAS: TOTAL: \\
+PRÉ-REQUISITOS: Computação Evolucionária\\
+CO-REQUISITOS: não há
+
+EMENTA 
+
+Estudo de técnicas avançadas em Computação Evolucionária permitindo ao
+aluno conhecer o estado da arte nesta área de pesquisa.
+
+
+Básica:\\
+IEEE Transactions on Evolutionary Computation\\
+Evolutionary Computation (Online)\\
+ACM Computing Surveys\\
+IEEE Transactions on Pattern Analysis and Machine Intelligence\\
+IEEE Transactions on Neural Networks\\
+Complementar:\\
+IEEE Transactions on Knowledge and Data Engineering (Print)\\
+IEEE Transactions on Image Processing\\
+Image and Vision Computing\\
+Data Mining and Knowledge Discovery (Dordrecht. Online)\\
+I.E.E.E. Transactions on Computers (Print)\\
+IEEE Intelligent Systems\\
+International Journal of Computer Vision\\
+
+---
+
+--- 
+
+DISCIPLINA: Tópicos Especiais em Inteligência Artificial CÓDIGO:\\ 
+DEPARTAMENTO: Unidade Acadêmica de Garanhuns\\
+ÁREA: \\
+CARGA HORÁRIA TOTAL: 60 HORAS NÚMERO DE CRÉDITOS: 04\\
+CARGA HORÁRIA SEMANAL: TEÓRICAS: PRÁTICAS: TOTAL: \\
+PRÉ-REQUISITOS: Inteligência Artificial.\\
+CO-REQUISITOS: não há
+
+EMENTA 
+
+Estudo de técnicas avançadas em Inteligência Artificial permitindo ao
+aluno conhecer o estado da arte nesta área de pesquisa.
+
+
+Básica:\\
+ACM Computing Surveys\\
+IEEE Intelligent Systems\\
+IEEE Transactions on Pattern Analysis and Machine Intelligence\\
+IEEE Transactions on Neural Networks\\
+IEEE Transactions on Knowledge and Data Engineering (Print)\\
+Complementar:\\
+Data Mining and Knowledge Discovery (Dordrecht. Online)\\
+Evolutionary Computation (Online)\\
+I.E.E.E. Transactions on Computers (Print)\\
+IEEE Transactions on Evolutionary Computation\\
+IEEE Transactions on Image Processing\\
+Image and Vision Computing\\
+International Journal of Computer Vision
+\newpage
+
+\section*{Área Temática: Matemática e Simulação Computacional}
+
+---
+
+DISCIPLINA: Análise Numérica CÓDIGO:\\ 
+DEPARTAMENTO: Unidade Acadêmica de Garanhuns\\
+ÁREA: \\
+CARGA HORÁRIA TOTAL: 60 HORAS NÚMERO DE CRÉDITOS: 04\\
+CARGA HORÁRIA SEMANAL: TEÓRICAS: PRÁTICAS: TOTAL: \\
+PRÉ-REQUISITOS: Cálculo para Computação III\\
+CO-REQUISITOS: não há
+
+EMENTA 
+
+Conceitos básicos de matemática computacional. Aproximações de funções.
+Soluções para sistemas de equações lineares. Integração e derivação
+numéricas: método de Gauss-Legendre e um método de cálculo aproximado
+de autovalores e autovetores. Equações diferenciais ordinárias:
+problemas de valores iniciais.
+
+
+Básica:
+PINA, Heitor. Métodos Numéricos. Lisboa. McGraw-Hill, 2004\\
+ROSA, Mário. Tópicos de análise Numérica. Coimbra. Universidade de Coimbra.
+Departamento de Matemática, 1991.\\
+SCHEID, Francis. Análise Numérica. Lisboa. McGraw-Hill, 1991.\\
+VALENÇA, Maria Raquel. Análise Numérica. Lisboa. Universidade Aberta, 1996.
+
+---
+
+DISCIPLINA: Cálculo Numérico e Computacional CÓDIGO:\\
+DEPARTAMENTO: Unidade Acadêmica de Garanhuns\\ 
+ÁREA:\\
+CARGA HORÁRIA TOTAL: 60 HORAS NÚMERO DE CRÉDITOS: 04\\
+CARGA HORÁRIA SEMANAL:04 TEÓRICAS: 04 PRÁTICAS: TOTAL: 04\\
+PRÉ-REQUISITOS: Cálculo para Computação III\\
+CO-REQUISITOS: não há
+
+EMENTA 
+
+Máquinas digitais: precisão, exatidão e erros. Aritmética de ponto
+flutuante. Sistemas de enumeração. Sistemas lineares. Resolução
+computacional de sistemas de equações lineares. Resolução de equações
+transcendentes. Aproximação de funções: interpolação spline,
+ajustamento de curvas, aproximação racional e por polinômios de
+Chebyschev. Integração numérica: Newton-Cotes e quadratura Gaussiana.
+
+
+Básica:\\
+RUGGIERO, M. e LOPES, V.,  Cálculo Numérico: Aspectos
+Teóricos e Computacionais , McGraw-Hill, 1996.\\
+CLÁUDIO, D. M. e MARINS, J. M.,  Cálculo Numérico
+Computacional , Teoria e Prática. São Paulo, Atlas,
+1989.\\
+CONTE, S. D.,  Elementos de Análise
+Numérica , São Paulo, Globo:1977.\\
+Complementar:\\
+McCRACKEN, D. e DORN, W.,  Cálculo Numérico com
+Estudos de Casos em FORTRAN IV , Rio de janeiro :
+Campus, 1978.\\
+BARROSO, L. C. et al.,  Cálculo Numérico (Com
+Aplicações) 2..ed. , São Paulo, Harbra, 1987.
+
+---
+
+DISCIPLINA: Métodos de Otimização CÓDIGO:\\
+DEPARTAMENTO: Unidade Acadêmica de Garanhuns\\
+ÁREA: \\
+CARGA HORÁRIA TOTAL: 60 HORAS NÚMERO DE CRÉDITOS: 04\\
+CARGA HORÁRIA SEMANAL: TEÓRICAS: PRÁTICAS: TOTAL: \\
+PRÉ-REQUISITOS: Teoria de Grafos e Análise de Algoritmos\\
+CO-REQUISITOS: não há
+
+EMENTA 
+
+Programação Linear, Método Simplex. Programação Não-Linear: convexidade,
+otimização sem restrições, otimização com restrições, condições de
+otimalidade, métodos computacionais de otimização.
+
+
+Básica:\\
+Bazaraa,Sherali,Shetty  Nonlinear Programming, Theory and Algorithms
+ John Wiley and Sons.\\
+Luenberger,D.G.  Linear and Nonlinear Programming  Addison
+Wesley,1984.\\
+Dennis, Schnabel  Numerical Methods for Unconstrained Optimization
+and Nonlinear Equations Siam.\\
+Complementar:\\
+Peressini, Sullivan, Uhl The Mathematics of Nonlinear Programming 
+Springer Verlag.\\
+Bregalda, Oliveira, Bornstein  Introdução à Programação Linear  Ed.
+Campus.
+
+---
+
+DISCIPLINA: Modelagem Matemática CÓDIGO:\\ 
+DEPARTAMENTO: Unidade Acadêmica de Garanhuns\\ 
+ÁREA: \\
+CARGA HORÁRIA TOTAL: 60 HORAS NÚMERO DE CRÉDITOS: 04\\
+CARGA HORÁRIA SEMANAL: TEÓRICAS: PRÁTICAS: TOTAL: \\
+PRÉ-REQUISITOS: Equações Diferenciais\\
+CO-REQUISITOS: não há
+
+EMENTA 
+
+Princípios básicos (o que é um modelo, porque modelar, objetivos e requisitos); Metodologia: etapas (identificação, formulação e solução, modelos matemáticos (quantitativos e qualitativos), tipos de modelos (determinísticos, fuzzy, estatístico, estocástico),modelos discretos e contínuos,processos de modelagem; Noções de cálculo vetorial e tensorial, significado físico dos operadores gradiente, divergente, rotacional e laplaciano; Propriedades físicas; sistemas referências; leis de conservação, equações constitutivas; Exemplos envolvendo todas as etapas de modelagem (exceto a solução). 
+
+
+Básica: \\
+C.L. Dym \& E.S. Ivey  Principles of Mathematical Modeling, Academic
+Press, 1980.\\
+Karam F., J. e Almeida, R. C., Introdução à Modelagem Matemática, Notas
+impressas Pós-Graduação, LNCC, 2003.\\
+T.L. Saaty \& J.M. Alexander, Thinking with Models  Mathematical
+Models in Physical, Biological and Social Sciences, Pergamon Press, 1981.\\
+Complementar:\\
+R.B. Bird, W.E. Stewart \& E.N. Lightfoot, Transport Phenomena, John
+Wiley \& Sons, 1960.\\
+Mathematical Modelling Techniques, Rutherford Aris, Dover, 1994.\\
+Introduction to Continuum Mechanics, W. M. Lai, D. Rubin, E.
+Krempl,Pergamon Press, 1974.
+
+---
+
+DISCIPLINA: Programação Matemática CÓDIGO:\\
+DEPARTAMENTO: Unidade Acadêmica de Garanhuns\\
+ÁREA: \\
+CARGA HORÁRIA TOTAL: 60 HORAS NÚMERO DE CRÉDITOS: 04\\
+CARGA HORÁRIA SEMANAL: TEÓRICAS: PRÁTICAS: TOTAL: \\
+PRÉ-REQUISITOS: Álgebra Linear \\
+CO-REQUISITOS: não há
+
+EMENTA 
+
+Modelagem sistêmica de problemas industriais. Modelos de Programação Linear Inteira Mista (PLIM) para apoio à tomada de decisão. Programação Linear (PL). Método primal simplex. Problema de transporte. Problema de designação. Dualidade. Método dual simplex. Análise de sensibilidade. Interpretação econômica da PL. Programação inteira. Programação inteira mista. Resolução de problemas de grande porte. Decomposição em PL e PLIM. Aplicações em sistemas produtivos.
+
+
+Básica:
+J. F. Benders. Partitioning procedures for solving mixed-variables
+programming problems. Numerisch Mathematik, v. 4, p. 238-252, 1962. \\
+G. B. Dantzig and Wolfe. Decomposition principle for linear programs.
+Operations Research, v. 8, p. 101-111, 1960. \\
+C. R. V. de Carvalho. Notas de Aula\\
+C. R. V. de Carvalho. Une Proposition d'Integration de
+la Planification et l'Ordonancement de Production:
+Application de la Métode de Benders. PhD thesis, Université Blaise
+Pascal, Clermont-Ferrand, França, 1998. \\
+M. T. P. de Carvalho. Confecção de horários de aulas em instituições de
+ensino privadas. Master's thesis, Programa de
+Pós-Graduação em Engenharia de Produção da UFMG, 2002. \\
+M. C. Goldbarg and H. P. L. Luna. Otimização Combinatória e Programação
+Linear: Modelos e Algoritmos. Ed. Campus, 2000. \\
+F. S. Hiller and G. J. Liberman. Introdução à Pesquisa Operacional. Ed.
+Campus Ltda, Rio de Janeiro, 1989. \\
+L. S. Lasdon. Optimization Theory for Large Systems. The Macmillan
+Company, New York, 1972. \\
+T. R. Neto. Uma metodologia para elaboração de planos de compras de
+carvão em empresas siderúrgicas brasileiras. Dissertação de Mestrado.
+Programa de Pós-Graduação em Engenharia de Produção da UFMG, 2003. \\
+C. R. Oliveira. Planejamento da distribuição de produtos siderúrgicos
+utilizando modelos de localização. Dissertação de Mestrado. Programa de
+Pós-Graduação em Engenharia de Produção da UFMG, 2003. \\
+H. M. Wagner. Pesquisa Operacional. Prentice-Hall do Brasil, Rio de
+Janeiro, 1986.\\
+R. Baker. Introduction to Sequencing and Scheduling. Wiley, 1974.\\
+M. S. Bazaraa and J. J. Jarvis. Linear Programming and Network Flows.
+John Wiley \& Sons, New York, 1977. \\
+
+---
+
+DISCIPLINA: Simulação de Sistemas CÓDIGO:\\ 
+DEPARTAMENTO: Unidade Acadêmica de Garanhuns\\ ÁREA: \\
+CARGA HORÁRIA TOTAL: 60 HORAS NÚMERO DE CRÉDITOS: 04\\
+CARGA HORÁRIA SEMANAL: TEÓRICAS: PRÁTICAS: TOTAL: \\
+PRÉ-REQUISITOS: Equações Diferenciais\\
+CO-REQUISITOS: não há
+
+EMENTA 
+
+Introdução à simulação. Propriedades e classificação dos modelos de
+simulação. Revisão de conceitos: estatística, probabilidade, processos
+estocásticos. Exemplos de sistemas de simulação. Geração de números
+aleatórios. Noções básicas em teoria dos números. Geração e teste.
+Distribuições clássicas contínuas e discretas. Simulação de sistemas
+discretos e de sistemas contínuos. Verificação e validação de modelos.
+Técnicas estatísticas para análise de dados e de resultados de modelos
+de simulação. Simulação de sistemas simples de filas. Simulação de
+sistemas de computação. Estudos de caso.
+
+
+Freitas Filho, Paulo José. Introdução a modelagem e simulação de
+sistemas. Ed. VisualBooks, Florianópolis, 2001.\\
+Law, A.M. e Kelton, W.D. Simulation Modeling and Analysis. Ed.
+McGraw-Hill, USA, 1991.\\
+Perin Filho, C. Introdução a simulação de Sistemas. Ed. da Unicamp,
+Campinas, 1995.\\
+Prado, Darci. Teoria das Filas e da Simulação. Editora DG, Belo
+Horizonte (MG), 1999.\\
+Prado, Darci. Usando o Arena em Simulação. Editora DG, Belo Horizonte
+(MG), 1999.
+
+---
+
+DISCIPLINA: Tópicos em Matemática Computacional CÓDIGO:\\ 
+DEPARTAMENTO: Unidade Acadêmica de Garanhuns\\ 
+ÁREA:\\
+CARGA HORÁRIA TOTAL: 60 HORAS NÚMERO DE CRÉDITOS: 04\\
+CARGA HORÁRIA SEMANAL: TEÓRICAS: PRÁTICAS: TOTAL:\\
+PRÉ-REQUISITOS: Calculo para Computação III\\
+CO-REQUISITOS: não há
+
+EMENTA 
+
+Revisão de estatística: Conceitos clássicos de estatística
+(probabilidade, distribuições de probabilidade, médias, variância).
+Introdução ao pacote computacional STATISTICA. Revisão de álgebra
+matricial: Operações com matrizes e vetores. Valores característicos e
+vetores característicos de matrizes quadradas. Forma canônica de
+matrizes. Solução de um sistema de equações lineares e análise da
+solução. Introdução ao pacote computacional MATLAB. Revisão de métodos
+numéricos: Métodos de busca de zeros de funções. Interpolação de dados
+experimentais. Integração numérica. Resolução numérica de equações
+diferenciais. Revisão de equações diferenciais: Solução analítica de
+EDOs. Solução de EDOs de 1. e 2. ordem. Noções básicas de EDPs.
+
+
+BUSSAB, W.; MORETTIN, P.A. Estatística Básica. 5. ed. São Paulo:
+Saraiva, 2004.\\
+CHAPMAN, S.J. Fortran 90/95 for Scientists and Engineers. Mc Graw Hill,
+1997.\\
+CHAPMAN, S.J. Matlab Programming for Engineers. 2nd ed. Brooks Cole,
+2001.\\
+CHAPRA, S.C.; CANALE, R.P. Numerical Methods for Engineers with
+Programming and Software Applications. 4th Ed. Mc Graw Hill, 2002.\\
+SPIEGEL, M.R. Manual de Fórmulas e Tabelas de Matemática. 2. Ed. Versão
+rev. E ampl. Makron Books, 2002.\\
+STEINBRUCH, A.; WINTERLE, P. Álgebra Linear. 2a Ed. São Paulo: McGraw
+Hill, 1987.\\
+WYLIE, C.R.; BARRET, L.C. Advanced Engineering Mathematics. 5th ed.
+McGraw Hill, 1982.\\
+ZILL, D.G.; CULLEN, M.R. Equações Diferenciais -- Vol. 1 e Vol. 2, 3.
+Ed. São Paulo: Makron Books, 2001.\\
+WONNACOTT, H. and J. WONNACOTT, J., Introdução à Estatística; Rio de
+Janeiro, RJ: Livros Técnicos e Científicos; 1980.
+
+---
+
+DISCIPLINA: Cálculo para Computação III CÓDIGO:\\ 
+DEPARTAMENTO: Unidade Acadêmica de Garanhuns\\
+ÁREA: \\
+CARGA HORÁRIA TOTAL: 60 HORAS NÚMERO DE CRÉDITOS: 04\\
+CARGA HORÁRIA SEMANAL: TEÓRICAS: PRÁTICAS: TOTAL: \\
+PRÉ-REQUISITOS: Cálculo para Computação II\\
+CO-REQUISITOS: não há
+
+EMENTA 
+
+Conceitos introdutórios e classificação das equações diferenciais. Equações diferenciais de primeira ordem. Obtenção de soluções de equações lineares, separáveis, exatas, não exatas com fatores integrantes simples, etc. Algumas aplicações das equações de primeira ordem. Equações diferenciais de segunda ordem, propriedades gerais das soluções, soluções das homogêneas com coeficientes constantes. Equações lineares não homogêneas, método dos coeficientes a determinar e método da variação dos parâmetros. Estudo introdutório das oscilações lineares livres e forçadas. Transformada de Laplace, propriedades fundamentais, e utilização para resolução de equações diferenciais. Equação do calor. Método de separação de variáveis. Séries de Fourier, propriedades básicas e aplicações. Equação da onda, vibrações em uma corda elástica. Equaçãode Laplace.
+
+
+Básica:\\
+Equações Diferenciais Elementares e Problemas de Valores de
+Contorno, de BOYCE \& DiPRIMA, Ed. Guanabara Dois (Sétima Edição).
+
+---
+
+DISCIPLINA: Tópicos em Pesquisa Operacional CÓDIGO:\\ 
+DEPARTAMENTO: Unidade Acadêmica de Garanhuns\\ 
+ÁREA: \\
+CARGA HORÁRIA TOTAL: 60 HORAS NÚMERO DE CRÉDITOS: 04\\
+CARGA HORÁRIA SEMANAL: TEÓRICAS: PRÁTICAS: TOTAL: \\
+PRÉ-REQUISITOS: Teoria de Grafos\\
+CO-REQUISITOS: não há
+
+EMENTA 
+
+Método dos quadrados mínimos: modelos de programação linear; problema da análise de atividades; problema da dieta; problema do transporte; problema da designação; solução gráfica; limitações da programação linear. Método Simplex. Algoritmos especiais: problema do transporte; problema da designação. Dualidade. Análise pós-otimização. Noções de algoritmos Genéticos. Funções de várias variáveis. Método de otimização sem restrição. Método de otimização com restrição de igualdade. Método de otimização com restrição de desigualdade. 
+
+
+Básica:\\
+R. J. Vanderbei, Linear Programming  Foundations and Extensions.
+Kluwer Academics\\
+Publishers, Boston 1996.\S. J. Wright, Primal-Dual Interior-Point Methods. SIAM Publications,
+Philadelphia 1997. 
+\newpage
+
+\section*{Área Temática: Metodologia e Técnicas da Computação}
+
+---
+
+DISCIPLINA: Analise Quantitativa Estatística CÓDIGO: \\
+DEPARTAMENTO: Unidade Acadêmica de Garanhuns \\
+ÁREA: \\
+CARGA HORÁRIA TOTAL: 60 horas NÚMERO DE CRÉDITOS: 04\\
+CARGA HORÁRIA SEMANAL: TEÓRICAS: 50h PRÁTICAS: 10h TOTAL: 60h\\
+PRÉ-REQUISITOS: Probabilidade e Estatística, Metodologia Científica\\
+CO-REQUISITOS: não há
+
+EMENTA 
+
+Conceitos de Probabilidade, Análise Exploratória de Dados, Inferência
+Estatística Paramétrica, Inferência Estatística Não Paramétrica,
+Regressão Linear, Análise de Variância, Simulação Estocástica.
+
+
+Básica:\\
+Estatística Aplicada e Probabilidade para Engenheiros, Douglas C.
+Montgomery e George C. Runger. Quarta Edição. Editora LTC. (LIVRO
+TEXTO) \\
+Estatística Básica. Probabilidade e Inferência. Volume Único. Luiz
+Gonzaga Morettin. Person. (LIVRO DE EXERCÍCIOS)\\
+Applied Nonparametric Statistics  Wayne W. Daniel, Duxbury Resource
+Center, Second Edition.\\
+Complementar:\\
+The Art of Computer System Performance Analysis: Techniques for
+Experimental Design, Measurement, Simulation and Modeling, Raj Jain,
+John Wiley \& Sons, 1991, ISBN: 0-471-50336-3. \\
+Statistics for Experimenters: An Introduction to Design, Data Analysis,
+and Model Building , George E. P. Box, Wiliam G. Hunter, J. Stuart
+Hunter, John Wiley \& Sons, Inc. 1978.
+
+---
+
+DISCIPLINA: Métodos de Pesquisa em Computação CÓDIGO: \\
+DEPARTAMENTO: Unidade Acadêmica de Garanhuns \\
+ÁREA: \\
+CARGA HORÁRIA TOTAL: 60 horas NÚMERO DE CRÉDITOS: 04\\
+CARGA HORÁRIA SEMANAL: TEÓRICAS: 50h PRÁTICAS: 10h TOTAL: 60h\\
+PRÉ-REQUISITOS: Metodologia Científica\\
+CO-REQUISITOS: não há
+
+EMENTA 
+
+A metodologia científica é o estudo de como se conduz/produz pesquisa
+científica. Metodologia científica é necessária, entre outras razões,
+para tornar os resultados da pesquisa mais confiáveis e possíveis de
+serem reproduzidos, de forma independente, por outros pesquisadores.
+Este curso irá apresentar estratégias e métodos para pesquisa em
+computação desde a formulação do problema até a validação de uma
+possível solução. Em particular, o curso irá focar em métodos
+experimentais e explorar o papel da experimentação na pesquisa em
+computação.
+
+
+Magne Jørgensen's site:
+http://simula.no/people/magnej/bibliography?b\_size:int=9999999\&b\_start:int=0\&-C=\\
+ESERNET  the Experimental Software Engineering Network\\
+Steve Easterbrook's course CSC2130S: Empirical Research
+Methods in Software Engineering, at University of Toronto;\\
+Susan Sim's course ICS 280: Research Methodology for
+Software at UC Irvine;\\
+Dewayne Perry's course EE382C Empirical Studies in
+Software Engineering at U Texas;\\
+Mary Shaw's course 17-939A What Makes Good Research in
+Software Engineering at CMU;\\
+Jim Herbsleb's course 17-810 Empirical Methods in
+Software Engineering Research at CMU;\\
+Wilhelm Hasselbring's course 2.01.261 Research Methods
+in Software Engineering at U Oldenburg;\\
+Philip Johnson's Readings in Empirical Evaluation for
+Budding Software Engineering Researchers at U Hawaii;\\
+Letizia Jaccheri's Empirical software engineering
+course at NTNU Trondheim;\\
+Andreas Zeller's course Empirical Software Engineering
+at Saarland U.\\
+Jonathan Sillito. Qualitative Research Methods in Software Engineering
+(CPSC 601.23), Winter 2007, 2008 and 2009.\\
+Ioannidis: Why Most Published Research Findings Are False.\\
+Lung, J., Aranda, J., Easterbrook, S. M. and Wilson, G. V., On the
+Difficulty of Replicating Human Subjects Studies in Software
+Engineering. 30th ACM/IEEE International Conference on Software
+Engineering (ICSE 2008), Leipzig, Germany, May 10-18,
+2008.
+
+---
+
+DISCIPLINA: Análise de Dados Simbólicos CÓDIGO: \\
+DEPARTAMENTO: Unidade Acadêmica de Garanhuns \\
+ÁREA: \\
+CARGA HORÁRIA TOTAL: 60 horas NÚMERO DE CRÉDITOS: 04\\
+CARGA HORÁRIA SEMANAL: TEÓRICAS: 50h PRÁTICAS: 10h TOTAL: 60h\\
+PRÉ-REQUISITOS: Probabilidade e Estatística, Metodologia Científica\\
+CO-REQUISITOS: não há
+
+EMENTA 
+
+Introdução a Análise de Dados Simbólicos, Dados Simbólicos, Estatística
+Descritiva para Dados Simbólicos, Similaridade e Dissimilaridade entre
+Dados Simbólicos, Análise de Componentes Principais de Dados
+Simbólicos, Regressão para Dados Simbólicos, Classificação para Dados
+Simbólicos, Análise de Agrupamento para Dados Simbólicos, Previsão de
+Séries Temporais de Dados Simbólicos.
+
+
+Applied Multivariate Data Statistical Analysis, Richard Johnson and Dean
+W. Wichern. Third Edition, Prentice Hall, 1992.\\
+Analysis of Symbolic Data. H.-H. Bock and E. Diday (Eds.),
+Springer-Verlag, 2000.\\
+Symbolic Data Analysis. Conceptual Statistics and Data Mining. L.
+Billard and E. Diday, Wiley, 2006\\
+Symbolic Data Analysis and the SODAS Software. E. Diday and M.
+Noirhomme-Fraiture, Wiley 2008.
+
+---
+
+DISCIPLINA: Métodos de Pesquisa Qualitativa CÓDIGO: \\
+DEPARTAMENTO: Unidade Acadêmica de Garanhuns\\
+ÁREA: \\
+CARGA HORÁRIA TOTAL: 60 horas NÚMERO DE CRÉDITOS: 04\\
+CARGA HORÁRIA SEMANAL: TEÓRICAS: 50h PRÁTICAS: 10h TOTAL: 60h\\
+PRÉ-REQUISITOS: Metodologia Científica\\
+CO-REQUISITOS: não há
+
+EMENTA 
+
+Pergunta de Pesquisa, Estudo de Caso, Protocolos de Pesquisa, Métodos de
+Coleta de Dados, Análise e Síntese.
+
+
+Kitchenham et al: Preliminary guidelines for empirical research in
+software engineering, IEEE Transactions On Software Engineering, Vol.
+28, No. 8, August 2002.\\
+D. I. K. Sjøberg, T. Dybå, and M. Jørgensen. The Future of Empirical
+Methods in Software Engineering Research, In: Future of Software
+Engineering (FOSE 2007), 2007.\\
+Hannay J E, Sjoberg D I K, Dyba T. A systematic review of theory use in
+software engineering experiments. IEEE Transactions on Software
+Engineering VOL. 33, NO. 2, FEBRUARY 2007.\\
+M. Jørgensen, and D. I. K. Sjøberg. Generalization and Theory-Building
+in Software Engineering Research, In: Empirical Assessment in Software
+Engineering (EASE2004), ed. by unknown, pp. 29-36, IEEE Proceedings
+(ISBN: 0 86341 435 4), 2004.
+
+---
+
+DISCIPLINA: Revisões Sistemáticas de Literatura CÓDIGO: \\
+DEPARTAMENTO: Unidade Acadêmica de Garanhuns \\
+ÁREA: \\
+CARGA HORÁRIA TOTAL: 60 horas NÚMERO DE CRÉDITOS: 4\\
+CARGA HORÁRIA SEMANAL: 4h TEÓRICAS: 50h PRÁTICAS: 10h TOTAL: 60h\\
+PRÉ-REQUISITOS: Metodologia Científica\\
+CO-REQUISITOS: não há
+
+EMENTA 
+
+Pergunta de Pesquisa, Estratégias de Busca, Termos de Pesquisa,
+Protocolo da Revisão, Selecionando as Fontes, Mapeamento Sistemáticos,
+Extração de Dados, Desenvolvendo os relatórios de revisão.
+
+
+Arlene Fink. Conducting Research Literature Reviews. Sage Publications,
+2010.\\Mark Petticrew and Helen Roberts. Systematics Review in the Social
+Scienced. Blackwell Publishing, 2006.\\
+B. Kitchenham, T. Dybå, and M. Jørgensen. Evidence-based Software
+Engineering, In: International Conference on Software Engineering
+(ICSE 2004), pp. 273-281, Edinburgh, IEEE Computer
+Society, Washington DC, USA, 2004. \\
+T. Dybå, B. Kitchenham, and M. Jørgensen. Evidence-based Software
+Engineering for Practitioners, IEEE Software 22(1):58-65, 2005.\\
+Magne Jørgensen, Tory Dyb, e Barbara Kitchenham Teaching Evidence-Based
+Software Engineering to University Students.\\
+Briony J Oates, Graham Capper. Using systematic reviews and
+evidence-based software engineering with masters students. EASE 2009.\\
+Barbara Kitchenham and Stuart Charters. Guidelines for performing
+Systematic Literature Reviews in Software Engineering. Keele University
+and Durham University Joint Report. 2007.\\
+Travassos e Biolchini. Revisões Sistemáticas Aplicadas a Engenharia de
+Software. Tutorial SBES 2007.\\
+Andreas Jedlitschka and Marcus Ciolkowski. Reporting Experiments in
+Software Engineering.\\
+Basili and Rombach. The Goal Question Metric Paradigm.\\
+Basili and Caldiera. Improving Software Qualitiy by Reusing Knowledge
+and Experience.\\
+Miller, J. Can results from software engineering experiments be safely
+combined? Software Metrics Symposium, 1999. \\
+Jedlitschka, A.; Ciolkowski, M. Towards evidence in software
+engineering. Empirical Software Engineering, 2004.
+ISESE 2004. Proceedings. 2004 International Symposium on
+Volume , Issue , 19-20 Aug. 2004 Page(s): 261  270.\\
+Pickard L.M.1;Kitchenham B.A.; Jones P.W. Combining empirical results in
+software engineering. Authors: Information and Software Technology, vol
+40, num. 14.\\
+Tore Dyba, Vigdis By Kampenes, Dag I.K. Sjøberg. A systematic review of
+statistical power in software engineering experiments.\\
+Shull, F. J., Carver, J. C., Vegas, S. and Juristo, N., The role of
+replications in Empirical Software Engineering. Empirical Software
+Engineering 13 (2), p211-218. April 2008 \\
+Kitchenham, B. The Role of Replications in Software Engineering  A
+word of Warning. Empirical Software Engineering 13 (2), p219-221. April
+2008.\\
+Lung, J., Aranda, J., Easterbrook, S. M. and Wilson, G. V., On the
+Difficulty of Replicating Human Subjects Studies in Software
+Engineering. 30th ACM/IEEE International Conference on Software
+Engineering (ICSE 2008), Leipzig, Germany, May 10-18,
+2008.\\
+Jedlitschka, A.; Pfahl, D. Reporting guidelines for controlled
+experiments in software engineering. 2005 International Symposium on
+Empirical Software Engineering.\\
+Evaluating guidelines for empirical software engineering studies.
+Proceedings of the 2006 ACM/IEEE international symposium on Empirical
+software engineering.
+
+---
+
+DISCIPLINA: Tópicos Especiais em Metodologia de Pesquisa CÓDIGO: \\
+DEPARTAMENTO: Unidade Acadêmica de Garanhuns \\
+ÁREA: \\
+CARGA HORÁRIA TOTAL: 60 horas NÚMERO DE CRÉDITOS: 04\\
+CARGA HORÁRIA SEMANAL:04 horas TEÓRICAS: 60h PRÁTICAS: 0h TOTAL: 60h\\
+PRÉ-REQUISITOS: Metodologia Cientifica\\
+CO-REQUISITOS: não há
+
+EMENTA 
+
+Estudo de técnicas avançadas em na área multidisciplinar de Metodologia
+de Pesquisa permitindo ao aluno conhecer o estado da arte nesta área de
+pesquisa.
+
+
+Artigos da area.
+\newpage
+
+\section*{Área Temática: Mídia e Interação}
+
+---
+
+DISCIPLINA: Processamento Digital de Imagens CÓDIGO:\\ 
+DEPARTAMENTO: Unidade Acadêmica de Garanhuns\\
+ÁREA: \\
+CARGA HORÁRIA TOTAL: 60 HORAS NÚMERO DE CRÉDITOS: 04\\
+CARGA HORÁRIA SEMANAL: TEÓRICAS: PRÁTICAS: TOTAL: \\
+PRÉ-REQUISITOS: Matemática Discreta e Computação Gráfica\\
+CO-REQUISITOS: não há
+
+EMENTA 
+
+Introdução. Amostragem. Processamento de histogramas. Filtragem
+espacial. Filtragem no domínio da freqüência. Restauração. Modelos de
+cor. Processamento de imagens coloridas. Processamento morfológico.
+Segmentação. Representação e Descrição. Tópicos sobre formatos de
+arquivo de imagens. Tópicos sobre compressão de imagens. Projeto.
+
+
+Básica:\\
+Gonzalez, R.C. \& Woods, R.E. Digital Image Processing, 3rd Ed.
+Prentice Hall, USA, 2008.\\
+Computação Gráfica: Teoria e Prática, AZEVEDO, E. e Conci, A. Editora
+Campus, Elsevier, 2003. Rio de Janeiro.ISBN 8535212533.\\
+Facon J. Morfologia Matemática: Teoria e
+Exemplos, Ed. Univ. Champagnat, 1996.\\
+Complementar:\\
+Pratt, W. K.  Digital Image Processing, 4th ed. USA, Wiley
+Interscience Pub., 2007.\\
+Análise De Imagens Digitais: Principios, Algoritmos E Aplicaçoes,
+PEDRINI, HELIO; SCHWARTZ; WILLIAM ROBSON THOMSON PIONEIRA, 2007. ISBN
+8522105952.\\
+Marques Filho O., Vieira Neto H., Processamento Digital
+de Imagens, Brasport Livros, 1999.
+
+---
+
+DISCIPLINA: Processamento Digital de Imagens II CÓDIGO:\\ 
+DEPARTAMENTO: Unidade Acadêmica de Garanhuns\\
+ÁREA: \\
+CARGA HORÁRIA TOTAL: 60 HORAS NÚMERO DE CRÉDITOS: 04\\
+CARGA HORÁRIA SEMANAL: TEÓRICAS: PRÁTICAS: TOTAL: \\
+PRÉ-REQUISITOS: Processamento Digital de Imagens\\
+CO-REQUISITOS: não há
+
+EMENTA 
+
+Wavelets. Compressão de Imagens. Formatos de arquivos de imagens.
+Segmentação. Representação e Descrição. Reconhecimento de objetos.
+Tópicos Avançados. Projeto.
+
+
+Básica:\\
+James Murray D., William vanRyper. Encyclopedia of Graphics File Formats
+2nd Edition. O'Reilly \& Associates, Inc. 1996
+(http://www.fileformat.info/mirror/egff/index.htm)\\
+Michael W. Frazier. An Introduction to Wavelets Through Linear Algebra.
+Springer. 1999.\\
+Witten, Moffat, Bell. Managing gigabytes compressing and indexing
+documents and images, 2ed.,(1999).\\
+Complementar:\\
+
+Gonzales \& Woods. Processamento Digital De Imagens (3 Ed). Pearson
+Education. 2010.\\
+A. K. Jain. Fundamentals of digital image processing. Prentice-Hall
+International Editions, Englewood Cliffs, NJ, 1989.\\
+Bernd Jähne. Digital Image Processing 6th edition. Springer. 2005.
+
+---
+
+DISCIPLINA: Modelagem Geométrica CÓDIGO:\\ 
+DEPARTAMENTO: Unidade Acadêmica de Garanhuns\\ 
+ÁREA: \\
+CARGA HORÁRIA TOTAL: 60 HORAS NÚMERO DE CRÉDITOS: 04\\
+CARGA HORÁRIA SEMANAL: TEÓRICAS: PRÁTICAS: TOTAL: \\
+PRÉ-REQUISITOS: Computação Gráfica\\
+CO-REQUISITOS: não há
+
+EMENTA 
+
+Geometria projetiva. Curvas paramétricas, composição de curvas,
+superfícies paramétricas, modelagem sólida, particionamento espacial,
+malhas poligonais e níveis de detalhes.
+
+
+Básica:\\
+Farin, G.  Curves and Surfaces for CAGD. 4th edition. Academic
+Press.\\
+Farin, G. Nurbs: From Projective Geometry to Practical Use. 2nd
+edition. AK Peters.\\
+Gomes, J. e Velho, L. Fundamentos da Computação Gráfica  SBM.\\
+Complementar:\\
+Mortenson, M. E.  Geometric Modeling. 2nd edition. Wiley and Sons.\\
+Luebke, D. et al  Level of Detail for 3D Graphics. Morgan Kaufmann.
+
+---
+
+DISCIPLINA: Realidade Virtual e Aumentada CÓDIGO:\\ 
+DEPARTAMENTO: Unidade Acadêmica de Garanhuns\\ 
+ÁREA: \\
+CARGA HORÁRIA TOTAL: 60 HORAS NÚMERO DE CRÉDITOS: 04\\
+CARGA HORÁRIA SEMANAL: TEÓRICAS: PRÁTICAS: TOTAL: \\
+PRÉ-REQUISITOS: Computação Gráfica\\
+CO-REQUISITOS: não há
+
+EMENTA 
+
+Introdução  Histórico. Aplicações: mercados tradicionais e
+emergentes. Tecnologias Básicas. Definições e Caracterizações. Fatores
+Humanos, Percepção Humana e Interação. Princípios Básicos de Computação
+Gráfica aplicados a RV e RA. Princípios de Modelagem Geométrica
+Aplicados a RV e RA. Modelagem de Ambientes Virtuais. Ferramentas de
+Desenvolvimento de Ambientes Virtuais. Tópicos Especiais em Realidade
+Virtual.
+
+
+Básica:\\
+Desenvolvimento De Jogos 3d E Aplicações Em Realidade Virtual, AZEVEDO,
+EDUARDO; STELKO, MICHELLE; MEYER, HOMERO. CAMPUS, 2005. ISBN:
+8535215697.\\
+Grigore C. Burdea et al. Virtual Reality Technology, 2nd. edition,
+Wiley-Interscience, 2003.\\
+Oliver Bimber et al. Spatial Augmented Reality: Merging Real and Virtual
+Worlds, A K Peters, 2005.\\
+Complementar:\\
+Oliver Bimber et al. Spatial Augmented Reality: Merging Real and Virtual
+Worlds, A K Peters, 2005.\\
+MCCARTH, Martin, et al. Reality Architecture: Building 3D Worlds with
+Java and VRML. Hertfordshire: Prentice-Hall, 1998.
+
+---
+
+DISCIPLINA: Processamento Digital de Sinais CÓDIGO:\\
+DEPARTAMENTO: Unidade Acadêmica de Garanhuns\\
+ÁREA:\\
+CARGA HORÁRIA TOTAL: 60 HORAS NÚMERO DE CRÉDITOS: 04\\
+CARGA HORÁRIA SEMANAL: TEÓRICAS: PRÁTICAS: TOTAL:\\
+PRÉ-REQUISITOS: Calculo II e Reconhecimento de Padrões\\
+CO-REQUISITOS: não há
+
+EMENTA 
+
+Representação digital de sinais de áudio, imagens, e vídeo: amostragem,
+quantização e  aliasing. Transformada Discreta de Fourier e FFT (1D, 2D e 3D). Outras
+transformações: Transformada de Fourier (Contínua), Transformada do
+Coseno Discreta, Transformada z, Transformada de Walsh-Hadamard,
+Transformada de Haar. Convolução linear, circular e secionada. Filtros
+lineares (FIR) e Filtros recursivos (IIR). Aplicações de filtros:
+suavização, interpolação, realce, detecção de bordas e segmentação.
+Espaço de transformação no tempo e no espaço, localização e efeitos no
+espectro. Bancos de filtros e técnicas de análise-ressíntese.
+Compressão: Predição Linear, compressão usando DCT, Compensação de
+Movimento. Sinais aleatórios: Representação, Filtros de Wiener e de
+Kalman.
+
+
+Básica:\\
+S. Allen Broughton and Kurt M. Bryan. Discrete Fourier Analysis and
+Wavelets: Applications to Signal and Image Processing.
+Wiley-Interscience, 2008.\\
+John W. Woods. Multidimensional Signal, Image and Video Processing and
+Coding. Academic Press, 2006.\\
+Rafael C. Gonzales and Richard E. Woods. Digital Image Processing, 3rd
+ed. Prentice Hall, 2007.\\
+Complementar:\\
+Charles L. Byrne. Signal Processing: a Mathematical Approach. A. K.
+Peters Ltd., 2005.\\
+Ronald N. Bracewell. Fourier Analysis and Imaging. Springer, 2004.\\
+Richard W. Hamming. Digital Filters, 3rd ed. Dover Publications, 1997.\\
+Alan. V. Oppenheim and Ronald W. Schafer. Discrete-Time Signal
+Processing, 2nd ed. Prentice Hall, 1999.
+
+---
+
+DISCIPLINA: Processamento Digital de Áudio CÓDIGO:\\ 
+DEPARTAMENTO: Unidade Acadêmica de Garanhuns\\
+ÁREA: \\
+CARGA HORÁRIA TOTAL: 60 HORAS NÚMERO DE CRÉDITOS: 04\\
+CARGA HORÁRIA SEMANAL: TEÓRICAS: PRÁTICAS: TOTAL: \\
+PRÉ-REQUISITOS: Calculo 2\\
+CO-REQUISITOS: não há
+
+EMENTA 
+
+Conceitos básicos de som, acústica e psicoacústica. Sinais de áudio:
+fundamentos, representação, processamento e síntese. Software para
+processamento de áudio. Protocolos e padrões de áudio. Compressão de
+áudio. Tópicos Avançados. Projetos.
+
+
+Básica:\\
+Curtis Roads. The Computer Music Tutorial. MIT Press, 1996\\
+Ken C. Pohlman. Principles of Digital Audio 4th Edition. McGraw Hill.
+2000.\\
+Charles Dodge \& Thomas A. Jerse. Computer Music: Synthesis,
+Composition, and Performance. Schirmer Books. 1997.\\
+Complementar:\\
+Charles L. Byrne. Signal Processing: a Mathematical Approach. A. K.
+Peters Ltd., 2005.\\
+Richard W. Hamming. Digital Filters, 3rd ed. Dover Publications, 1997.\\
+Alan. V. Oppenheim and Ronald W. Schafer. Discrete-Time Signal
+Processing, 2nd ed. Prentice Hall, 1999.
+
+---
+
+DISCIPLINA: Desenvolvimento de Jogos CÓDIGO:\\ 
+DEPARTAMENTO: Unidade Acadêmica de Garanhuns\\ 
+ÁREA: \\
+CARGA HORÁRIA TOTAL: 60 HORAS NÚMERO DE CRÉDITOS: 04\\
+CARGA HORÁRIA SEMANAL: TEÓRICAS: PRÁTICAS: TOTAL: \\
+PRÉ-REQUISITOS: Computação Gráfica\\
+CO-REQUISITOS: não há
+
+EMENTA 
+
+Introdução: história e categorias de jogos. Gerenciamento de equipes de
+desenvolvimento de jogos. Projeto de jogos: roteiro, interface.
+Conceitos gráficos: modelagem 2D e 3D. Técnicas e Ferramentas de
+Implementação (2D e 3D). Conceitos: gráficos, sons, inteligência
+artificial e redes em Jogos. Tópicos complementares. Projeto de
+Desenvolvimento.
+
+
+Básica:\\
+Desenvolvimento De Jogos 3d E Aplicações Em Realidade Virtual, AZEVEDO,
+EDUARDO; STELKO, MICHELLE; MEYER, HOMERO. CAMPUS, 2005. ISBN:
+8535215697.\\
+Game Design: Principles, Practice, And Techniques- The Ultimate,
+THOMPSON, JIM; BERBANK-GREEN, BARNABY; CUSWORTH, NIC. JOHN WILEY
+CONSUMER, 2007.ISBN 0471968943.\\
+Rules of Play: Game Design Fundamentals, Salen, K; e E, Zimmerman.
+Hardcover, 2003. ISBN-10: 9780262240451.\\
+Complementar:\\
+Game Developer Magazine\\
+Foruns de Desenvolvimento: www.gamasutra.com, www.gamedev.net e outros\\
+(vários autores...) série: Game Programming Gems vol 1-6.
+
+---
+
+DISCIPLINA: Princípios da Animação Gráfica 3D CÓDIGO:\\ 
+DEPARTAMENTO: Unidade Acadêmica de Garanhuns\\ 
+ÁREA: \\
+CARGA HORÁRIA TOTAL: 60 HORAS NÚMERO DE CRÉDITOS: 04\\
+CARGA HORÁRIA SEMANAL: TEÓRICAS: PRÁTICAS: TOTAL: \\
+PRÉ-REQUISITOS: Computação Gráfica
+CO-REQUISITOS: não há
+
+EMENTA 
+
+Introdução a animação gráfica 3D. O processo de produção e princípios de
+planejamento de Animações e Jogos 3D.Ferramentas de modelagem 3D.
+Geração de animações em 3D. Ferramentas para desenvolvimento de Jogos
+3D (Ogre 3D e XNA). Projeto de Desenvolvimento.
+
+
+Básica:\\
+Desenvolvimento De Jogos 3d E Aplicações Em Realidade Virtual, AZEVEDO,
+EDUARDO; STELKO, MICHELLE; MEYER, HOMERO. CAMPUS, 2005. ISBN:
+8535215697.\\
+Allan Brito; Blender 3D -- Guia do Usuário (4. Edição), 2010 Ed.Novatec,
+ISBN: 978-85-7522-258-4.\\
+Reinicke, J. F.; Modelando Personagens com o Blender 3D, 2008 Ed.
+Novatec, 978-85-7522-144-0. \\
+Complementar:\\
+Tutoriais e Fóruns de discussão.
+
+---
+
+DISCIPLINA: Wavelets CÓDIGO:\\ 
+DEPARTAMENTO: Unidade Acadêmica de Garanhuns\\ ÁREA: \\
+CARGA HORÁRIA TOTAL: 60 HORAS NÚMERO DE CRÉDITOS: 04\\
+CARGA HORÁRIA SEMANAL: TEÓRICAS: PRÁTICAS: TOTAL: \\
+PRÉ-REQUISITOS: Álgebra Linear; Algoritmos e Estrutura de Dados II
+\\CO-REQUISITOS: não há
+
+EMENTA 
+
+Revisão em Álgebra Linear. Transformada Discreta de Fourier. Wavelets.
+
+
+Básica:\\
+Michael W. Frazier. An Introduction to Wavelets Through Linear Algebra.
+Springer. 1999.\\
+Christian Blatter. Wavelets: A Primer. A K Peters/CRC Press. 1999.\\
+James S. Walker. A Primer on Wavelets and Their Scientific Applications.
+CRC Press. 1999.\\
+Complementar:\\
+Gonzales \& Woods. Processamento Digital De Imagens (3 Ed). Pearson
+Education. 2010. \\
+A. K. Jain. Fundamentals of digital image processing. Prentice-Hall
+International Editions, Englewood Cliffs, NJ, 1989.\\
+Bernd Jähne. Digital Image Processing 6th edition. Springer. 2005.
+
+---
+
+DISCIPLINA: Introdução à Computação Quântica CÓDIGO:\\ 
+DEPARTAMENTO: Unidade Acadêmica de Garanhuns\\ 
+ÁREA: \\
+CARGA HORÁRIA TOTAL: 60 HORAS NÚMERO DE CRÉDITOS: 04\\
+CARGA HORÁRIA SEMANAL: 04 TEÓRICAS: 03 PRÁTICAS: 01 TOTAL: 04\\
+PRÉ-REQUISITOS: não há\\
+CO-REQUISITOS: não há
+
+EMENTA 
+
+Espaços de Hilbert sobre corpo Complexo. Elementos da Teoria da
+Computação Clássica contendo Circuitos Booleanos. Elementos da Teoria Quântica. Elementos da
+Computação quântica: modelos teóricos, portas lógicas quânticas. Algoritmos
+quânticos do tipo Oráculo (Deutsch-Josza, Grover). Algorítmos quânticos do tipo Transformada de
+Fourier (Simon, Shor). Simuladores e Linguagens de Programação Quânticas. Noções de
+complexidade de computação: Classe NP, Algoritmos Probabilísticos e a Classe BPP.
+
+
+Noson S. Yanofsky; Mirco A. Mannucci: Quantum Computing for Computer
+Scientists.\\
+Cambridge University Press, 2008, ISBN 978-0-521-87996-5 \\
+David McMahon: Quantum Computing Explained. Wiley-Interscience,
+Hoboken, New Jersey, USA, 2008, ISBN 978-0-470-09699-4\\
+N. David Mermin: Quantum Computer Science  An Introduc-tion.
+Cambridge University Press, New York, USA, 2007, ISBN 978-0-521-87658-2\\
+Alexei Yu. Kitaev, Alexander H. Shen e Mikhail N. Vyalyi: Classical
+and Quantum Computation. Graduate Studies in Mathematics, vol 47, AMS, 2002. ISBN
+0-8218-3229-8\\
+Michael A. Nielsen e Isaac L. Chuang: Computação Quântica e
+Informação Quântica. 1a. Edição, Editora Bookman, 2005, ISBN 8536305541.\\
+Artigos recentes da área de pesquisa.
+
+---
+
+DISCIPLINA: Tópicos Especiais em Processamento de Sinais CÓDIGO:\\ 
+DEPARTAMENTO: Unidade Acadêmica de Garanhuns\\
+ÁREA: \\
+CARGA HORÁRIA TOTAL: 60 HORAS NÚMERO DE CRÉDITOS: 04\\
+CARGA HORÁRIA SEMANAL: TEÓRICAS: PRÁTICAS: TOTAL: \\
+PRÉ-REQUISITOS: Calculo II; Álgebra Linear\\
+CO-REQUISITOS: não há
+
+EMENTA 
+
+Revisão em Álgebra Linear. Transformada Discreta de Fourier. Wavelets.
+Introdução a analise de sinais Biométricos. 
+
+
+Básica:\\
+S. Allen Broughton and Kurt M. Bryan. Discrete Fourier Analysis and
+Wavelets: Applications to Signal and Image Processing.
+Wiley-Interscience, 2008.\\
+John W. Woods. Multidimensional Signal, Image and Video Processing and
+Coding. Academic Press, 2006.\\
+Robert B. Northrop. Signals and Systems Analysis In Biomedical
+Engineering, Second Edition  Hardcover, 2010.\\
+Complementar:\\
+Charles L. Byrne. Signal Processing: a Mathematical Approach. A. K.
+Peters Ltd., 2005.\\
+I. Gath, G.F. Inbar. Advances in Processing and Pattern Analysis of
+Biological Signals (Advances in Experimental Medicine \& Biology.
+Hardcover, 1996.\\
+Ronald N. Bracewell. Fourier Analysis and Imaging. Springer, 2004.\\
+Alan. V. Oppenheim and Ronald W. Schafer. Discrete-Time Signal
+Processing, 2nd ed. Prentice Hall, 1999.
+
+---
+
+DISCIPLINA: Tópicos Especiais em Processamento de Imagens CÓDIGO:\\ 
+DEPARTAMENTO: Unidade Acadêmica de Garanhuns\\ 
+ÁREA: \\
+CARGA HORÁRIA TOTAL: 60 HORAS NÚMERO DE CRÉDITOS: 04\\
+CARGA HORÁRIA SEMANAL: TEÓRICAS: PRÁTICAS: TOTAL: \\
+PRÉ-REQUISITOS: Processamento de Imagens.\\
+CO-REQUISITOS: não há
+
+EMENTA 
+
+Estudo de técnicas avançadas em Processamento de Imagens permitindo ao
+aluno conhecer o estado da arte nesta área de pesquisa.
+
+
+Artigos recentes da área de pesquisa.
+
+---
+
+DISCIPLINA: Tópicos Especiais em Processamento de Áudio CÓDIGO:\\ 
+DEPARTAMENTO: Unidade Acadêmica de Garanhuns\\ 
+ÁREA: \\
+CARGA HORÁRIA TOTAL: 60 HORAS NÚMERO DE CRÉDITOS: 04\\
+CARGA HORÁRIA SEMANAL: TEÓRICAS: PRÁTICAS: TOTAL: \\
+PRÉ-REQUISITOS: Processamento de Áudio\\
+CO-REQUISITOS: não há
+
+EMENTA 
+
+Estudo de técnicas avançadas em Processamento de Áudio permitindo ao
+aluno conhecer o estado da arte nesta área de pesquisa.
+
+
+Artigos recentes da área de pesquisa.
+
+---
+
+DISCIPLINA: Tópicos Especiais em Mídia e Interação CÓDIGO:\\ 
+DEPARTAMENTO: Unidade Acadêmica de Garanhuns\\
+ÁREA: \\
+CARGA HORÁRIA TOTAL: 60 HORAS NÚMERO DE CRÉDITOS: 04\\
+CARGA HORÁRIA SEMANAL: TEÓRICAS: PRÁTICAS: TOTAL: \\
+PRÉ-REQUISITOS: Não há.\\
+CO-REQUISITOS: não há
+
+EMENTA 
+
+Estudo de técnicas avançadas em de interação e representação das
+diversas mídias existentes, permitindo ao aluno conhecer o estado da
+arte nesta área de pesquisa.
+
+
+Artigos recentes da área de pesquisa.
+
+---
+
+DISCIPLINA: Tópicos Especiais em Jogos CÓDIGO:\\ 
+DEPARTAMENTO: Unidade Acadêmica de Garanhuns\\
+ÁREA: \\
+CARGA HORÁRIA TOTAL: 60 HORAS NÚMERO DE CRÉDITOS: 04\\
+CARGA HORÁRIA SEMANAL: TEÓRICAS: PRÁTICAS: TOTAL: \\
+PRÉ-REQUISITOS: não há\\
+CO-REQUISITOS: não há
+
+EMENTA 
+
+Estudo de técnicas para o gerenciamento de produção de jogos.
+Ferramentas (Engineer) de desenvolvimento de jogos 3D. Projeto.
+
+
+Rabin, Steve, 2a, Introduction to Game Development. Charles River Media
+2010\\
+Penton, Ron., 1a, Data structures for game programmers. The Premier
+Press 2003\\
+Artigos recentes da área de pesquisa.
+
+---
+
+DISCIPLINA: Tópicos Especiais em Realidade Virtual e Aumentada CÓDIGO:\\ 
+DEPARTAMENTO: Unidade Acadêmica de Garanhuns\\
+ÁREA: \\
+CARGA HORÁRIA TOTAL: 60 HORAS NÚMERO DE CRÉDITOS: 04\\
+CARGA HORÁRIA SEMANAL: TEÓRICAS: PRÁTICAS: TOTAL: \\
+PRÉ-REQUISITOS: não há\\
+CO-REQUISITOS: não há
+
+EMENTA 
+
+Estudo de técnicas avançadas em de interação e representação das
+diversas mídias existentes, permitindo ao aluno conhecer o estado da
+arte nesta área de pesquisa.
+
+
+Grigore C. Burdea et al. Virtual RealityTechnology, 2nd. edition,
+Wiley-Interscience, 2003.\\
+Desenvolvimento De Jogos 3d E Aplicações Em Realidade Virtual, AZEVEDO,
+EDUARDO; STELKO, MICHELLE; MEYER, HOMERO. CAMPUS, 2005. ISBN:
+8535215697.\\
+Oliver Bimber et al. Spatial Augmented Reality: Merging Real and Virtual
+Worlds, A K Peters, 2005.\\
+Artigos recentes da área de pesquisa.
+
+\section*{Área Temática: Redes e Sistemas Distribuídos}
+
+---
+
+DISCIPLINA: Gerenciamento de Redes CÓDIGO:\\ 
+DEPARTAMENTO: Unidade Acadêmica de Garanhuns\\
+ÁREA: \\
+CARGA HORÁRIA TOTAL: 60 HORAS NÚMERO DE CRÉDITOS: 04\\
+CARGA HORÁRIA SEMANAL: TEÓRICAS: 3 PRÁTICAS: TOTAL: 1 \\
+PRÉ-REQUISITOS: Redes de Computadores\\
+CO-REQUISITOS: não há
+
+EMENTA 
+
+Princípios, organização e métodos de administração de rede; Tecnologias
+para operação e gerência de rede; Rede de gerência de telecomunicações
+TMN; Recursos humanos para administração de rede; Plataformas de
+gerência de redes; e Aplicações de gerência de rede.
+
+
+Básica:\\
+Stallings, William. SNMP, SNMPv2, SNMPv3, and RMON 1 and RMON 2. Third
+Edition. Pearson, 1999.\\
+Burgess, Mark. Princípios de Administração de redes e sistemas. 3. ed.
+São Paulo: LTC, 2006.\\
+Kurose, James F.; Ross, Keith W. Redes de computadores e a internet: uma
+abordagem top-down. 3. Edição. São Paulo: Pearson Addison Wesley,
+2008.\\
+Complementar:\\
+Tanenbaum, Andrew S. Redes de computadores. 4. Edição. Rio de Janeiro:
+Editora Campus, 2002. \\
+COMER, Douglas E. Interligação de Redes com TCP/IP, Volumes I 5. Edição.
+Prentice Hall, 2006.\\
+COMER, Douglas E. Interligação de Redes com TCP/IP, Volumes II 5. Edição. Prentice Hall, 2006.
+
+---
+
+DISCIPLINA: Segurança de Redes CÓDIGO:\\ 
+DEPARTAMENTO: Unidade Acadêmica de Garanhuns\\ 
+ÁREA: \\
+CARGA HORÁRIA TOTAL: 60 HORAS NÚMERO DE CRÉDITOS: 04\\
+CARGA HORÁRIA SEMANAL: TEÓRICAS: 3 PRÁTICAS: TOTAL: 1 \\
+PRÉ-REQUISITOS: Redes de Computadores\\
+CO-REQUISITOS: não há
+
+EMENTA 
+
+Introdução à criptografia; Criptografia de chave simétrica; Criptografia
+de chave pública; Assinatura Digital; Certificados Digitais;
+Gerenciamento da Segurança da Informação; Pragas Virtuais; SPAM;
+Mecanismos de Segurança;Firewall; e Redes privativas virtuais.
+
+
+Básica:\\
+Nakamura, Emilio T.; Geus, Paulo L. Segurança de Redes em Ambientes
+Coorporativos. São Paulo: Editora Novatec , 2007. \\
+Burnett, Steve; Paine, Stephen. Criptografia e Segurança. O Guia Oficial
+RSA. 1. ed. Rio de Janeiro: Editora Campos, 2002.\\
+Stallings, William. Cryptography and network security: principles and
+practices. 14. ed. London: Pearson Prentice Hall, 2006.\\
+Complementar:\\
+Kurose, James F.; Ross, Keith W. Redes de computadores e a internet: uma
+abordagem top-down. 3. Edição. São Paulo: Pearson Addison Wesley, 2008.\\
+Tanenbaum, Andrew S. Redes de computadores. 4. Edição. Rio de Janeiro:
+Editora Campus, 2002. \\
+COMER, Douglas E. Interligação de Redes com TCP/IP, Volumes I,II 5.
+Edição. Prentice Hall, 2006.
+
+---
+
+DISCIPLINA: Tópicos Avançados em Redes e Sistemas Distribuídos CÓDIGO:\\ 
+DEPARTAMENTO: Unidade Acadêmica de Garanhuns\\ 
+ÁREA: \\ 
+CARGA HORÁRIA TOTAL: 60 HORAS NÚMERO DE CRÉDITOS: 04\\
+CARGA HORÁRIA SEMANAL: TEÓRICAS: 3 PRÁTICAS: TOTAL: 1 \\
+PRÉ-REQUISITOS: Sistemas Distribuídos\\
+CO-REQUISITOS: não há
+
+EMENTA 
+
+Estudo de técnicas avançadas em Redes de Computadores e Sistemas
+Distribuídos permitindo ao aluno conhecer o estado da arte nesta área
+de pesquisa.
+
+
+Básica:\\
+Ad Hoc NetworksACM Transactions on Computer SystemsDistributed
+Computing Distributed Computing (Internet)\\
+Complementar:\\
+Computational \& Applied MathematicsComputer Communication Review;
+Computer Communications\\
+
+
+\section*{Área Temática: Tecnologia Educacional}
+
+---
+
+DISCIPLINA: Desenvolvimento de Software Educacional CÓDIGO:\\
+DEPARTAMENTO: Unidade Acadêmica de Garanhuns\\
+ÁREA: \\
+CARGA HORÁRIA TOTAL: 60 HORAS NÚMERO DE CRÉDITOS: 04\\
+CARGA HORÁRIA SEMANAL: TEÓRICAS: PRÁTICAS: TOTAL: \\
+PRÉ-REQUISITOS: Engenharia de Software\\
+CO-REQUISITOS: não há
+
+EMENTA 
+
+O computador no processo ensino-aprendizagem; Concepções de
+conhecimento e Teorias Cognitivas. Qualidade de software
+(produto) e qualidade no desenvolvimento (processo). Modelos de
+avaliação de softwares educacionais. Etapas para o
+desenvolvimento de um software educacional (ciclo de vida).
+
+
+Básica:\\
+BARBOSA, S. D. J.; Silva, B. S. Interação Humano-Computador. Rio de
+Janeiro: Elservier, 2010.\\
+PREECE, Rogers e Sharp; Design de Interação  Além da Interação
+Homem-computador. São Paulo: Bookman, 2005.\\
+MAYER. R, Cambridge Handbook of Multimedia Learning. New York: Cambridge
+University Press, 2005\\
+Complementar:\\
+COX, Kenia. Informática na Educação Escolar, Autores Associados, 2003.\\
+LEVY, Pierre. Cibercultura, Editora 34, 1999.\\
+RBIE -- Revista Brasileira de Informática na Educação ISSN 1414-5685\\
+RENOTE -- Revista Novas Tecnologias na Educação ISSN 1679-1916.
+
+---
+
+DISCIPLINA: Informática na Educação CÓDIGO:\\ 
+DEPARTAMENTO: Unidade Acadêmica de Garanhuns\\
+ÁREA: \\
+CARGA HORÁRIA TOTAL: 60 HORAS NÚMERO DE CRÉDITOS: 04\\
+CARGA HORÁRIA SEMANAL: TEÓRICAS: PRÁTICAS: TOTAL:\\
+PRÉ-REQUISITOS: Introdução a Ciência da Computação\\
+CO-REQUISITOS: não há
+
+EMENTA 
+
+Motivação e discussão crítica sobre o uso da informática na educação,
+incluindo conhecimento sobre assuntos atuais; Histórico da informática
+na educação; Ambientes educacionais baseados em computador; As
+implicações pedagógicas e sociais do uso da informática na educação;
+Informática na educação especial, na educação à distância e no
+aprendizado cooperativo.
+
+
+Básica:\\
+FRANCO, Sergio R.K. Informática na Educação: Estudos Interdisciplinares.
+Editora da UFRGS, 2004\\
+LEVY, Pierre -- As tecnologias da Inteligência- O futuro do pensamento
+na era da informática. São Paulo: Editora 34, 2004, 13a. Edição.\\
+PAPERT, Seymour. A máquina das crianças: repensando a escola na era da
+informática. Porto Alegre: Artes Médicas, 1994.\\
+Complementar:\\
+COX, Kenia. Informática na Educação Escolar, Autores Associados, 2003.\\
+LEVY, Pierre. Cibercultura, Editora 34, 1999.\\
+RBIE -- Revista Brasileira de Informática na Educação ISSN 1414-5685\\
+RENOTE -- Revista Novas Tecnologias na Educação ISSN 1679-1916.
+
+---
+
+DISCIPLINA: Linguagem Brasileira de Sinais CÓDIGO:\\ 
+DEPARTAMENTO: Unidade Acadêmica de Garanhuns\\
+ÁREA: \\
+CARGA HORÁRIA TOTAL: 60 HORAS NÚMERO DE CRÉDITOS: 04\\
+CARGA HORÁRIA SEMANAL: TEÓRICAS: PRÁTICAS: TOTAL: \\
+PRÉ-REQUISITOS: não há\\
+CO-REQUISITOS: não há
+
+EMENTA 
+
+Abordagem social e lingüística da Surdez e do mundo dos Surdos com
+ênfase nos aspectos específicos da Língua Brasileira de Sinais --
+LIBRAS. Surdez, linguagem e sociedade, contextos sociais, históricos e
+políticos, Comunidade, cultura, identidade, representação e alteridade Surda 
+Estrutura lingüística e gramatical da LIBRAS, com produção de diálogos e
+textos.
+
+
+Básica:\\
+BRITO, Lucinda Ferreira (Org.). Brasil, Secretaria de Educação Especial.
+Língua Brasileira de Sinais. Volume III. Série Atualidades Pedagógicas,
+n. 4. Brasília EC/SCESP, 1998\\
+FELIPE, Tanya Amara. Libras em contexto -- Curso Básico. Rio de Janeiro
+MEC/FNDE/SEESP, 1999.\\
+FERNANDES,Eulália. Linguagem e surdez. Porto Alegre: Artmed, 2003\\
+Complementar:\\
+BERNARDINO, Elidéa Lúcia. Absurdo ou lógica? A produção lingüística do
+surdo. Belo Horizonte , Editora Profetizando vidas, 2000\\
+OARES, Maria Aparecida Leite. Educação de Surdos no Brasil.
+SãoPaulo:EDUSF ; Autores Associados, 1999\\
+SKILIAR, Carlos (Org.). Educação e Exclusão: Abordagens Sócio 
+Antropológicas em Educação Especial. Porto Alegre: Mediação, 1999\\
+SOARES, Maria Aparecida Leite. Educação de Surdos no Brasil. São Paulo:
+EDUSF, Autores Associados, 1999.
+
+---
+
+DISCIPLINA: Projeto de Sistemas Educacionais CÓDIGO:\\ 
+DEPARTAMENTO: Unidade Acadêmica de Garanhuns\\
+ÁREA: \\
+CARGA HORÁRIA TOTAL: 60 HORAS NÚMERO DE CRÉDITOS: 04\\
+CARGA HORÁRIA SEMANAL: TEÓRICAS: PRÁTICAS: TOTAL: \\
+PRÉ-REQUISITOS: Engenharia de Software\\
+CO-REQUISITOS: não há
+
+EMENTA 
+
+Revisão de tópicos da Engenharia de Software; Introdução à
+Sistemas e Ciclo de Vida de um Sistema de Informação;  
+Necessidades Básicas para o Desenvolvimento de Sistemas Educacionais; Elicitação e Validação de Requisitos para Desenvolvimento de
+Sistemas Educacionais.
+
+
+Básica:\\
+SOMMERVILLE, Ian. Engenharia de Software. ISBN.: 8588639076. Addison --
+Wesley.\\
+BARBOSA, S. D. J.; Silva, B. S. Interação Humano-Computador. Rio de
+Janeiro: Elservier, 2010.\\
+MAYER. R, Cambridge Handbook of Multimedia Learning. New York: Cambridge
+University Press, 2005\\
+Complementar:\\
+COX, Kenia. Informática na Educação Escolar, Autores Associados, 2003.\\
+LEVY, Pierre. Cibercultura, Editora 34, 1999.\\
+RBIE -- Revista Brasileira de Informática na Educação ISSN 1414-5685\\
+RENOTE -- Revista Novas Tecnologias na Educação ISSN 1679-1916.\\
+
+---
+
+DISCIPLINA: Tecnologia Educacional e Cognição CÓDIGO:\\ 
+DEPARTAMENTO: Unidade Acadêmica de Garanhuns\\
+ÁREA: \\
+CARGA HORÁRIA TOTAL: 60 HORAS NÚMERO DE CRÉDITOS: 04\\
+CARGA HORÁRIA SEMANAL: TEÓRICAS: PRÁTICAS: TOTAL: \\
+PRÉ-REQUISITOS: Introdução a Ciência da Computação\\
+CO-REQUISITOS: não há
+
+EMENTA 
+
+Diferentes concepções de Aprendizagem; Teoria behaviorista, humanistas e
+cognitivistas da aprendizagem e suas implicações para Informática na
+Educação.
+
+
+Básica:\\
+COLL, Cesar. PALACIOS, Jesus. MARCHESI, Alvaro (org.). Desenvolvimento
+psicológico e educação: psicologia da educação. Porto Alegre: Artes
+Medicas, 1996. 460p. v. 1\\
+COLL, Cesar. PALACIOS, Jesus. MARCHESI, Alvaro (org.). Desenvolvimento
+psicológico e educação: psicologia da educação. Porto Alegre: Artes
+Medicas, 1996. 460p. v. 2.\\
+MOREIRA, Marco. Teorias de aprendizagem. São Paulo: EPU, 1999.\\
+Complementar:\\
+COX, Kenia. Informática na Educação Escolar, Autores Associados, 2003.\\
+LEVY, Pierre. Cibercultura, Editora 34, 1999.\\
+RBIE -- Revista Brasileira de Informática na Educação ISSN 1414-5685\\
+RENOTE -- Revista Novas Tecnologias na Educação ISSN 1679-1916.
+
+---
+
+DISCIPLINA: Tópicos Especiais em Tecnologia Educacional CÓDIGO:\\ 
+DEPARTAMENTO: Unidade Acadêmica de Garanhuns\\ 
+ÁREA: \\
+CARGA HORÁRIA TOTAL: 60 HORAS NÚMERO DE CRÉDITOS: 04\\
+CARGA HORÁRIA SEMANAL: TEÓRICAS: PRÁTICAS: TOTAL: \\
+PRÉ-REQUISITOS: Introdução a Ciência da Computação\\
+CO-REQUISITOS: não há
+
+EMENTA 
+
+Estudo de teorias de aprendizagem multimídia. Elaboração de projetos
+pedagógicos utilizando recursos digitais. Novas tecnologias da
+informação aplicadas ao ensino formal e informal.
+
+
+Básica:\\
+FRANCO, Sergio R.K. Informática na Educação: Estudos Interdisciplinares.
+Editora da UFRGS, 2004\\
+LEVY, Pierre -- As tecnologias da Inteligência- O futuro do pensamento
+na era da informática. São Paulo: Editora 34, 2004, 13a. Edição.\\
+PAPERT, Seymour. A máquina das crianças: repensando a escola na era da
+informática. Porto Alegre: Artes Médicas, 1994.\\
+Complementar:\\
+ARAUJO, Alberto.E.P. Apostila de Informática na Educação I. UFRPE.
+2008.\\
+COX, Kenia. Informática na Educação Escolar, Autores Associados, 2003.\\
+LEVY, Pierre. Cibercultura, Editora 34, 1999.\\
+RBIE -- Revista Brasileira de Informática na Educação ISSN 1414-5685\\
+RENOTE -- Revista Novas Tecnologias na Educação ISSN 1679-1916.
+\newpage
+
+\section*{Área Temática: Tecnologias da Informação}
+
+---
+
+DISCIPLINA: Gestão da Tecnologia da Informação CÓDIGO:\\ 
+DEPARTAMENTO: Unidade Acadêmica de Garanhuns\\
+ÁREA: \\
+CARGA HORÁRIA TOTAL: 60 HORAS NÚMERO DE CRÉDITOS: 04\\
+CARGA HORÁRIA SEMANAL: TEÓRICAS: PRÁTICAS: TOTAL: \\
+PRÉ-REQUISITOS: Sistemas de Informação e Tecnologias\\
+CO-REQUISITOS: não há
+
+EMENTA 
+
+Estratégia empresarial . Alinhamento estratégico; Processo de aquisição
+e de implementação de sistemas; Desenvolvimento interno, outsourcing,
+Software as a Service; Acordos de nível de serviço. Arquitetura
+orientada a serviço; Tópicos em segurança da informação, falhas em SIs;
+continuidade do negócio; Risco em TI; Uso de tecnologias de
+Virtualização, datacenter; cloud computing; Valor da TI; Retorno sobre
+investimento. Impactos da TI nos indivíduos, organizações. Questões
+éticas.
+
+
+Básica:\\
+TURBAN, E.; MCLEAN, E; WETHERBE, J. Tecnologia da Informação para
+Gestão. Transformando os Negócios na Economia Digital. Tradução de
+Renate Schinke. Revisão técnica de Ângela F. Brodbeck. Porto Alegre:
+Bookman, 2004.\\
+MAGALHÃES, Ivan Luizio; PINHEIRO, Walfrido Brito. Gerenciamento de
+Serviços de TI na Prática  Uma abordagem com base na ITIL. São
+Paulo: Novatec, 2007.\\
+Complementar:\\
+Artigos de conferências e periódicos da área.
+
+---
+
+DISCIPLINA: Gestão de Processos de Negócio CÓDIGO:\\ 
+DEPARTAMENTO: Unidade Acadêmica de Garanhuns\\
+ÁREA: \\
+CARGA HORÁRIA TOTAL: 60 HORAS NÚMERO DE CRÉDITOS: 04\\
+CARGA HORÁRIA SEMANAL: TEÓRICAS: PRÁTICAS: TOTAL: \\
+PRÉ-REQUISITOS: Sistemas de Informação e Tecnologias\\
+CO-REQUISITOS: não há
+
+EMENTA 
+
+Contextualizando o gerenciamento de processos. Conceitos de processos.
+Engenharia de Processos de Negócios: Desenho, Ferramentas,
+Metodologias, Suporte de TI para Engenharia de Processos. Sistemas de
+Informação e os processos organizacionais. A prática da modelagem de
+processos. BPM e BPMS;Conceitos básicos: ciclo de vida de BPM; BPMS e
+serviços Web; Modelagem de processos: BPMN.
+
+
+Básica:\\
+BALDAM R. et al. Gerenciamento de Processos de Negócio. São Paulo:
+Érica, 2008, 240 p.\\
+DAVENPORT, H. T. Reengenharia de processos: como inovar na empresa
+através de tecnologia de informação. Rio de Janeiro, Campus, 1994, 391
+p.\\
+PAIM, R.,et aL. Gestão de Processos: Pensar, Agir e Aprender, Porto
+Alegre: Bookman, 2009, 327 p.\\
+Complementar:\\
+VALLE, R.; OLIVEIRA, B. S. Análise e Modelagem de Processos de Negócio
+-- Foco na notação BPMN. São Paulo: Atlas, 2009, 207 p.\\
+BURLTON, Roger. Business Process Management: profiting from process.
+Indianapolis: Sams Publishing, 2001.
+
+---
+
+DISCIPLINA: Gestão de Serviços em TI CÓDIGO:\\ 
+DEPARTAMENTO: Unidade Acadêmica de Garanhuns\\
+ÁREA: \\
+CARGA HORÁRIA TOTAL: 60 HORAS NÚMERO DE CRÉDITOS: 04\\
+CARGA HORÁRIA SEMANAL: TEÓRICAS: PRÁTICAS: TOTAL: \\
+PRÉ-REQUISITOS: Sistemas de Informação e Tecnologias\\
+CO-REQUISITOS: não há
+
+EMENTA 
+
+Conceitos do que é um Serviço. Características do Serviço. Governança de
+TI e Gerenciamento de Serviços. Gestão estratégica e tática de serviços
+de TI. Acordos de nível de serviço. Gerenciamento de serviços com base
+no conjunto de melhores práticas baseado no ITIL (Information
+Technology Infrastructure Library Biblioteca de Infra-estrutura de
+Tecnologia da Informação) que identifica o relacionamento das diversas
+atividades necessárias para entrega e suporte dos serviços de TI.
+Ferramentas de apoio ao gerenciamento de serviços. Elaboração de
+Projeto.
+
+
+Básica:\\
+JANDER, M. , STURM , R. e MORRIS , W. Service Level Management 
+Fundamentos Do Gerenciamento De Níveis De Serviço. São Paulo: Campus,
+2000.\\
+REIS, A. Alinhamento da estratégia de Ti com a estratégia corporativa;
+São Paulo: Atlas, 2003.\\
+MAGALHÃES, Ivan Luizio; PINHEIRO, Walfrido Brito. Gerenciamento de
+Serviços de TI na Prática  Uma abordagem com base na ITIL. São
+Paulo: Novatec, 2007.\\
+Complementar:\\
+Artigos de conferências e periódicos da área.
+
+---
+
+DISCIPLINA: Governança em Tecnologia da Informação CÓDIGO:\\ 
+DEPARTAMENTO: Unidade Acadêmica de Garanhuns\\ 
+ÁREA: \\
+CARGA HORÁRIA TOTAL: 60 HORAS NÚMERO DE CRÉDITOS: 04\\
+CARGA HORÁRIA SEMANAL: TEÓRICAS: PRÁTICAS: TOTAL: \\
+PRÉ-REQUISITOS: Sistemas de Informação e Tecnologias\\
+CO-REQUISITOS: não há
+
+EMENTA 
+
+Planejamento Estratégico; Alinhamento estratégico. Decisões Estratégicas
+de TI. Governança Corporativa e Governança de TI. Arquétipos de TI para
+alocação de direitos decisórios. Mecanismos para implantar a Governança
+de TI. Tipos de governança. Associação da Estratégia, da Governança e o
+Desempenho. Princípios de Liderança para governança de TI. Normas,
+processos e indicadores de desempenho para a área de TI. Modelos de
+apoio para Governança de TI: COBIT (Control Objectives for Information
+and Related Technology); ITIL (Information Technology Infrastructure
+Library); BSC (Balanced Scorecard). Estruturação de um plano de
+implantação de um modelo de governança de TI. A norma ISO 20000.
+
+
+Básica:\\
+WEILL, Peter; ROSS, Jeanne W. Governança de TI: Tecnologia da
+Informação. São Paulo: Makron Books, 2006.\\
+MAGALHÃES, Ivan Luizio; PINHEIRO, Walfrido Brito. Gerenciamento de
+Serviços de TI na Prática  Uma abordagem com base na ITIL. São
+Paulo: Novatec, 2007.\\
+FERNANDES, Aguinaldo Aragon; ABREU, Vladimir Ferraz. Implantando a
+Governança de TI -- da Estratégia à Gestão dos Processos e Serviços.
+Rio de Janeiro: Brasport, 2006.\\
+Complementar:\\
+Artigos de conferências e periódicos da área.
+
+---
+
+DISCIPLINA: Contabilidade e Administração de Empresas CÓDIGO:\\ 
+DEPARTAMENTO: Unidade Acadêmica de Garanhuns\\
+ÁREA: \\
+CARGA HORÁRIA TOTAL: 60 HORAS NÚMERO DE CRÉDITOS: 04\\
+CARGA HORÁRIA SEMANAL: TEÓRICAS: PRÁTICAS: TOTAL: \\
+PRÉ-REQUISITOS: não há\\
+CO-REQUISITOS: não há
+
+EMENTA 
+
+Empreendedorismo; Características; Oportunidades; Desenvolvimento de
+Atitudes Empreendedoras. Novos Paradigmas. Administração do Crescimento
+da Empresa. Prospecção Empresarial. Plano de Negócio. Inovação e
+Criatividade. Modelagem Organizacional. Pesquisa de Mercado. Técnicas
+de Venda. Técnicas de Negociação. Qualidade. Formação de Preços.
+Ferramentas Gerenciais.
+
+
+Básica:
+DOLABELA, Fernando. Oficina do empreendedor. São Paulo: Cultura, 1999.\\
+MATTAR, Fauze Najib. Pesquisa de marketing. 2. ed., São Paulo: Atlas,
+2000.\\
+MONTGOMERY, Cynthia A.; PORTER, Michael (Org.). Estratégia: a busca da
+vantagem competitiva. 5. ed., Rio de Janeiro: Campus, 2000.
+Complementar:\\
+BEEMER, C. Britt; SHOOK, Robert L. Marketing estratégico: tudo o que
+mega e micro empresários devem saber para conquistar novos clientes.
+São Paulo: Futura, 1998.\\
+ÂNGELO, Cláudio Felisoni de (Coord.). Varejo: modernização e
+perspectivas. São Paulo: Atlas, 1994.
+
+---
+
+DISCIPLINA: Contabilidade e Administração Financeira CÓDIGO:\\ 
+DEPARTAMENTO: Unidade Acadêmica de Garanhuns\\
+ÁREA: \\
+CARGA HORÁRIA TOTAL: 60 HORAS NÚMERO DE CRÉDITOS: 04\\
+CARGA HORÁRIA SEMANAL: TEÓRICAS: PRÁTICAS: TOTAL: \\
+PRÉ-REQUISITOS: não há\\
+CO-REQUISITOS: não há
+
+EMENTA 
+
+Administração de capital de giro. Administração de caixa e títulos
+negociáveis. Administração de duplicatas a receber e do estoque. Fontes
+de Financiamento em curto prazo. Fontes de financiamento com garantia
+de curto prazo.
+
+
+ASSAF, Neto Alexandre. Administração de Capital de Giro. São Paulo:
+Atlas, 1999.\\
+ASSEF, Roberto. Guia prático de administração financeira. RJ: Campus,
+2003.\\
+BRAGA, Roberto. Fund. e técnicas de administração financeira. SP:Atlas,
+1998.\\
+BRIGHAM, Eugene F. \& HOUSTON, Joel F. Fundamentos da moderna
+administração financeira. Rio de Janeiro : Campus, 1999.\\
+CROSWFORD, Richard. Na era do capital Humano: o talento, a inteligência
+e o conhecimento como forças econômicas, seu impacto nas empresas e nas
+decisões de investimento. São Paulo: Atlas, 2000.
+
+---
+
+DISCIPLINA: Tópicos Especiais em Gestão de Projetos CÓDIGO:\\ 
+DEPARTAMENTO: Unidade Acadêmica de Garanhuns\\ ÁREA: \\
+CARGA HORÁRIA TOTAL: 60 HORAS NÚMERO DE CRÉDITOS: 04\\
+CARGA HORÁRIA SEMANAL: TEÓRICAS: PRÁTICAS: TOTAL: \\
+PRÉ-REQUISITOS: Engenharia de Software\\
+CO-REQUISITOS: não há
+
+EMENTA 
+
+Breve histórico da evolução do gerenciamento de projetos; Modelos de
+gerenciamento de projetos: Revisão PMBoK e dos conceitos de
+metodologias ágeis; Categorização de projetos.Modelos de Maturidade.
+Inovação, complexidade e incerteza em projetos. Sustentabilidade em
+projetos. Projetos globais. Ferramentas de gerenciamento de projetos.
+Apresentação das áreas de pesquisa em projetos.
+
+
+Básica:\\
+Artigos de conferências e periódicos da área.\\
+Complementar:\\
+Periódicos.
