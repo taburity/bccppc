@@ -12,5 +12,6 @@
 *.brf
 *.bbl
 *.aux
+*.pdf
 *.autosave
 *~
